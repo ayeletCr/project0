@@ -1,0 +1,220 @@
+#!/bin/env php
+<?php
+
+    // constants
+    define('DSN', 'mysql:dbname=jharvard_project0;host=127.0.0.1');
+    define('PASSWORD', 'crimson');
+    define('USER', 'jharvard');
+
+    // ensure proper usage
+    if ($argc != 2)
+        die("Usage: import courses.xml\n");
+
+    // connect to database
+    try
+    {
+        $dbh = new PDO(DSN, USER, PASSWORD);
+    }
+    catch (PDOException $e)
+    {
+        die($e->getMessage() . "\n");
+    }
+
+    // load XML
+    $dom = simplexml_load_file($argv[1]);
+    if ($dom === false)
+        die("Could not read {$argv[1]}\n");
+
+    // begin transaction
+    $dbh->beginTransaction();
+
+    // flush database
+    $dbh->query('DELETE FROM course_instructors');
+    $dbh->query('DELETE FROM courses');
+    $dbh->query('DELETE FROM instructors');
+    $dbh->query('DELETE FROM departments');
+    $dbh->query('DELETE FROM schedule');
+    
+    // iterate over courses
+    foreach ($dom->course as $course)
+    {
+        // only import Spring 2012 courses
+        if ($course['acad_year'] != '2011' || $course->term['spring_term'] != 'Y')
+            continue;
+
+        // extract values
+        $cat_num = (string) $course['cat_num'];
+        $course_group = (string) $course->course_group['code'];
+        $num_int = (string) $course->course_number->num_int;
+        $num_char = (string) $course->course_number->num_char;
+        $title = (string) $course->title;
+        $description = (string) $course->description;
+        $notes = (string) $course->notes;
+    
+        // remember department
+        $departments[(string) $course->department['code']] = (string) $course->department->dept_short_name;
+
+        // remember course group
+        $course_groups[(string) $course->course_group['code']] = (string) $course->course_group;
+
+        // prepare statement
+        $sth = $dbh->prepare('INSERT INTO courses (cat_num, course_group, num_int, num_char, title, description, notes) ' .
+         'VALUES(:cat_num, :course_group, :num_int, :num_char, :title, :description, :notes)');
+
+        // prepare fields
+        $fields = array(
+         'cat_num' => $cat_num,
+         'course_group' => $course_group,
+         'num_int' => (empty($num_int)) ? null : $num_int,
+         'num_char' => (empty($num_char)) ? null : $num_char,
+         'title' => $title,
+         'description' => (empty($description)) ? null : $description,
+         'notes' => (empty($notes)) ? null : $notes
+         );
+
+        // execute statement
+        if ($sth->execute($fields) === false)
+        {
+            $dbh->rollback();
+            die(print_r($sth->errorInfo(), true));
+        }
+
+//
+        $course_group = (string) $course->course_group['code'];
+        $department = (string) $course->department['code'];
+        $dept_long_name = (string) $course->department->dept_long_name;
+        $dept_short_name = (string) $course->department->dept_short_name;
+
+        $sth = $dbh->prepare('INSERT IGNORE INTO departments (course_group, department, dept_long_name, dept_short_name) ' .
+         'VALUES(:course_group, :department, :dept_long_name, :dept_short_name)');
+
+        $fields = array(
+         'course_group' => $course_group,
+         'department' => $department,
+         'dept_long_name' => $dept_long_name,
+         'dept_short_name' => $dept_short_name
+        );
+
+        if ($sth->execute($fields) === false)
+        {
+            $dbh->rollback();
+            die(print_r($sth->errorInfo(), true));
+        }
+//
+
+
+        // iterate over faculty
+        foreach ($course->faculty_list->faculty as $faculty)
+        {
+            // only import Spring 2012 faculty
+            if ($faculty['term'] != '2')
+                continue;
+
+            // extract values
+            $id = (string) $faculty['id'];
+            $prefix = (string) $faculty->name->prefix;
+            $first = (string) $faculty->name->first;
+            $middle = (string) $faculty->name->middle;
+            $last = (string) $faculty->name->last;
+            $suffix = (string) $faculty->name->suffix;
+            
+            // prepare statement
+            $sth = $dbh->prepare('INSERT IGNORE INTO instructors (id, prefix, first, middle, last, suffix) VALUES(:id, :prefix, :first, :middle, :last, :suffix)');
+
+            // prepare fields
+            $fields = array(
+             'id' => $id,
+             'prefix' => (empty($prefix)) ? null : $prefix,
+             'first' => $first,
+             'middle' => (empty($middle)) ? null : $middle,
+             'last' => $last,
+             'suffix' => (empty($suffix)) ? null : $suffix
+             );
+
+            // execute statement
+            if ($sth->execute($fields) === false)
+            {
+                $dbh->rollback();
+                die(print_r($sth->errorInfo(), true));
+            }
+
+            // prepare statement
+            $sth = $dbh->prepare('INSERT IGNORE INTO course_instructors (cat_num, instructor_id) ' .
+             'VALUES(:cat_num, :instructor_id)');
+
+            // prepare fields
+            $fields = array(
+             'cat_num' => $cat_num,
+             'instructor_id' => $id
+             );
+
+            // execute statement
+            if ($sth->execute($fields) === false)
+            {
+                $dbh->rollback();
+                die(print_r($sth->errorInfo(), true));
+            }
+        }
+        
+
+//
+        foreach ($course->schedule->meeting as $schedule)
+        {
+            if ($schedule['term'] != '2')
+                continue;
+        
+            $cat_num = (string) $course['cat_num'];
+            $day = (string) $schedule['day'];
+            $begin_time = (string) $schedule['begin_time'];
+            $end_time = (string) $schedule['end_time'];
+        
+            $sth = $dbh->prepare('INSERT INTO schedule (cat_num, day, begin_time, end_time) VALUES(:cat_num, :day, :begin_time, :end_time)');
+
+            $fields = array(
+             'cat_num' => $cat_num,
+             'day' => $day,
+             'begin_time' => $begin_time,
+             'end_time' => $end_time
+            );
+        
+            if ($sth->execute($fields) === false)
+            {
+                $dbh->rollback();
+                die(print_r($sth->errorInfo(), true));
+            }    
+        }
+        foreach ($course->meeting_locations->location as $location)
+        {
+            if ($location['term'] != '2')
+                continue;
+        
+            $cat_num = (string) $course['cat_num'];
+            $building = (string) $location['building'];
+            $room = (string) $location['room'];
+        
+            $sth = $dbh->prepare('INSERT INTO locations (cat_num, building, room) 
+             VALUES(:cat_num, :building, :room)');
+
+            $fields = array(
+             'cat_num' => $cat_num,
+             'building' => $building,
+             'room' => $room
+            );
+        
+            if ($sth->execute($fields) === false)
+            {
+                $dbh->rollback();
+                die(print_r($sth->errorInfo(), true));
+            }    
+        }
+
+
+//
+
+        
+    }
+
+    // commit INSERTs
+    $dbh->commit();
+
+?>
