@@ -8,7 +8,7 @@
     <script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
   </head>
   <body>
-  <div data-role="pages">
+  <div data-role="page">
     
     <div data-role="header">
       <a href="/" data-icon="home" data-iconpos="notext" data-transition="fade">Home</a>
