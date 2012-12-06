@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'test';
-$db['default']['password'] = 'test';
-$db['default']['database'] = 'ayelet0';
+$db['default']['username'] = 'jharvard';
+$db['default']['password'] = 'crimson';
+$db['default']['database'] = 'jharvard_project0';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;

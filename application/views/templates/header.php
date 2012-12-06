@@ -12,5 +12,5 @@
 
     <div data-role="header">
       <a href="<?php echo $this->config->item('base_url') ?>" data-icon="home" data-iconpos="notext" data-transition="fade">Home</a>
-      <h1><?php echo urldecode($title) ?></h1>
+      <h1><?php echo html_escape(urldecode($title)) ?></h1>
     </div>

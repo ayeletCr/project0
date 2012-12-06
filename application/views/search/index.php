@@ -1,4 +1,4 @@
-<form action="search/result" method="get" >
+<form action="<?php echo $this->config->item('base_url') ?>search/result" method="get" >
   <div>
     <ul data-role="listview">
       <li>Keyword:</li>
