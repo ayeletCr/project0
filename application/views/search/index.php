@@ -85,8 +85,8 @@
     </select>
     <select name="am_pm_end" id="am_pm_end" data-native-menu="false">
       <option value="0">AM/PM</option>
-      <option value="am">AM</option>
-      <option value="pm">PM</option>
+      <option value="1">AM</option>
+      <option value="2">PM</option>
     </select>
   </div>
   <input type="submit" value="Search" data-inline="true" />

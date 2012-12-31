@@ -70,6 +70,14 @@
       $this->db->where('instructor_id', $instructor);
       return $this->db->get()->result();
     }
+  
+    public function get_courses_taking($id) {
+      
+      $this->db->select('cat_num');
+      $this->db->from('user_lists');
+      $this->db->where('id', $id);
+      return $this->db->get()->result();
+    }
   }
 
 

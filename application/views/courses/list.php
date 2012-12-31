@@ -1,7 +1,9 @@
-<?php
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-?>
+<ul data-role="listview" data-filter="true">
+  <?php if ($courses == 'none'): ?>
+    No courses found.
+  <?php else: ?>
+    <?php foreach ($courses as $course): ?> 
+      <li><a href="<?php echo $this->config->item('base_url') ?>courses/course/<?= html_escape($course->cat_num) ?>" ><?= html_escape($course->title) ?></a></li>
+    <?php endforeach ?>
+  <?php endif ?>
+</ul>
