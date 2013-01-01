@@ -208,7 +208,7 @@ CREATE TABLE `users` (
   `username` varchar(20) NOT NULL,
   `password` varchar(20) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -217,7 +217,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'1','c4ca4238a0b923820dcc'),(2,'2','$1$p0shGwGi$dzdMwozr'),(3,'3','3$xbfh.Y4Y5U2');
+INSERT INTO `users` VALUES (1,'1','c4ca4238a0b923820dcc'),(2,'2','$1$p0shGwGi$dzdMwozr'),(3,'3','3$xbfh.Y4Y5U2'),(4,'4','4$wtEvMhDUfqw');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -230,4 +230,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2012-12-31 13:37:50
+-- Dump completed on 2012-12-31 20:50:21

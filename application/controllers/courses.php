@@ -1,25 +1,21 @@
 <?php
 
   class Courses extends CI_Controller {
-  
-    public function index() {
-      
-    }
     
     public function course($courses) {
+
       $this->load->model('Course');
       $this->load->model('Instructor');
       $this->load->model('Schedule');
       $this->load->model('Location');
       $this->load->model('Department');
-      $this->load->helper(array('form', 'url'));
-      $this->load->library('form_validation');
       
       $courses = urldecode($courses);
       $course = $this->Course->get_courses($courses, 'course');
       $departments = $this->Department->get_departments($course[0]->course_group);
       $instructors = $this->Instructor->get_instructors($courses);
       $schedules = $this->Schedule->get_schedules($courses);
+      
       if ($schedules) {
         foreach($schedules as $schedule) {
           $schedule->day = $this->map_day($schedule->day);
@@ -31,18 +27,13 @@
       $history = array($course[0]->cat_num);
       if ($history) {
         if ($this->session->userdata('history')) {
-          //$this->session->set_userdata('list', $history);
           $session_history = $this->session->userdata('history');
-          //$this->session->set_userdata('list2', $course[0]->cat_num);
           $history = array_merge($session_history, $history);
-          //$this->session->set_userdata('list3', $history);
-          //$this->session->set_userdata('list4', $session_history);
         }
         $this->session->set_userdata('history', $history);
       }
       $this->session->set_userdata('last_page', 'courses/course/' . $course[0]->cat_num);
       
-      //$this->load->view('templates/header', array('title' => $course[0]->title));
       $this->load->view('courses/course', array(
           'title' => $course[0]->title,
           'course' => $course, 
@@ -72,5 +63,4 @@
       }
       return $names;
     }
-
   }

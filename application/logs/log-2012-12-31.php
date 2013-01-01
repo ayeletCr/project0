@@ -13573,3 +13573,7878 @@ DEBUG - 2012-12-31 13:32:51 --> File loaded: ../application/views/courses/course
 DEBUG - 2012-12-31 13:32:51 --> File loaded: ../application/views/templates/footer.php
 DEBUG - 2012-12-31 13:32:51 --> Final output sent to browser
 DEBUG - 2012-12-31 13:32:51 --> Total execution time: 0.2107
+DEBUG - 2012-12-31 13:39:21 --> Config Class Initialized
+DEBUG - 2012-12-31 13:39:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:39:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:39:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:39:21 --> URI Class Initialized
+DEBUG - 2012-12-31 13:39:21 --> Router Class Initialized
+ERROR - 2012-12-31 13:39:21 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:39:23 --> Config Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:39:23 --> URI Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Router Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Output Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Security Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Input Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:39:23 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:39:23 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:39:23 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:39:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:39:23 --> Language Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:39:23 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Session Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:39:23 --> Session routines successfully run
+DEBUG - 2012-12-31 13:39:23 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:23 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 13:39:23 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 13:39:23 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:39:23 --> Final output sent to browser
+DEBUG - 2012-12-31 13:39:23 --> Total execution time: 0.2434
+DEBUG - 2012-12-31 13:39:25 --> Config Class Initialized
+DEBUG - 2012-12-31 13:39:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:39:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:39:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:39:25 --> URI Class Initialized
+DEBUG - 2012-12-31 13:39:25 --> Router Class Initialized
+ERROR - 2012-12-31 13:39:25 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:39:26 --> Config Class Initialized
+DEBUG - 2012-12-31 13:39:26 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:39:26 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:39:26 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:39:26 --> URI Class Initialized
+DEBUG - 2012-12-31 13:39:26 --> Router Class Initialized
+ERROR - 2012-12-31 13:39:26 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:39:31 --> Config Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:39:31 --> URI Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Router Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Output Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Security Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Input Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:39:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:39:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:39:31 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:39:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:39:31 --> Language Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:39:31 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Session Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:39:31 --> Session routines successfully run
+DEBUG - 2012-12-31 13:39:31 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 13:39:31 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 13:39:31 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 13:39:31 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:39:31 --> Final output sent to browser
+DEBUG - 2012-12-31 13:39:31 --> Total execution time: 0.2991
+DEBUG - 2012-12-31 13:39:33 --> Config Class Initialized
+DEBUG - 2012-12-31 13:39:33 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:39:33 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:39:33 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:39:33 --> URI Class Initialized
+DEBUG - 2012-12-31 13:39:33 --> Router Class Initialized
+ERROR - 2012-12-31 13:39:33 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:39:45 --> Config Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:39:45 --> URI Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Router Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Output Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Security Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Input Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:39:45 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:39:45 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:39:45 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:39:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:39:45 --> Language Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:39:45 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Session Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:39:45 --> Session routines successfully run
+DEBUG - 2012-12-31 13:39:45 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Model Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 13:39:45 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 13:39:45 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 13:39:45 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:39:45 --> Final output sent to browser
+DEBUG - 2012-12-31 13:39:45 --> Total execution time: 0.1936
+DEBUG - 2012-12-31 13:40:01 --> Config Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:40:01 --> URI Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Router Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Output Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Security Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Input Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:01 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:01 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:01 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:40:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:40:01 --> Language Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:40:01 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Config Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:40:01 --> URI Class Initialized
+DEBUG - 2012-12-31 13:40:01 --> Router Class Initialized
+ERROR - 2012-12-31 13:40:01 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:40:01 --> Session Class Initialized
+DEBUG - 2012-12-31 13:40:02 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:40:02 --> Session routines successfully run
+DEBUG - 2012-12-31 13:40:02 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:40:02 --> Model Class Initialized
+DEBUG - 2012-12-31 13:40:02 --> Model Class Initialized
+DEBUG - 2012-12-31 13:40:02 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 13:40:02 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 13:40:02 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:40:02 --> Final output sent to browser
+DEBUG - 2012-12-31 13:40:02 --> Total execution time: 1.1873
+DEBUG - 2012-12-31 13:40:13 --> Config Class Initialized
+DEBUG - 2012-12-31 13:40:13 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:40:13 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:40:13 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:40:13 --> URI Class Initialized
+DEBUG - 2012-12-31 13:40:13 --> Router Class Initialized
+DEBUG - 2012-12-31 13:40:13 --> Config Class Initialized
+DEBUG - 2012-12-31 13:40:13 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:40:13 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> UTF-8 Support Enabled
+ERROR - 2012-12-31 13:40:13 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:40:14 --> URI Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> Router Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> Output Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> Security Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> Input Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:14 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:40:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:40:14 --> Language Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:40:14 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> Session Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:40:14 --> Session routines successfully run
+DEBUG - 2012-12-31 13:40:14 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:40:14 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 13:40:14 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 13:40:14 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:40:14 --> Final output sent to browser
+DEBUG - 2012-12-31 13:40:14 --> Total execution time: 0.4812
+DEBUG - 2012-12-31 13:40:19 --> Config Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:40:19 --> URI Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> Router Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> Output Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> Security Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> Input Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:19 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:40:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:40:19 --> Language Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:40:19 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> Session Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:40:19 --> Session routines successfully run
+DEBUG - 2012-12-31 13:40:19 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:40:19 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 13:40:19 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:40:19 --> Final output sent to browser
+DEBUG - 2012-12-31 13:40:19 --> Total execution time: 0.2981
+DEBUG - 2012-12-31 13:40:21 --> Config Class Initialized
+DEBUG - 2012-12-31 13:40:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:40:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:40:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:40:21 --> URI Class Initialized
+DEBUG - 2012-12-31 13:40:21 --> Router Class Initialized
+ERROR - 2012-12-31 13:40:21 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:40:27 --> Config Class Initialized
+DEBUG - 2012-12-31 13:40:27 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:40:27 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:40:27 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:40:27 --> URI Class Initialized
+DEBUG - 2012-12-31 13:40:27 --> Router Class Initialized
+DEBUG - 2012-12-31 13:40:27 --> Output Class Initialized
+DEBUG - 2012-12-31 13:40:27 --> Security Class Initialized
+DEBUG - 2012-12-31 13:40:27 --> Input Class Initialized
+DEBUG - 2012-12-31 13:40:27 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:27 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:27 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:27 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:40:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:40:27 --> Language Class Initialized
+DEBUG - 2012-12-31 13:40:27 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:40:27 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:40:27 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:40:28 --> Session Class Initialized
+DEBUG - 2012-12-31 13:40:28 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:40:28 --> Session routines successfully run
+DEBUG - 2012-12-31 13:40:28 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:40:28 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 13:40:28 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:40:28 --> Final output sent to browser
+DEBUG - 2012-12-31 13:40:28 --> Total execution time: 0.4189
+DEBUG - 2012-12-31 13:40:35 --> Config Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:40:35 --> URI Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Router Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Config Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Hooks Class Initialized
+ERROR - 2012-12-31 13:40:35 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:40:35 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:40:35 --> URI Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Router Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Output Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Security Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Input Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:40:35 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:40:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:40:35 --> Language Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:40:35 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Session Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:40:35 --> Session routines successfully run
+DEBUG - 2012-12-31 13:40:35 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Model Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Model Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Model Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Model Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Model Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 13:40:35 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 13:40:35 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 13:40:35 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:40:35 --> Final output sent to browser
+DEBUG - 2012-12-31 13:40:35 --> Total execution time: 0.5368
+DEBUG - 2012-12-31 13:51:19 --> Config Class Initialized
+DEBUG - 2012-12-31 13:51:19 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:51:19 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:51:19 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:51:19 --> URI Class Initialized
+DEBUG - 2012-12-31 13:51:19 --> Router Class Initialized
+ERROR - 2012-12-31 13:51:19 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:51:20 --> Config Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:51:20 --> URI Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> Router Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> Output Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> Security Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> Input Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:51:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:51:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:51:20 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:51:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:51:20 --> Language Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:51:20 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> Session Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:51:20 --> Session routines successfully run
+DEBUG - 2012-12-31 13:51:20 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:51:20 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 13:51:20 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 13:51:20 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:51:20 --> Final output sent to browser
+DEBUG - 2012-12-31 13:51:20 --> Total execution time: 0.1337
+DEBUG - 2012-12-31 13:51:24 --> Config Class Initialized
+DEBUG - 2012-12-31 13:51:24 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:51:24 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:51:24 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:51:24 --> URI Class Initialized
+DEBUG - 2012-12-31 13:51:24 --> Router Class Initialized
+ERROR - 2012-12-31 13:51:24 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:51:25 --> Config Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:51:25 --> URI Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> Router Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> Output Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> Security Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> Input Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:51:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:51:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:51:25 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:51:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:51:25 --> Language Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:51:25 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> Session Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:51:25 --> Session routines successfully run
+DEBUG - 2012-12-31 13:51:25 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:51:25 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 13:51:25 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:51:25 --> Final output sent to browser
+DEBUG - 2012-12-31 13:51:25 --> Total execution time: 0.1504
+DEBUG - 2012-12-31 13:51:27 --> Config Class Initialized
+DEBUG - 2012-12-31 13:51:27 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:51:27 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:51:27 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:51:27 --> URI Class Initialized
+DEBUG - 2012-12-31 13:51:27 --> Router Class Initialized
+ERROR - 2012-12-31 13:51:27 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:51:28 --> Config Class Initialized
+DEBUG - 2012-12-31 13:51:28 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:51:28 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:51:28 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:51:28 --> URI Class Initialized
+DEBUG - 2012-12-31 13:51:28 --> Router Class Initialized
+ERROR - 2012-12-31 13:51:28 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:51:31 --> Config Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:51:31 --> URI Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> Router Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> Output Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> Security Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> Input Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:51:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:51:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:51:31 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:51:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:51:31 --> Language Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:51:31 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> Session Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:51:31 --> Session routines successfully run
+DEBUG - 2012-12-31 13:51:31 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:51:31 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 13:51:31 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:51:31 --> Final output sent to browser
+DEBUG - 2012-12-31 13:51:31 --> Total execution time: 0.1950
+DEBUG - 2012-12-31 13:51:36 --> Config Class Initialized
+DEBUG - 2012-12-31 13:51:36 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:51:36 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:51:36 --> Config Class Initialized
+DEBUG - 2012-12-31 13:51:36 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:51:36 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:51:36 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:51:36 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:51:36 --> URI Class Initialized
+DEBUG - 2012-12-31 13:51:36 --> URI Class Initialized
+DEBUG - 2012-12-31 13:51:36 --> Router Class Initialized
+DEBUG - 2012-12-31 13:51:36 --> Router Class Initialized
+ERROR - 2012-12-31 13:51:36 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:51:39 --> Config Class Initialized
+DEBUG - 2012-12-31 13:51:39 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:51:39 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:51:39 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:51:39 --> URI Class Initialized
+DEBUG - 2012-12-31 13:51:39 --> Router Class Initialized
+ERROR - 2012-12-31 13:51:39 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:54:53 --> Config Class Initialized
+DEBUG - 2012-12-31 13:54:53 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:54:53 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:54:53 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:54:53 --> URI Class Initialized
+DEBUG - 2012-12-31 13:54:53 --> Router Class Initialized
+DEBUG - 2012-12-31 13:54:55 --> Config Class Initialized
+DEBUG - 2012-12-31 13:54:55 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:54:55 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:54:55 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:54:55 --> URI Class Initialized
+DEBUG - 2012-12-31 13:54:55 --> Router Class Initialized
+ERROR - 2012-12-31 13:54:55 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:55:01 --> Config Class Initialized
+DEBUG - 2012-12-31 13:55:01 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:55:01 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:55:01 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:55:02 --> URI Class Initialized
+DEBUG - 2012-12-31 13:55:02 --> Router Class Initialized
+DEBUG - 2012-12-31 13:55:02 --> Output Class Initialized
+DEBUG - 2012-12-31 13:55:02 --> Security Class Initialized
+DEBUG - 2012-12-31 13:55:02 --> Input Class Initialized
+DEBUG - 2012-12-31 13:55:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:55:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:55:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:55:02 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:55:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:55:02 --> Language Class Initialized
+DEBUG - 2012-12-31 13:55:02 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:55:02 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:55:02 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:55:02 --> Session Class Initialized
+DEBUG - 2012-12-31 13:55:02 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:55:02 --> Session routines successfully run
+DEBUG - 2012-12-31 13:55:02 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:55:02 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 13:55:02 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:55:02 --> Final output sent to browser
+DEBUG - 2012-12-31 13:55:02 --> Total execution time: 0.2503
+DEBUG - 2012-12-31 13:55:04 --> Config Class Initialized
+DEBUG - 2012-12-31 13:55:04 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:55:04 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:55:04 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:55:04 --> URI Class Initialized
+DEBUG - 2012-12-31 13:55:04 --> Router Class Initialized
+ERROR - 2012-12-31 13:55:04 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:55:06 --> Config Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:55:06 --> URI Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> Router Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> Output Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> Security Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> Input Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:55:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:55:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:55:06 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:55:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:55:06 --> Language Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:55:06 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> Session Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:55:06 --> Session routines successfully run
+DEBUG - 2012-12-31 13:55:06 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:55:06 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 13:55:06 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:55:06 --> Final output sent to browser
+DEBUG - 2012-12-31 13:55:06 --> Total execution time: 0.1960
+DEBUG - 2012-12-31 13:55:11 --> Config Class Initialized
+DEBUG - 2012-12-31 13:55:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:55:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:55:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:55:11 --> URI Class Initialized
+DEBUG - 2012-12-31 13:55:11 --> Router Class Initialized
+DEBUG - 2012-12-31 13:55:11 --> Config Class Initialized
+DEBUG - 2012-12-31 13:55:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:55:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:55:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:55:11 --> URI Class Initialized
+DEBUG - 2012-12-31 13:55:11 --> Router Class Initialized
+ERROR - 2012-12-31 13:55:11 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:55:14 --> Config Class Initialized
+DEBUG - 2012-12-31 13:55:14 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:55:14 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:55:14 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:55:14 --> URI Class Initialized
+DEBUG - 2012-12-31 13:55:14 --> Router Class Initialized
+ERROR - 2012-12-31 13:55:14 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:55:59 --> Config Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:55:59 --> URI Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> Router Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> Output Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> Security Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> Input Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:55:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:55:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:55:59 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:55:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:55:59 --> Language Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:55:59 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> Session Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:55:59 --> Session routines successfully run
+DEBUG - 2012-12-31 13:55:59 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:55:59 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 13:55:59 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:55:59 --> Final output sent to browser
+DEBUG - 2012-12-31 13:55:59 --> Total execution time: 0.1242
+DEBUG - 2012-12-31 13:56:00 --> Config Class Initialized
+DEBUG - 2012-12-31 13:56:00 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:56:00 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:56:00 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:56:00 --> URI Class Initialized
+DEBUG - 2012-12-31 13:56:00 --> Router Class Initialized
+ERROR - 2012-12-31 13:56:00 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:56:02 --> Config Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:56:02 --> URI Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> Router Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> Output Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> Security Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> Input Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:56:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:56:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 13:56:02 --> CRSF cookie Set
+DEBUG - 2012-12-31 13:56:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 13:56:02 --> Language Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> Loader Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 13:56:02 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> Session Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 13:56:02 --> Session routines successfully run
+DEBUG - 2012-12-31 13:56:02 --> Controller Class Initialized
+DEBUG - 2012-12-31 13:56:02 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 13:56:02 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 13:56:02 --> Final output sent to browser
+DEBUG - 2012-12-31 13:56:02 --> Total execution time: 0.2293
+DEBUG - 2012-12-31 13:56:07 --> Config Class Initialized
+DEBUG - 2012-12-31 13:56:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:56:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:56:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:56:07 --> URI Class Initialized
+DEBUG - 2012-12-31 13:56:07 --> Router Class Initialized
+DEBUG - 2012-12-31 13:56:07 --> Config Class Initialized
+DEBUG - 2012-12-31 13:56:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:56:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:56:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:56:07 --> URI Class Initialized
+DEBUG - 2012-12-31 13:56:07 --> Router Class Initialized
+ERROR - 2012-12-31 13:56:07 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 13:56:10 --> Config Class Initialized
+DEBUG - 2012-12-31 13:56:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 13:56:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 13:56:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 13:56:10 --> URI Class Initialized
+DEBUG - 2012-12-31 13:56:10 --> Router Class Initialized
+ERROR - 2012-12-31 13:56:10 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:17:44 --> Config Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:17:44 --> URI Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> Router Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> Output Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> Security Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> Input Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:17:44 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:17:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:17:44 --> Language Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:17:44 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> Session Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:17:44 --> A session cookie was not found.
+DEBUG - 2012-12-31 16:17:44 --> Session routines successfully run
+DEBUG - 2012-12-31 16:17:44 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:17:44 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:17:44 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:17:44 --> Final output sent to browser
+DEBUG - 2012-12-31 16:17:44 --> Total execution time: 0.7248
+DEBUG - 2012-12-31 16:17:47 --> Config Class Initialized
+DEBUG - 2012-12-31 16:17:47 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:17:47 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:17:47 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:17:47 --> URI Class Initialized
+DEBUG - 2012-12-31 16:17:47 --> Router Class Initialized
+ERROR - 2012-12-31 16:17:47 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:17:54 --> Config Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:17:54 --> URI Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> Router Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> Output Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> Security Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> Input Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:17:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:17:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:17:54 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:17:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:17:54 --> Language Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:17:54 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> Session Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:17:54 --> Session routines successfully run
+DEBUG - 2012-12-31 16:17:54 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:17:54 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:17:54 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:17:54 --> Final output sent to browser
+DEBUG - 2012-12-31 16:17:54 --> Total execution time: 0.0907
+DEBUG - 2012-12-31 16:17:59 --> Config Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:17:59 --> URI Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Router Class Initialized
+ERROR - 2012-12-31 16:17:59 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:17:59 --> Config Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:17:59 --> URI Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Router Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Output Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Security Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Input Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:17:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:17:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:17:59 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:17:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:17:59 --> Language Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:17:59 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:17:59 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:18:00 --> Session Class Initialized
+DEBUG - 2012-12-31 16:18:00 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:18:00 --> Session routines successfully run
+DEBUG - 2012-12-31 16:18:00 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:18:00 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:18:00 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:18:00 --> Final output sent to browser
+DEBUG - 2012-12-31 16:18:00 --> Total execution time: 0.3329
+DEBUG - 2012-12-31 16:18:05 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:05 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> Router Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> Output Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> Security Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:05 --> Input Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:05 --> Router Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:05 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:18:05 --> Global POST and COOKIE data sanitized
+ERROR - 2012-12-31 16:18:05 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:18:05 --> Language Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:18:05 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:18:06 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:18:06 --> Session Class Initialized
+DEBUG - 2012-12-31 16:18:06 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:18:06 --> Session routines successfully run
+DEBUG - 2012-12-31 16:18:06 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:18:06 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:18:06 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:18:06 --> Final output sent to browser
+DEBUG - 2012-12-31 16:18:06 --> Total execution time: 0.5098
+DEBUG - 2012-12-31 16:18:11 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:11 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Router Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Router Class Initialized
+ERROR - 2012-12-31 16:18:11 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:18:11 --> Output Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Security Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Input Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:11 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:18:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:18:11 --> Language Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:18:11 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Session Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:18:11 --> Session routines successfully run
+DEBUG - 2012-12-31 16:18:11 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:18:11 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:18:11 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:18:11 --> Final output sent to browser
+DEBUG - 2012-12-31 16:18:11 --> Total execution time: 0.4115
+DEBUG - 2012-12-31 16:18:16 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:16 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Router Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Output Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Security Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Input Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:16 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:18:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:18:16 --> Language Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:18:16 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Session Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:18:16 --> Session routines successfully run
+DEBUG - 2012-12-31 16:18:16 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:18:16 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:18:16 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:16 --> Final output sent to browser
+DEBUG - 2012-12-31 16:18:16 --> Total execution time: 0.3942
+DEBUG - 2012-12-31 16:18:16 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:16 --> Router Class Initialized
+ERROR - 2012-12-31 16:18:16 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:18:21 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:21 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Router Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Output Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Security Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Input Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:21 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:18:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:18:21 --> Language Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Router Class Initialized
+ERROR - 2012-12-31 16:18:21 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:18:21 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:18:21 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Session Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:18:21 --> Session routines successfully run
+DEBUG - 2012-12-31 16:18:21 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:18:21 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:18:21 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:18:21 --> Final output sent to browser
+DEBUG - 2012-12-31 16:18:21 --> Total execution time: 0.4365
+DEBUG - 2012-12-31 16:18:25 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:25 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:25 --> Router Class Initialized
+DEBUG - 2012-12-31 16:18:25 --> Output Class Initialized
+DEBUG - 2012-12-31 16:18:25 --> Security Class Initialized
+DEBUG - 2012-12-31 16:18:25 --> Input Class Initialized
+DEBUG - 2012-12-31 16:18:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:18:25 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:18:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:18:25 --> Language Class Initialized
+DEBUG - 2012-12-31 16:18:26 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:18:26 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:18:26 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:18:26 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:26 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:26 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:26 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:26 --> Session Class Initialized
+DEBUG - 2012-12-31 16:18:26 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:26 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:18:26 --> Router Class Initialized
+DEBUG - 2012-12-31 16:18:26 --> Session routines successfully run
+DEBUG - 2012-12-31 16:18:26 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:18:26 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:18:26 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:18:26 --> Final output sent to browser
+DEBUG - 2012-12-31 16:18:26 --> Total execution time: 0.3864
+ERROR - 2012-12-31 16:18:26 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:18:30 --> Config Class Initialized
+DEBUG - 2012-12-31 16:18:30 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:18:30 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:18:30 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:18:30 --> URI Class Initialized
+DEBUG - 2012-12-31 16:18:30 --> Router Class Initialized
+ERROR - 2012-12-31 16:18:30 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:19:37 --> Config Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:19:37 --> URI Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> Router Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> Output Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> Security Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> Input Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:19:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:19:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:19:37 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:19:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:19:37 --> Language Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:19:37 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> Session Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:19:37 --> Session routines successfully run
+DEBUG - 2012-12-31 16:19:37 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:19:37 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:19:37 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:19:37 --> Final output sent to browser
+DEBUG - 2012-12-31 16:19:37 --> Total execution time: 0.0950
+DEBUG - 2012-12-31 16:19:40 --> Config Class Initialized
+DEBUG - 2012-12-31 16:19:40 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:19:40 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:19:40 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:19:40 --> URI Class Initialized
+DEBUG - 2012-12-31 16:19:40 --> Router Class Initialized
+ERROR - 2012-12-31 16:19:40 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:19:56 --> Config Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:19:56 --> URI Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Router Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Output Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Security Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Input Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:19:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:19:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:19:56 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:19:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:19:56 --> Language Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:19:56 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Session Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:19:56 --> Session routines successfully run
+DEBUG - 2012-12-31 16:19:56 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 16:19:56 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 16:19:56 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:19:56 --> Final output sent to browser
+DEBUG - 2012-12-31 16:19:56 --> Total execution time: 0.3330
+DEBUG - 2012-12-31 16:19:56 --> Config Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:19:56 --> URI Class Initialized
+DEBUG - 2012-12-31 16:19:56 --> Router Class Initialized
+ERROR - 2012-12-31 16:19:56 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:20:10 --> Config Class Initialized
+DEBUG - 2012-12-31 16:20:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:20:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:20:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:20:10 --> URI Class Initialized
+DEBUG - 2012-12-31 16:20:10 --> Router Class Initialized
+ERROR - 2012-12-31 16:20:10 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:20:18 --> Config Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:20:18 --> URI Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> Router Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> Output Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> Security Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> Input Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:20:18 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:20:18 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:20:18 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:20:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:20:18 --> Language Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:20:18 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> Session Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:20:18 --> Session routines successfully run
+DEBUG - 2012-12-31 16:20:18 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:20:18 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:20:18 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:20:18 --> Final output sent to browser
+DEBUG - 2012-12-31 16:20:18 --> Total execution time: 0.1088
+DEBUG - 2012-12-31 16:24:31 --> Config Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:24:31 --> URI Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> Router Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> Output Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> Security Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> Input Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:31 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:24:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:24:31 --> Language Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:24:31 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:24:31 --> Session Class Initialized
+DEBUG - 2012-12-31 16:24:32 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:24:32 --> Session routines successfully run
+DEBUG - 2012-12-31 16:24:32 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:24:32 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:24:32 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:24:32 --> Final output sent to browser
+DEBUG - 2012-12-31 16:24:32 --> Total execution time: 0.1228
+DEBUG - 2012-12-31 16:24:35 --> Config Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:24:35 --> URI Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Router Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Output Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Security Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Input Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:35 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:24:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:24:35 --> Language Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:24:35 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Session Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:24:35 --> Session routines successfully run
+DEBUG - 2012-12-31 16:24:35 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Model Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Model Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Model Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Model Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Model Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 16:24:35 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 16:24:35 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 16:24:35 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:24:35 --> Final output sent to browser
+DEBUG - 2012-12-31 16:24:35 --> Total execution time: 0.8397
+DEBUG - 2012-12-31 16:24:46 --> Config Class Initialized
+DEBUG - 2012-12-31 16:24:46 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:24:46 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:24:46 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:24:46 --> URI Class Initialized
+DEBUG - 2012-12-31 16:24:46 --> Router Class Initialized
+DEBUG - 2012-12-31 16:24:47 --> Output Class Initialized
+DEBUG - 2012-12-31 16:24:47 --> Security Class Initialized
+DEBUG - 2012-12-31 16:24:47 --> Input Class Initialized
+DEBUG - 2012-12-31 16:24:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:47 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:24:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:24:47 --> Language Class Initialized
+DEBUG - 2012-12-31 16:24:47 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:24:47 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:24:47 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:24:47 --> Session Class Initialized
+DEBUG - 2012-12-31 16:24:47 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:24:47 --> Session routines successfully run
+DEBUG - 2012-12-31 16:24:47 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:24:47 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:24:47 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:24:47 --> Final output sent to browser
+DEBUG - 2012-12-31 16:24:47 --> Total execution time: 0.3305
+DEBUG - 2012-12-31 16:24:48 --> Config Class Initialized
+DEBUG - 2012-12-31 16:24:48 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:24:48 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:24:48 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:24:48 --> URI Class Initialized
+DEBUG - 2012-12-31 16:24:48 --> Router Class Initialized
+ERROR - 2012-12-31 16:24:48 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:24:56 --> Config Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:24:56 --> URI Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> Router Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> Output Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> Security Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> Input Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:24:56 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:24:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:24:56 --> Language Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:24:56 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> Session Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:24:56 --> Session routines successfully run
+DEBUG - 2012-12-31 16:24:56 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:24:56 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:24:56 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:24:56 --> Final output sent to browser
+DEBUG - 2012-12-31 16:24:56 --> Total execution time: 0.1955
+DEBUG - 2012-12-31 16:25:00 --> Config Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:25:00 --> URI Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Router Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Output Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Security Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Input Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:00 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:25:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:25:00 --> Language Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:25:00 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Session Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:25:00 --> Session routines successfully run
+DEBUG - 2012-12-31 16:25:00 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Model Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Model Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Model Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Model Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Model Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 16:25:00 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 16:25:00 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 16:25:00 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:25:00 --> Final output sent to browser
+DEBUG - 2012-12-31 16:25:00 --> Total execution time: 0.2825
+DEBUG - 2012-12-31 16:25:35 --> Config Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:25:35 --> URI Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> Router Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> Output Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> Security Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> Input Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:35 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:25:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:25:35 --> Language Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:25:35 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> Session Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:25:35 --> Session routines successfully run
+DEBUG - 2012-12-31 16:25:35 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:25:35 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 16:25:35 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 16:25:35 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:25:35 --> Final output sent to browser
+DEBUG - 2012-12-31 16:25:35 --> Total execution time: 0.1302
+DEBUG - 2012-12-31 16:25:39 --> Config Class Initialized
+DEBUG - 2012-12-31 16:25:39 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:25:39 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:25:39 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:25:39 --> URI Class Initialized
+DEBUG - 2012-12-31 16:25:39 --> Router Class Initialized
+ERROR - 2012-12-31 16:25:39 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:25:41 --> Config Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:25:41 --> URI Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> Router Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> Output Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> Security Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> Input Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:41 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:41 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:41 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:25:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:25:41 --> Language Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:25:41 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> Session Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:25:41 --> Session routines successfully run
+DEBUG - 2012-12-31 16:25:41 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:25:41 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:25:41 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:25:41 --> Final output sent to browser
+DEBUG - 2012-12-31 16:25:41 --> Total execution time: 0.2364
+DEBUG - 2012-12-31 16:25:42 --> Config Class Initialized
+DEBUG - 2012-12-31 16:25:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:25:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:25:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:25:42 --> URI Class Initialized
+DEBUG - 2012-12-31 16:25:42 --> Router Class Initialized
+ERROR - 2012-12-31 16:25:42 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:25:43 --> Config Class Initialized
+DEBUG - 2012-12-31 16:25:43 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:25:43 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:25:43 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:25:43 --> URI Class Initialized
+DEBUG - 2012-12-31 16:25:43 --> Router Class Initialized
+ERROR - 2012-12-31 16:25:43 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:25:48 --> Config Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:25:48 --> URI Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> Router Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> Output Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> Security Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> Input Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:48 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:48 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:25:48 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:25:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:25:48 --> Language Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:25:48 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> Session Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:25:48 --> Session routines successfully run
+DEBUG - 2012-12-31 16:25:48 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:25:48 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:25:48 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:25:48 --> Final output sent to browser
+DEBUG - 2012-12-31 16:25:48 --> Total execution time: 0.1413
+DEBUG - 2012-12-31 16:25:55 --> Config Class Initialized
+DEBUG - 2012-12-31 16:25:55 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:25:55 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:25:55 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:25:55 --> URI Class Initialized
+DEBUG - 2012-12-31 16:25:55 --> Router Class Initialized
+ERROR - 2012-12-31 16:25:55 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:32:28 --> Config Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:32:28 --> URI Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> Router Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> Output Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> Security Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> Input Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:32:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:32:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:32:28 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:32:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:32:28 --> Language Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:32:28 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> Session Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:32:28 --> Session routines successfully run
+DEBUG - 2012-12-31 16:32:28 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:32:28 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:32:28 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:32:28 --> Final output sent to browser
+DEBUG - 2012-12-31 16:32:28 --> Total execution time: 0.2748
+DEBUG - 2012-12-31 16:32:32 --> Config Class Initialized
+DEBUG - 2012-12-31 16:32:32 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:32:32 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:32:32 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:32:32 --> URI Class Initialized
+DEBUG - 2012-12-31 16:32:32 --> Router Class Initialized
+ERROR - 2012-12-31 16:32:32 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:33:34 --> Config Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:33:34 --> URI Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> Router Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> Output Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> Security Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> Input Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:33:34 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:33:34 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:33:34 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:33:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:33:34 --> Language Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:33:34 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> Session Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:33:34 --> Session routines successfully run
+DEBUG - 2012-12-31 16:33:34 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:33:34 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:33:34 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:33:34 --> Final output sent to browser
+DEBUG - 2012-12-31 16:33:34 --> Total execution time: 0.1373
+DEBUG - 2012-12-31 16:34:18 --> Config Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:34:18 --> URI Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> Router Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> Output Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> Security Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> Input Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:34:18 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:34:18 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:34:18 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:34:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:34:18 --> Language Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:34:18 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> Session Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:34:18 --> Session routines successfully run
+DEBUG - 2012-12-31 16:34:18 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:34:18 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:34:18 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:34:18 --> Final output sent to browser
+DEBUG - 2012-12-31 16:34:18 --> Total execution time: 0.2014
+DEBUG - 2012-12-31 16:34:24 --> Config Class Initialized
+DEBUG - 2012-12-31 16:34:24 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:34:24 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:34:24 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:34:24 --> URI Class Initialized
+DEBUG - 2012-12-31 16:34:24 --> Router Class Initialized
+ERROR - 2012-12-31 16:34:24 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:34:33 --> Config Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:34:33 --> URI Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> Router Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> Output Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> Security Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> Input Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:34:33 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:34:33 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:34:33 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:34:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:34:33 --> Language Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:34:33 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> Session Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:34:33 --> Session routines successfully run
+DEBUG - 2012-12-31 16:34:33 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:34:33 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:34:33 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:34:33 --> Final output sent to browser
+DEBUG - 2012-12-31 16:34:33 --> Total execution time: 0.1045
+DEBUG - 2012-12-31 16:35:58 --> Config Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:35:58 --> URI Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> Router Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> Output Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> Security Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> Input Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:35:58 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:35:58 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:35:58 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:35:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:35:58 --> Language Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:35:58 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> Session Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:35:58 --> Session routines successfully run
+DEBUG - 2012-12-31 16:35:58 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:35:58 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:35:58 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:35:58 --> Final output sent to browser
+DEBUG - 2012-12-31 16:35:58 --> Total execution time: 0.1216
+DEBUG - 2012-12-31 16:36:02 --> Config Class Initialized
+DEBUG - 2012-12-31 16:36:02 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:36:02 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:36:02 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:36:02 --> URI Class Initialized
+DEBUG - 2012-12-31 16:36:02 --> Router Class Initialized
+ERROR - 2012-12-31 16:36:02 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:36:46 --> Config Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:36:46 --> URI Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> Router Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> Output Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> Security Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> Input Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:36:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:36:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:36:46 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:36:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:36:46 --> Language Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:36:46 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> Session Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:36:46 --> Session routines successfully run
+DEBUG - 2012-12-31 16:36:46 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:36:46 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:36:46 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:36:46 --> Final output sent to browser
+DEBUG - 2012-12-31 16:36:46 --> Total execution time: 0.2265
+DEBUG - 2012-12-31 16:36:50 --> Config Class Initialized
+DEBUG - 2012-12-31 16:36:50 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:36:50 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:36:50 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:36:50 --> URI Class Initialized
+DEBUG - 2012-12-31 16:36:50 --> Router Class Initialized
+ERROR - 2012-12-31 16:36:50 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:42:39 --> Config Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:42:39 --> URI Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> Router Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> Output Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> Security Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> Input Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:42:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:42:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:42:39 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:42:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:42:39 --> Language Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:42:39 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> Session Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:42:39 --> Session routines successfully run
+DEBUG - 2012-12-31 16:42:39 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:42:39 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:42:39 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:42:39 --> Final output sent to browser
+DEBUG - 2012-12-31 16:42:39 --> Total execution time: 0.1411
+DEBUG - 2012-12-31 16:43:34 --> Config Class Initialized
+DEBUG - 2012-12-31 16:43:34 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:43:34 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:43:34 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:43:34 --> URI Class Initialized
+DEBUG - 2012-12-31 16:43:34 --> Router Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Config Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:44:04 --> URI Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Router Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Output Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Security Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Input Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:44:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:44:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:44:04 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:44:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:44:04 --> Language Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:44:04 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Session Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:44:04 --> Session routines successfully run
+DEBUG - 2012-12-31 16:44:04 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:44:04 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:44:04 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:44:04 --> Final output sent to browser
+DEBUG - 2012-12-31 16:44:04 --> Total execution time: 0.1720
+DEBUG - 2012-12-31 16:44:10 --> Config Class Initialized
+DEBUG - 2012-12-31 16:44:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:44:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:44:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:44:10 --> URI Class Initialized
+DEBUG - 2012-12-31 16:44:10 --> Router Class Initialized
+ERROR - 2012-12-31 16:44:10 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:45:42 --> Config Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:45:42 --> URI Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> Router Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> Output Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> Security Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> Input Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:45:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:45:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:45:42 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:45:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:45:42 --> Language Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:45:42 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> Session Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:45:42 --> Session routines successfully run
+DEBUG - 2012-12-31 16:45:42 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:45:42 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:45:42 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:45:42 --> Final output sent to browser
+DEBUG - 2012-12-31 16:45:42 --> Total execution time: 0.1200
+DEBUG - 2012-12-31 16:45:46 --> Config Class Initialized
+DEBUG - 2012-12-31 16:45:46 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:45:46 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:45:46 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:45:46 --> URI Class Initialized
+DEBUG - 2012-12-31 16:45:46 --> Router Class Initialized
+ERROR - 2012-12-31 16:45:46 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 16:48:44 --> Config Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:48:44 --> URI Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> Router Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> Output Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> Security Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> Input Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:48:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:48:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:48:44 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:48:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:48:44 --> Language Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:48:44 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> Session Class Initialized
+DEBUG - 2012-12-31 16:48:44 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:48:44 --> Session routines successfully run
+DEBUG - 2012-12-31 16:48:44 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:48:45 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:48:45 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:48:45 --> Final output sent to browser
+DEBUG - 2012-12-31 16:48:45 --> Total execution time: 0.1512
+DEBUG - 2012-12-31 16:48:59 --> Config Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:48:59 --> URI Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> Router Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> Output Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> Security Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> Input Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:48:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:48:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:48:59 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:48:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:48:59 --> Language Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:48:59 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> Session Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:48:59 --> Session routines successfully run
+DEBUG - 2012-12-31 16:48:59 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:48:59 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:48:59 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:48:59 --> Final output sent to browser
+DEBUG - 2012-12-31 16:48:59 --> Total execution time: 0.1222
+DEBUG - 2012-12-31 16:49:28 --> Config Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:49:28 --> URI Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> Router Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> Output Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> Security Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> Input Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:49:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:49:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:49:28 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:49:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:49:28 --> Language Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:49:28 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> Session Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:49:28 --> Session routines successfully run
+DEBUG - 2012-12-31 16:49:28 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:49:28 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:49:28 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:49:28 --> Final output sent to browser
+DEBUG - 2012-12-31 16:49:28 --> Total execution time: 0.1758
+DEBUG - 2012-12-31 16:50:19 --> Config Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:50:19 --> URI Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> Router Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> Output Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> Security Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> Input Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:50:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:50:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:50:19 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:50:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:50:19 --> Language Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:50:19 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> Session Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:50:19 --> Session routines successfully run
+DEBUG - 2012-12-31 16:50:19 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:50:19 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:50:19 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:50:19 --> Final output sent to browser
+DEBUG - 2012-12-31 16:50:19 --> Total execution time: 0.1054
+DEBUG - 2012-12-31 16:57:04 --> Config Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:57:04 --> URI Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> Router Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> Output Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> Security Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> Input Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:57:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:57:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:57:04 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:57:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:57:04 --> Language Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:57:04 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> Session Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:57:04 --> Session routines successfully run
+DEBUG - 2012-12-31 16:57:04 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:57:04 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:57:04 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:57:04 --> Final output sent to browser
+DEBUG - 2012-12-31 16:57:04 --> Total execution time: 0.1666
+DEBUG - 2012-12-31 16:59:06 --> Config Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> Hooks Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 16:59:06 --> URI Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> Router Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> Output Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> Security Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> Input Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:59:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:59:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 16:59:06 --> CRSF cookie Set
+DEBUG - 2012-12-31 16:59:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 16:59:06 --> Language Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> Loader Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 16:59:06 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> Session Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 16:59:06 --> Session routines successfully run
+DEBUG - 2012-12-31 16:59:06 --> Controller Class Initialized
+DEBUG - 2012-12-31 16:59:06 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 16:59:06 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 16:59:06 --> Final output sent to browser
+DEBUG - 2012-12-31 16:59:06 --> Total execution time: 0.1334
+DEBUG - 2012-12-31 17:00:20 --> Config Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:00:20 --> URI Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> Router Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> Output Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> Security Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> Input Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:00:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:00:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:00:20 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:00:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:00:20 --> Language Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:00:20 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> Session Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:00:20 --> Session routines successfully run
+DEBUG - 2012-12-31 17:00:20 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:00:20 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 17:00:20 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:00:20 --> Final output sent to browser
+DEBUG - 2012-12-31 17:00:20 --> Total execution time: 0.1076
+DEBUG - 2012-12-31 17:01:15 --> Config Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:01:15 --> URI Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> Router Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> Output Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> Security Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> Input Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:01:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:01:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:01:15 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:01:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:01:15 --> Language Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:01:15 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> Session Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:01:15 --> Session routines successfully run
+DEBUG - 2012-12-31 17:01:15 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:01:15 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 17:01:15 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:01:15 --> Final output sent to browser
+DEBUG - 2012-12-31 17:01:15 --> Total execution time: 0.2779
+DEBUG - 2012-12-31 17:03:10 --> Config Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:03:10 --> Config Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> URI Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:03:10 --> Router Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> URI Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Output Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Router Class Initialized
+ERROR - 2012-12-31 17:03:10 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:03:10 --> Security Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Input Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:03:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:03:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:03:10 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:03:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:03:10 --> Language Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:03:10 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Session Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:03:10 --> Session routines successfully run
+DEBUG - 2012-12-31 17:03:10 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:03:10 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:03:10 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:03:10 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:03:10 --> Final output sent to browser
+DEBUG - 2012-12-31 17:03:10 --> Total execution time: 0.3798
+DEBUG - 2012-12-31 17:03:15 --> Config Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:03:15 --> URI Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> Router Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> Output Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> Security Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> Input Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:03:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:03:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:03:15 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:03:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:03:15 --> Language Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:03:15 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> Session Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:03:15 --> Session routines successfully run
+DEBUG - 2012-12-31 17:03:15 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:03:15 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:03:15 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:03:15 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:03:15 --> Final output sent to browser
+DEBUG - 2012-12-31 17:03:15 --> Total execution time: 0.1944
+DEBUG - 2012-12-31 17:04:02 --> Config Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:04:02 --> URI Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> Router Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> Output Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> Security Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> Input Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:04:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:04:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:04:02 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:04:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:04:02 --> Language Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:04:02 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> Session Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:04:02 --> Session routines successfully run
+DEBUG - 2012-12-31 17:04:02 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:04:02 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:04:02 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:04:02 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:04:02 --> Final output sent to browser
+DEBUG - 2012-12-31 17:04:02 --> Total execution time: 0.1025
+DEBUG - 2012-12-31 17:04:59 --> Config Class Initialized
+DEBUG - 2012-12-31 17:04:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:04:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:04:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:04:59 --> URI Class Initialized
+DEBUG - 2012-12-31 17:04:59 --> Router Class Initialized
+ERROR - 2012-12-31 17:04:59 --> 404 Page Not Found --> list
+DEBUG - 2012-12-31 17:05:44 --> Config Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:05:44 --> URI Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> Router Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> Output Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> Security Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> Input Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:05:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:05:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:05:44 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:05:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:05:44 --> Language Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:05:44 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> Session Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:05:44 --> Session routines successfully run
+DEBUG - 2012-12-31 17:05:44 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:05:44 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:05:44 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:05:44 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:05:44 --> Final output sent to browser
+DEBUG - 2012-12-31 17:05:44 --> Total execution time: 0.0950
+DEBUG - 2012-12-31 17:05:50 --> Config Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:05:50 --> URI Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> Router Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> Output Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> Security Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> Input Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:05:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:05:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:05:50 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:05:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:05:50 --> Language Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:05:50 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> Session Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:05:50 --> Session routines successfully run
+DEBUG - 2012-12-31 17:05:50 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:05:50 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:05:50 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 17:05:50 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:05:50 --> Final output sent to browser
+DEBUG - 2012-12-31 17:05:50 --> Total execution time: 0.2794
+DEBUG - 2012-12-31 17:05:52 --> Config Class Initialized
+DEBUG - 2012-12-31 17:05:52 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:05:52 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:05:52 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:05:52 --> URI Class Initialized
+DEBUG - 2012-12-31 17:05:52 --> Router Class Initialized
+ERROR - 2012-12-31 17:05:52 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:05:57 --> Config Class Initialized
+DEBUG - 2012-12-31 17:05:57 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:05:57 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:05:57 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:05:57 --> URI Class Initialized
+DEBUG - 2012-12-31 17:05:57 --> Router Class Initialized
+ERROR - 2012-12-31 17:05:57 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:06:03 --> Config Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:06:03 --> URI Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> Router Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> Output Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> Security Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> Input Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:06:03 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:06:03 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:06:03 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:06:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:06:03 --> Language Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:06:03 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> Session Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:06:03 --> Session routines successfully run
+DEBUG - 2012-12-31 17:06:03 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:06:03 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:06:03 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:06:03 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:06:03 --> Final output sent to browser
+DEBUG - 2012-12-31 17:06:03 --> Total execution time: 0.2288
+DEBUG - 2012-12-31 17:10:33 --> Config Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:10:33 --> URI Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> Router Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> Output Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> Security Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> Input Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:10:33 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:10:33 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:10:33 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:10:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:10:33 --> Language Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:10:33 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> Session Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:10:33 --> Session routines successfully run
+DEBUG - 2012-12-31 17:10:33 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:10:33 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:10:33 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:10:33 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:10:33 --> Final output sent to browser
+DEBUG - 2012-12-31 17:10:33 --> Total execution time: 0.4961
+DEBUG - 2012-12-31 17:10:40 --> Config Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:10:40 --> URI Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> Router Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> Output Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> Security Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> Input Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:10:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:10:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:10:40 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:10:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:10:40 --> Language Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:10:40 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> Session Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:10:40 --> Session routines successfully run
+DEBUG - 2012-12-31 17:10:40 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:10:40 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:10:40 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 17:10:40 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:10:40 --> Final output sent to browser
+DEBUG - 2012-12-31 17:10:40 --> Total execution time: 0.1670
+DEBUG - 2012-12-31 17:10:42 --> Config Class Initialized
+DEBUG - 2012-12-31 17:10:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:10:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:10:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:10:42 --> URI Class Initialized
+DEBUG - 2012-12-31 17:10:42 --> Router Class Initialized
+ERROR - 2012-12-31 17:10:42 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:10:42 --> Config Class Initialized
+DEBUG - 2012-12-31 17:10:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:10:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:10:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:10:42 --> URI Class Initialized
+DEBUG - 2012-12-31 17:10:42 --> Router Class Initialized
+ERROR - 2012-12-31 17:10:42 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:11:42 --> Config Class Initialized
+DEBUG - 2012-12-31 17:11:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:11:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:11:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:11:42 --> URI Class Initialized
+DEBUG - 2012-12-31 17:11:42 --> Router Class Initialized
+DEBUG - 2012-12-31 17:11:42 --> Output Class Initialized
+DEBUG - 2012-12-31 17:11:42 --> Security Class Initialized
+DEBUG - 2012-12-31 17:11:42 --> Input Class Initialized
+DEBUG - 2012-12-31 17:11:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:42 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:11:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:11:42 --> Language Class Initialized
+DEBUG - 2012-12-31 17:11:42 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:11:43 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:11:43 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:11:43 --> Session Class Initialized
+DEBUG - 2012-12-31 17:11:43 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:11:43 --> Session routines successfully run
+DEBUG - 2012-12-31 17:11:43 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:11:43 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:11:43 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 17:11:43 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:11:43 --> Final output sent to browser
+DEBUG - 2012-12-31 17:11:43 --> Total execution time: 0.1103
+DEBUG - 2012-12-31 17:11:45 --> Config Class Initialized
+DEBUG - 2012-12-31 17:11:45 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:11:45 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:11:45 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:11:45 --> URI Class Initialized
+DEBUG - 2012-12-31 17:11:45 --> Router Class Initialized
+ERROR - 2012-12-31 17:11:45 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:11:47 --> Config Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:11:47 --> URI Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> Router Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> Output Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> Security Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> Input Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:47 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:11:47 --> Language Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:11:47 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> Session Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:11:47 --> Session routines successfully run
+DEBUG - 2012-12-31 17:11:47 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:11:47 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:11:47 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:11:47 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:11:47 --> Final output sent to browser
+DEBUG - 2012-12-31 17:11:47 --> Total execution time: 0.4438
+DEBUG - 2012-12-31 17:11:48 --> Config Class Initialized
+DEBUG - 2012-12-31 17:11:48 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:11:48 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:11:48 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:11:48 --> URI Class Initialized
+DEBUG - 2012-12-31 17:11:48 --> Router Class Initialized
+ERROR - 2012-12-31 17:11:48 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:11:53 --> Config Class Initialized
+DEBUG - 2012-12-31 17:11:53 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:11:53 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:11:53 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:11:54 --> URI Class Initialized
+DEBUG - 2012-12-31 17:11:54 --> Router Class Initialized
+DEBUG - 2012-12-31 17:11:54 --> Output Class Initialized
+DEBUG - 2012-12-31 17:11:54 --> Security Class Initialized
+DEBUG - 2012-12-31 17:11:54 --> Input Class Initialized
+DEBUG - 2012-12-31 17:11:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:54 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:11:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:11:54 --> Language Class Initialized
+DEBUG - 2012-12-31 17:11:54 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:11:54 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:11:54 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:11:54 --> Session Class Initialized
+DEBUG - 2012-12-31 17:11:54 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:11:54 --> Session routines successfully run
+DEBUG - 2012-12-31 17:11:54 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:11:54 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:11:54 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:11:54 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:11:54 --> Final output sent to browser
+DEBUG - 2012-12-31 17:11:54 --> Total execution time: 0.1390
+DEBUG - 2012-12-31 17:11:59 --> Config Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:11:59 --> URI Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> Router Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> Output Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> Security Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> Input Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:11:59 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:11:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:11:59 --> Language Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:11:59 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> Session Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:11:59 --> Session routines successfully run
+DEBUG - 2012-12-31 17:11:59 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:11:59 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:11:59 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 17:11:59 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:11:59 --> Final output sent to browser
+DEBUG - 2012-12-31 17:11:59 --> Total execution time: 0.1935
+DEBUG - 2012-12-31 17:12:00 --> Config Class Initialized
+DEBUG - 2012-12-31 17:12:00 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:12:00 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:12:00 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:12:00 --> URI Class Initialized
+DEBUG - 2012-12-31 17:12:00 --> Router Class Initialized
+ERROR - 2012-12-31 17:12:00 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:15:35 --> Config Class Initialized
+DEBUG - 2012-12-31 17:15:35 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:15:35 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:15:35 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:15:35 --> URI Class Initialized
+DEBUG - 2012-12-31 17:15:35 --> Router Class Initialized
+ERROR - 2012-12-31 17:15:35 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:15:37 --> Config Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:15:37 --> URI Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> Router Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> Output Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> Security Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> Input Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:15:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:15:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:15:37 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:15:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:15:37 --> Language Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:15:37 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> Session Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:15:37 --> Session routines successfully run
+DEBUG - 2012-12-31 17:15:37 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:15:37 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:15:37 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 17:15:37 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:15:37 --> Final output sent to browser
+DEBUG - 2012-12-31 17:15:37 --> Total execution time: 0.1723
+DEBUG - 2012-12-31 17:15:38 --> Config Class Initialized
+DEBUG - 2012-12-31 17:15:38 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:15:38 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:15:38 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:15:38 --> URI Class Initialized
+DEBUG - 2012-12-31 17:15:38 --> Router Class Initialized
+ERROR - 2012-12-31 17:15:38 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:15:39 --> Config Class Initialized
+DEBUG - 2012-12-31 17:15:39 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:15:39 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:15:39 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:15:39 --> URI Class Initialized
+DEBUG - 2012-12-31 17:15:39 --> Router Class Initialized
+ERROR - 2012-12-31 17:15:39 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:17:50 --> Config Class Initialized
+DEBUG - 2012-12-31 17:17:50 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:17:50 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:17:50 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:17:50 --> URI Class Initialized
+DEBUG - 2012-12-31 17:17:50 --> Router Class Initialized
+ERROR - 2012-12-31 17:17:50 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:17:52 --> Config Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:17:52 --> URI Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> Router Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> Output Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> Security Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> Input Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:17:52 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:17:52 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:17:52 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:17:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:17:52 --> Language Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:17:52 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> Session Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:17:52 --> Session routines successfully run
+DEBUG - 2012-12-31 17:17:52 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:17:52 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:17:52 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 17:17:52 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:17:52 --> Final output sent to browser
+DEBUG - 2012-12-31 17:17:52 --> Total execution time: 0.2319
+DEBUG - 2012-12-31 17:17:54 --> Config Class Initialized
+DEBUG - 2012-12-31 17:17:54 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:17:54 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:17:54 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:17:54 --> URI Class Initialized
+DEBUG - 2012-12-31 17:17:54 --> Router Class Initialized
+ERROR - 2012-12-31 17:17:54 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:18:00 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:00 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:00 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:00 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:00 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:00 --> Router Class Initialized
+ERROR - 2012-12-31 17:18:00 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:18:07 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:07 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Router Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Output Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Security Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Input Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:07 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:18:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:18:07 --> Language Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:18:07 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Session Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:18:07 --> Session routines successfully run
+DEBUG - 2012-12-31 17:18:07 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:07 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:18:07 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 17:18:07 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:18:07 --> Final output sent to browser
+DEBUG - 2012-12-31 17:18:07 --> Total execution time: 0.3119
+DEBUG - 2012-12-31 17:18:08 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:08 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:08 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:08 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:08 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:08 --> Router Class Initialized
+ERROR - 2012-12-31 17:18:08 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:18:10 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:10 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Router Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Output Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Security Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Input Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:10 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:18:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:18:10 --> Language Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:18:10 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Session Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:18:10 --> Session routines successfully run
+DEBUG - 2012-12-31 17:18:10 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:10 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:11 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:11 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:11 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:11 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 17:18:11 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 17:18:11 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 17:18:11 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:18:11 --> Final output sent to browser
+DEBUG - 2012-12-31 17:18:11 --> Total execution time: 0.6959
+DEBUG - 2012-12-31 17:18:12 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:12 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:12 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:12 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:12 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:12 --> Router Class Initialized
+ERROR - 2012-12-31 17:18:12 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:18:16 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:16 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> Router Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 17:18:16 --> Output Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> Security Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> Input Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:16 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:18:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:18:16 --> Language Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:18:16 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> Session Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:18:16 --> Session routines successfully run
+DEBUG - 2012-12-31 17:18:16 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:18:16 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:18:16 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 17:18:16 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:18:16 --> Final output sent to browser
+DEBUG - 2012-12-31 17:18:16 --> Total execution time: 0.2714
+DEBUG - 2012-12-31 17:18:18 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:18 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:18 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:18 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:18 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:18 --> Router Class Initialized
+ERROR - 2012-12-31 17:18:18 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:18:21 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:21 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> Router Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> Output Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> Security Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> Input Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:21 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:18:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:18:21 --> Language Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:18:21 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> Session Class Initialized
+DEBUG - 2012-12-31 17:18:21 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:18:21 --> Session routines successfully run
+DEBUG - 2012-12-31 17:18:21 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:18:22 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:18:22 --> File loaded: ../application/views/gened/index.php
+DEBUG - 2012-12-31 17:18:22 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:18:22 --> Final output sent to browser
+DEBUG - 2012-12-31 17:18:22 --> Total execution time: 0.2630
+DEBUG - 2012-12-31 17:18:23 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:23 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:23 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:23 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:23 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:23 --> Router Class Initialized
+ERROR - 2012-12-31 17:18:23 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:18:26 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:26 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:26 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:26 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:26 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:26 --> Router Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> Output Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> Security Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> Input Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:27 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:27 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:27 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:18:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:18:27 --> Language Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:18:27 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> Session Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:18:27 --> Session routines successfully run
+DEBUG - 2012-12-31 17:18:27 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:27 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:18:27 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 17:18:27 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:18:27 --> Final output sent to browser
+DEBUG - 2012-12-31 17:18:27 --> Total execution time: 0.7905
+DEBUG - 2012-12-31 17:18:29 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:29 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:29 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:29 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:29 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:29 --> Router Class Initialized
+ERROR - 2012-12-31 17:18:29 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:18:30 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:30 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:30 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:30 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:30 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:30 --> Router Class Initialized
+ERROR - 2012-12-31 17:18:30 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:18:32 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:32 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:32 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:32 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:32 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:32 --> Router Class Initialized
+DEBUG - 2012-12-31 17:18:32 --> Output Class Initialized
+DEBUG - 2012-12-31 17:18:32 --> Security Class Initialized
+DEBUG - 2012-12-31 17:18:32 --> Input Class Initialized
+DEBUG - 2012-12-31 17:18:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:33 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:33 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:33 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:18:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:18:33 --> Language Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:18:33 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> Session Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:18:33 --> Session routines successfully run
+DEBUG - 2012-12-31 17:18:33 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 17:18:33 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 17:18:33 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 17:18:33 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:18:33 --> Final output sent to browser
+DEBUG - 2012-12-31 17:18:33 --> Total execution time: 0.3351
+DEBUG - 2012-12-31 17:18:34 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:34 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:34 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:34 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:34 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:34 --> Router Class Initialized
+ERROR - 2012-12-31 17:18:34 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:18:52 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:52 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Router Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Output Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Security Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Input Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:52 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:52 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:18:52 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:18:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:18:52 --> Language Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:18:52 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Session Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:18:52 --> Session routines successfully run
+DEBUG - 2012-12-31 17:18:52 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Model Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 17:18:52 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 17:18:52 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 17:18:52 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:18:52 --> Final output sent to browser
+DEBUG - 2012-12-31 17:18:52 --> Total execution time: 0.1825
+DEBUG - 2012-12-31 17:18:57 --> Config Class Initialized
+DEBUG - 2012-12-31 17:18:57 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:18:57 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:18:57 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:18:57 --> URI Class Initialized
+DEBUG - 2012-12-31 17:18:57 --> Router Class Initialized
+ERROR - 2012-12-31 17:18:57 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:19:10 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:10 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> Router Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 17:19:10 --> Output Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> Security Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> Input Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:10 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:19:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:19:10 --> Language Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:19:10 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> Session Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:19:10 --> Session routines successfully run
+DEBUG - 2012-12-31 17:19:10 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:19:10 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:19:10 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 17:19:10 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:19:10 --> Final output sent to browser
+DEBUG - 2012-12-31 17:19:10 --> Total execution time: 0.1181
+DEBUG - 2012-12-31 17:19:12 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:12 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:12 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:12 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:12 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:12 --> Router Class Initialized
+ERROR - 2012-12-31 17:19:12 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:19:14 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:14 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> Router Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> Output Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> Security Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> Input Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:14 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:19:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:19:14 --> Language Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:19:14 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> Session Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:19:14 --> Session routines successfully run
+DEBUG - 2012-12-31 17:19:14 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:19:14 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:19:14 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:19:14 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:19:14 --> Final output sent to browser
+DEBUG - 2012-12-31 17:19:14 --> Total execution time: 0.1979
+DEBUG - 2012-12-31 17:19:15 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:15 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:15 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:15 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:15 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:15 --> Router Class Initialized
+ERROR - 2012-12-31 17:19:15 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:19:22 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:22 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:22 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:22 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:22 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:22 --> Router Class Initialized
+ERROR - 2012-12-31 17:19:22 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:19:24 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:24 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> Router Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 17:19:24 --> Output Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> Security Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> Input Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:24 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:19:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:19:24 --> Language Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:19:24 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> Session Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:19:24 --> Session routines successfully run
+DEBUG - 2012-12-31 17:19:24 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:19:24 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:19:24 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 17:19:24 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:19:25 --> Final output sent to browser
+DEBUG - 2012-12-31 17:19:25 --> Total execution time: 0.1771
+DEBUG - 2012-12-31 17:19:29 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:29 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:29 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:29 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:29 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:29 --> Router Class Initialized
+ERROR - 2012-12-31 17:19:29 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:19:31 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:31 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> Router Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> Output Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> Security Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> Input Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:31 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:19:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:19:31 --> Language Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:19:31 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> Session Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:19:31 --> Session routines successfully run
+DEBUG - 2012-12-31 17:19:31 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:19:31 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:19:31 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:19:31 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:19:31 --> Final output sent to browser
+DEBUG - 2012-12-31 17:19:31 --> Total execution time: 0.1970
+DEBUG - 2012-12-31 17:19:32 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:32 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:32 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:32 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:32 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:32 --> Router Class Initialized
+ERROR - 2012-12-31 17:19:32 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:19:36 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:36 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:36 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:36 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:36 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:36 --> Router Class Initialized
+ERROR - 2012-12-31 17:19:36 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:19:41 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:41 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> Router Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 17:19:41 --> Output Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> Security Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> Input Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:41 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:41 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:41 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:19:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:19:41 --> Language Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:19:41 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> Session Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:19:41 --> Session routines successfully run
+DEBUG - 2012-12-31 17:19:41 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:19:41 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:19:41 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 17:19:41 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:19:41 --> Final output sent to browser
+DEBUG - 2012-12-31 17:19:41 --> Total execution time: 0.1750
+DEBUG - 2012-12-31 17:19:46 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:46 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:46 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:46 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:46 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:46 --> Router Class Initialized
+ERROR - 2012-12-31 17:19:46 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:19:47 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:47 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> Router Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 17:19:47 --> Output Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> Security Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> Input Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:47 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:19:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:19:47 --> Language Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:19:47 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> Session Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:19:47 --> Session routines successfully run
+DEBUG - 2012-12-31 17:19:47 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:19:47 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:19:47 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 17:19:47 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:19:47 --> Final output sent to browser
+DEBUG - 2012-12-31 17:19:47 --> Total execution time: 0.2893
+DEBUG - 2012-12-31 17:19:53 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:53 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:53 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:53 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:53 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:53 --> Router Class Initialized
+ERROR - 2012-12-31 17:19:53 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:19:54 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:54 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:54 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:54 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:54 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:54 --> Router Class Initialized
+DEBUG - 2012-12-31 17:19:54 --> Output Class Initialized
+DEBUG - 2012-12-31 17:19:54 --> Security Class Initialized
+DEBUG - 2012-12-31 17:19:54 --> Input Class Initialized
+DEBUG - 2012-12-31 17:19:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:54 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:19:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:19:54 --> Language Class Initialized
+DEBUG - 2012-12-31 17:19:54 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:19:54 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:19:55 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:19:55 --> Session Class Initialized
+DEBUG - 2012-12-31 17:19:55 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:19:55 --> Session routines successfully run
+DEBUG - 2012-12-31 17:19:55 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:19:55 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:19:55 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:19:55 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:19:55 --> Final output sent to browser
+DEBUG - 2012-12-31 17:19:55 --> Total execution time: 0.2725
+DEBUG - 2012-12-31 17:19:56 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:56 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:56 --> Router Class Initialized
+ERROR - 2012-12-31 17:19:56 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:19:59 --> Config Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:19:59 --> URI Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> Router Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 17:19:59 --> Output Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> Security Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> Input Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:19:59 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:19:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:19:59 --> Language Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:19:59 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> Session Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:19:59 --> Session routines successfully run
+DEBUG - 2012-12-31 17:19:59 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:19:59 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:19:59 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 17:19:59 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:19:59 --> Final output sent to browser
+DEBUG - 2012-12-31 17:19:59 --> Total execution time: 0.2338
+DEBUG - 2012-12-31 17:20:02 --> Config Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:20:02 --> URI Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> Router Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> Output Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> Security Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> Input Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:20:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:20:02 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:20:02 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:20:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:20:02 --> Language Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:20:02 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> Session Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:20:02 --> Session routines successfully run
+DEBUG - 2012-12-31 17:20:02 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:20:02 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:20:02 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:20:02 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:20:02 --> Final output sent to browser
+DEBUG - 2012-12-31 17:20:02 --> Total execution time: 0.2375
+DEBUG - 2012-12-31 17:20:08 --> Config Class Initialized
+DEBUG - 2012-12-31 17:20:08 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:20:08 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:20:08 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:20:08 --> URI Class Initialized
+DEBUG - 2012-12-31 17:20:08 --> Router Class Initialized
+ERROR - 2012-12-31 17:20:08 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:21:32 --> Config Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:21:32 --> URI Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> Router Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> Output Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> Security Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> Input Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:21:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:21:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:21:32 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:21:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:21:32 --> Language Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:21:32 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> Session Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:21:32 --> Session routines successfully run
+DEBUG - 2012-12-31 17:21:32 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:21:32 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:21:32 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:21:32 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:21:32 --> Final output sent to browser
+DEBUG - 2012-12-31 17:21:32 --> Total execution time: 0.1037
+DEBUG - 2012-12-31 17:21:43 --> Config Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:21:43 --> URI Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> Router Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> Output Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> Security Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> Input Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:21:43 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:21:43 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:21:43 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:21:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:21:43 --> Language Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:21:43 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> Session Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:21:43 --> Session routines successfully run
+DEBUG - 2012-12-31 17:21:43 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:21:43 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:21:43 --> File loaded: ../application/views/lists/shopping.php
+DEBUG - 2012-12-31 17:21:43 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:21:43 --> Final output sent to browser
+DEBUG - 2012-12-31 17:21:43 --> Total execution time: 0.1430
+DEBUG - 2012-12-31 17:21:44 --> Config Class Initialized
+DEBUG - 2012-12-31 17:21:44 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:21:44 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:21:44 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:21:44 --> URI Class Initialized
+DEBUG - 2012-12-31 17:21:44 --> Router Class Initialized
+ERROR - 2012-12-31 17:21:44 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:23:14 --> Config Class Initialized
+DEBUG - 2012-12-31 17:23:14 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:23:14 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:23:14 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:23:14 --> URI Class Initialized
+DEBUG - 2012-12-31 17:23:14 --> Router Class Initialized
+ERROR - 2012-12-31 17:23:14 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:23:17 --> Config Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:23:17 --> URI Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> Router Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> Output Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> Security Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> Input Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:23:17 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:23:17 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:23:17 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:23:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:23:17 --> Language Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:23:17 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> Session Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:23:17 --> Session routines successfully run
+DEBUG - 2012-12-31 17:23:17 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:23:17 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:23:17 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:23:17 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:23:17 --> Final output sent to browser
+DEBUG - 2012-12-31 17:23:17 --> Total execution time: 0.1606
+DEBUG - 2012-12-31 17:23:21 --> Config Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:23:21 --> URI Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> Router Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> Output Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> Security Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> Input Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:23:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:23:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:23:21 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:23:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:23:21 --> Language Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:23:21 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> Session Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:23:21 --> Session routines successfully run
+DEBUG - 2012-12-31 17:23:21 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:23:21 --> File loaded: ../application/views/templates/header.php
+ERROR - 2012-12-31 17:23:22 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/list.php 6
+ERROR - 2012-12-31 17:23:22 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/list.php 6
+ERROR - 2012-12-31 17:23:22 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/list.php 6
+ERROR - 2012-12-31 17:23:22 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/list.php 6
+DEBUG - 2012-12-31 17:23:22 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 17:23:22 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:23:22 --> Final output sent to browser
+DEBUG - 2012-12-31 17:23:22 --> Total execution time: 0.2195
+DEBUG - 2012-12-31 17:23:23 --> Config Class Initialized
+DEBUG - 2012-12-31 17:23:23 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:23:23 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:23:23 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:23:23 --> URI Class Initialized
+DEBUG - 2012-12-31 17:23:23 --> Router Class Initialized
+ERROR - 2012-12-31 17:23:23 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:25:05 --> Config Class Initialized
+DEBUG - 2012-12-31 17:25:05 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:25:05 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:25:05 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:25:05 --> URI Class Initialized
+DEBUG - 2012-12-31 17:25:05 --> Router Class Initialized
+ERROR - 2012-12-31 17:25:05 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:25:09 --> Config Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:25:09 --> URI Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> Router Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> Output Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> Security Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> Input Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:25:09 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:25:09 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:25:09 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:25:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:25:09 --> Language Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:25:09 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> Session Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:25:09 --> Session routines successfully run
+DEBUG - 2012-12-31 17:25:09 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:25:09 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:25:09 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 17:25:09 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:25:09 --> Final output sent to browser
+DEBUG - 2012-12-31 17:25:09 --> Total execution time: 0.1571
+DEBUG - 2012-12-31 17:25:15 --> Config Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:25:15 --> URI Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Router Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Output Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Security Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Input Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:25:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:25:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:25:15 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:25:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:25:15 --> Language Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:25:15 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Session Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:25:15 --> Session routines successfully run
+DEBUG - 2012-12-31 17:25:15 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Model Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> Model Class Initialized
+DEBUG - 2012-12-31 17:25:15 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:25:15 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 17:25:15 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:25:15 --> Final output sent to browser
+DEBUG - 2012-12-31 17:25:15 --> Total execution time: 0.2106
+DEBUG - 2012-12-31 17:25:16 --> Config Class Initialized
+DEBUG - 2012-12-31 17:25:16 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:25:16 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:25:16 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:25:16 --> URI Class Initialized
+DEBUG - 2012-12-31 17:25:16 --> Router Class Initialized
+ERROR - 2012-12-31 17:25:16 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:28:14 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:14 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> Router Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 17:28:14 --> Output Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> Security Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> Input Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:14 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:28:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:28:14 --> Language Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:28:14 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> Session Class Initialized
+DEBUG - 2012-12-31 17:28:14 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:28:15 --> Session routines successfully run
+DEBUG - 2012-12-31 17:28:15 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:28:15 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:28:15 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 17:28:15 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:28:15 --> Final output sent to browser
+DEBUG - 2012-12-31 17:28:15 --> Total execution time: 0.1392
+DEBUG - 2012-12-31 17:28:16 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:16 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:16 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:16 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:16 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:16 --> Router Class Initialized
+ERROR - 2012-12-31 17:28:16 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:28:19 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:19 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> Router Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> Output Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> Security Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> Input Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:19 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:28:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:28:19 --> Language Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:28:19 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> Session Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:28:19 --> Session routines successfully run
+DEBUG - 2012-12-31 17:28:19 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:28:19 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:28:19 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 17:28:19 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:28:19 --> Final output sent to browser
+DEBUG - 2012-12-31 17:28:19 --> Total execution time: 0.2379
+DEBUG - 2012-12-31 17:28:21 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:21 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:21 --> Router Class Initialized
+ERROR - 2012-12-31 17:28:21 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:28:24 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:24 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Router Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Output Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Security Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Input Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:24 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:28:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:28:24 --> Language Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:28:24 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Session Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:28:24 --> Session routines successfully run
+DEBUG - 2012-12-31 17:28:24 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> Model Class Initialized
+DEBUG - 2012-12-31 17:28:24 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:28:24 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:28:24 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:28:24 --> Final output sent to browser
+DEBUG - 2012-12-31 17:28:24 --> Total execution time: 0.2113
+DEBUG - 2012-12-31 17:28:26 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:26 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:26 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:26 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:26 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:26 --> Router Class Initialized
+ERROR - 2012-12-31 17:28:26 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:28:28 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:28 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Router Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Output Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Security Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Input Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:28 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:28:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:28:28 --> Language Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:28:28 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Session Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:28:28 --> Session routines successfully run
+DEBUG - 2012-12-31 17:28:28 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Model Class Initialized
+DEBUG - 2012-12-31 17:28:28 --> Model Class Initialized
+DEBUG - 2012-12-31 17:28:29 --> File loaded: ../application/views/templates/header.php
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Undefined variable: course /home/jharvard/vhosts/project0/application/views/courses/course.php 46
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 46
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Undefined variable: department /home/jharvard/vhosts/project0/application/views/courses/course.php 49
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 49
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Undefined variable: course /home/jharvard/vhosts/project0/application/views/courses/course.php 52
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 52
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Undefined variable: instructor_names /home/jharvard/vhosts/project0/application/views/courses/course.php 54
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Undefined variable: locations /home/jharvard/vhosts/project0/application/views/courses/course.php 61
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Undefined variable: schedules /home/jharvard/vhosts/project0/application/views/courses/course.php 68
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Undefined variable: course /home/jharvard/vhosts/project0/application/views/courses/course.php 84
+ERROR - 2012-12-31 17:28:29 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 84
+DEBUG - 2012-12-31 17:28:29 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 17:28:29 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:28:29 --> Final output sent to browser
+DEBUG - 2012-12-31 17:28:29 --> Total execution time: 0.3259
+DEBUG - 2012-12-31 17:28:33 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:33 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:33 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:33 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:33 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:33 --> Router Class Initialized
+ERROR - 2012-12-31 17:28:33 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:28:33 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:33 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:33 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:33 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:33 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:33 --> Router Class Initialized
+ERROR - 2012-12-31 17:28:33 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:28:45 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:45 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Router Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Output Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Security Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Input Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:45 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:45 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:45 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:28:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:28:45 --> Language Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:28:45 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Session Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:28:45 --> Session routines successfully run
+DEBUG - 2012-12-31 17:28:45 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Model Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> Model Class Initialized
+DEBUG - 2012-12-31 17:28:45 --> File loaded: ../application/views/templates/header.php
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Undefined variable: course /home/jharvard/vhosts/project0/application/views/courses/course.php 46
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 46
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Undefined variable: department /home/jharvard/vhosts/project0/application/views/courses/course.php 49
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 49
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Undefined variable: course /home/jharvard/vhosts/project0/application/views/courses/course.php 52
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 52
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Undefined variable: instructor_names /home/jharvard/vhosts/project0/application/views/courses/course.php 54
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Undefined variable: locations /home/jharvard/vhosts/project0/application/views/courses/course.php 61
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Undefined variable: schedules /home/jharvard/vhosts/project0/application/views/courses/course.php 68
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Undefined variable: course /home/jharvard/vhosts/project0/application/views/courses/course.php 84
+ERROR - 2012-12-31 17:28:45 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 84
+DEBUG - 2012-12-31 17:28:45 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 17:28:45 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:28:45 --> Final output sent to browser
+DEBUG - 2012-12-31 17:28:45 --> Total execution time: 0.1274
+DEBUG - 2012-12-31 17:28:56 --> Config Class Initialized
+DEBUG - 2012-12-31 17:28:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:28:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:28:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:28:56 --> URI Class Initialized
+DEBUG - 2012-12-31 17:28:56 --> Router Class Initialized
+DEBUG - 2012-12-31 17:28:56 --> Output Class Initialized
+DEBUG - 2012-12-31 17:28:56 --> Security Class Initialized
+DEBUG - 2012-12-31 17:28:56 --> Input Class Initialized
+DEBUG - 2012-12-31 17:28:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:28:56 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:28:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:28:56 --> Language Class Initialized
+DEBUG - 2012-12-31 17:28:56 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:28:56 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:28:57 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:28:57 --> Session Class Initialized
+DEBUG - 2012-12-31 17:28:57 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:28:57 --> Session routines successfully run
+DEBUG - 2012-12-31 17:28:57 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:28:57 --> Model Class Initialized
+DEBUG - 2012-12-31 17:28:57 --> Model Class Initialized
+DEBUG - 2012-12-31 17:28:57 --> File loaded: ../application/views/templates/header.php
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Undefined variable: course /home/jharvard/vhosts/project0/application/views/courses/course.php 46
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 46
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Undefined variable: department /home/jharvard/vhosts/project0/application/views/courses/course.php 49
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 49
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Undefined variable: course /home/jharvard/vhosts/project0/application/views/courses/course.php 52
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 52
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Undefined variable: instructor_names /home/jharvard/vhosts/project0/application/views/courses/course.php 54
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Undefined variable: locations /home/jharvard/vhosts/project0/application/views/courses/course.php 61
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Undefined variable: schedules /home/jharvard/vhosts/project0/application/views/courses/course.php 68
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Undefined variable: course /home/jharvard/vhosts/project0/application/views/courses/course.php 84
+ERROR - 2012-12-31 17:28:57 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/views/courses/course.php 84
+DEBUG - 2012-12-31 17:28:57 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 17:28:57 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:28:57 --> Final output sent to browser
+DEBUG - 2012-12-31 17:28:57 --> Total execution time: 0.3041
+DEBUG - 2012-12-31 17:29:35 --> Config Class Initialized
+DEBUG - 2012-12-31 17:29:35 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:29:35 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:29:35 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:29:35 --> URI Class Initialized
+DEBUG - 2012-12-31 17:29:35 --> Router Class Initialized
+DEBUG - 2012-12-31 17:29:35 --> Output Class Initialized
+DEBUG - 2012-12-31 17:29:35 --> Security Class Initialized
+DEBUG - 2012-12-31 17:29:35 --> Input Class Initialized
+DEBUG - 2012-12-31 17:29:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:35 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:29:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:29:35 --> Language Class Initialized
+DEBUG - 2012-12-31 17:29:35 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:29:35 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:29:36 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:29:36 --> Session Class Initialized
+DEBUG - 2012-12-31 17:29:36 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:29:36 --> Session routines successfully run
+DEBUG - 2012-12-31 17:29:36 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:29:36 --> Model Class Initialized
+DEBUG - 2012-12-31 17:29:36 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:29:36 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:29:36 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:29:36 --> Final output sent to browser
+DEBUG - 2012-12-31 17:29:36 --> Total execution time: 0.3141
+DEBUG - 2012-12-31 17:29:36 --> Config Class Initialized
+DEBUG - 2012-12-31 17:29:36 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:29:36 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:29:36 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:29:36 --> URI Class Initialized
+DEBUG - 2012-12-31 17:29:36 --> Router Class Initialized
+ERROR - 2012-12-31 17:29:36 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:29:40 --> Config Class Initialized
+DEBUG - 2012-12-31 17:29:40 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:29:40 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:29:40 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:29:40 --> URI Class Initialized
+DEBUG - 2012-12-31 17:29:40 --> Router Class Initialized
+ERROR - 2012-12-31 17:29:40 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:29:42 --> Config Class Initialized
+DEBUG - 2012-12-31 17:29:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:29:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:29:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:29:42 --> URI Class Initialized
+DEBUG - 2012-12-31 17:29:42 --> Router Class Initialized
+ERROR - 2012-12-31 17:29:42 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:29:47 --> Config Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:29:47 --> URI Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Router Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Output Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Security Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Input Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:47 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:29:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:29:47 --> Language Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:29:47 --> Config Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:29:47 --> URI Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Router Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Database Driver Class Initialized
+ERROR - 2012-12-31 17:29:47 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:29:47 --> Session Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:29:47 --> Session routines successfully run
+DEBUG - 2012-12-31 17:29:47 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> Model Class Initialized
+DEBUG - 2012-12-31 17:29:47 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:29:47 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:29:47 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:29:47 --> Final output sent to browser
+DEBUG - 2012-12-31 17:29:47 --> Total execution time: 0.5560
+DEBUG - 2012-12-31 17:29:51 --> Config Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:29:51 --> URI Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Router Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Output Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Security Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Input Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:51 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:29:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:29:51 --> Language Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:29:51 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Session Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:29:51 --> Session routines successfully run
+DEBUG - 2012-12-31 17:29:51 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> Model Class Initialized
+DEBUG - 2012-12-31 17:29:51 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:29:51 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:29:51 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:29:51 --> Final output sent to browser
+DEBUG - 2012-12-31 17:29:51 --> Total execution time: 0.2695
+DEBUG - 2012-12-31 17:29:56 --> Config Class Initialized
+DEBUG - 2012-12-31 17:29:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:29:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:29:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:29:56 --> URI Class Initialized
+DEBUG - 2012-12-31 17:29:56 --> Router Class Initialized
+ERROR - 2012-12-31 17:29:56 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:29:57 --> Config Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:29:57 --> URI Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Router Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Output Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Security Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Input Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:29:57 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:29:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:29:57 --> Language Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:29:57 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Session Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:29:57 --> Session routines successfully run
+DEBUG - 2012-12-31 17:29:57 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Model Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> Model Class Initialized
+DEBUG - 2012-12-31 17:29:57 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:29:57 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 17:29:57 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:29:57 --> Final output sent to browser
+DEBUG - 2012-12-31 17:29:57 --> Total execution time: 0.3689
+DEBUG - 2012-12-31 17:29:59 --> Config Class Initialized
+DEBUG - 2012-12-31 17:29:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:29:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:29:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:29:59 --> URI Class Initialized
+DEBUG - 2012-12-31 17:29:59 --> Router Class Initialized
+ERROR - 2012-12-31 17:29:59 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:30:13 --> Config Class Initialized
+DEBUG - 2012-12-31 17:30:13 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:30:13 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:30:13 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:30:13 --> URI Class Initialized
+DEBUG - 2012-12-31 17:30:13 --> Router Class Initialized
+ERROR - 2012-12-31 17:30:13 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:30:14 --> Config Class Initialized
+DEBUG - 2012-12-31 17:30:14 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:30:14 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:30:14 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:30:14 --> URI Class Initialized
+DEBUG - 2012-12-31 17:30:14 --> Router Class Initialized
+DEBUG - 2012-12-31 17:30:14 --> Output Class Initialized
+DEBUG - 2012-12-31 17:30:14 --> Security Class Initialized
+DEBUG - 2012-12-31 17:30:14 --> Input Class Initialized
+DEBUG - 2012-12-31 17:30:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:30:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:30:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:30:15 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:30:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:30:15 --> Language Class Initialized
+DEBUG - 2012-12-31 17:30:15 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:30:15 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:30:15 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:30:15 --> Session Class Initialized
+DEBUG - 2012-12-31 17:30:15 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:30:15 --> Session routines successfully run
+DEBUG - 2012-12-31 17:30:15 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:30:15 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:30:15 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 17:30:15 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:30:15 --> Final output sent to browser
+DEBUG - 2012-12-31 17:30:15 --> Total execution time: 0.3474
+DEBUG - 2012-12-31 17:30:15 --> Config Class Initialized
+DEBUG - 2012-12-31 17:30:15 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:30:15 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:30:15 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:30:15 --> URI Class Initialized
+DEBUG - 2012-12-31 17:30:15 --> Router Class Initialized
+ERROR - 2012-12-31 17:30:15 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:30:20 --> Config Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:30:20 --> URI Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Router Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Output Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Security Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Input Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:30:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:30:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:30:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:30:20 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:30:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:30:20 --> Language Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:30:20 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Session Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:30:20 --> Session routines successfully run
+DEBUG - 2012-12-31 17:30:20 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> Model Class Initialized
+DEBUG - 2012-12-31 17:30:20 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:30:20 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:30:20 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:30:20 --> Final output sent to browser
+DEBUG - 2012-12-31 17:30:20 --> Total execution time: 0.2272
+DEBUG - 2012-12-31 17:30:22 --> Config Class Initialized
+DEBUG - 2012-12-31 17:30:22 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:30:22 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:30:22 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:30:22 --> URI Class Initialized
+DEBUG - 2012-12-31 17:30:22 --> Router Class Initialized
+ERROR - 2012-12-31 17:30:22 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:30:24 --> Config Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:30:24 --> URI Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Router Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Output Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Security Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Input Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:30:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:30:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:30:24 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:30:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:30:24 --> Language Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:30:24 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Session Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:30:24 --> Session routines successfully run
+DEBUG - 2012-12-31 17:30:24 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Model Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> Model Class Initialized
+DEBUG - 2012-12-31 17:30:24 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:30:24 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 17:30:24 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:30:24 --> Final output sent to browser
+DEBUG - 2012-12-31 17:30:24 --> Total execution time: 0.2597
+DEBUG - 2012-12-31 17:30:25 --> Config Class Initialized
+DEBUG - 2012-12-31 17:30:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:30:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:30:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:30:25 --> URI Class Initialized
+DEBUG - 2012-12-31 17:30:25 --> Router Class Initialized
+ERROR - 2012-12-31 17:30:25 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:37:05 --> Config Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:37:05 --> URI Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Router Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Config Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Output Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Security Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:37:05 --> URI Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Router Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Input Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> XSS Filtering completed
+ERROR - 2012-12-31 17:37:05 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:37:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:05 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:37:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:37:05 --> Language Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:37:05 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Session Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:37:05 --> Session routines successfully run
+DEBUG - 2012-12-31 17:37:05 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> Model Class Initialized
+DEBUG - 2012-12-31 17:37:05 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:37:05 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:37:05 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:37:05 --> Final output sent to browser
+DEBUG - 2012-12-31 17:37:05 --> Total execution time: 0.2222
+DEBUG - 2012-12-31 17:37:08 --> Config Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:37:08 --> URI Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> Router Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> Output Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> Security Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> Input Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:08 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:37:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:37:08 --> Language Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:37:08 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> Session Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:37:08 --> Session routines successfully run
+DEBUG - 2012-12-31 17:37:08 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:37:08 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:37:08 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 17:37:08 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:37:08 --> Final output sent to browser
+DEBUG - 2012-12-31 17:37:08 --> Total execution time: 0.2141
+DEBUG - 2012-12-31 17:37:09 --> Config Class Initialized
+DEBUG - 2012-12-31 17:37:09 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:37:09 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:37:09 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:37:09 --> URI Class Initialized
+DEBUG - 2012-12-31 17:37:09 --> Router Class Initialized
+ERROR - 2012-12-31 17:37:09 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:37:16 --> Config Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:37:16 --> URI Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Router Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Output Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Security Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Input Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:16 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:37:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:37:16 --> Language Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:37:16 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Session Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:37:16 --> Session routines successfully run
+DEBUG - 2012-12-31 17:37:16 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> Model Class Initialized
+DEBUG - 2012-12-31 17:37:16 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:37:16 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:37:16 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:37:16 --> Final output sent to browser
+DEBUG - 2012-12-31 17:37:16 --> Total execution time: 0.1342
+DEBUG - 2012-12-31 17:37:17 --> Config Class Initialized
+DEBUG - 2012-12-31 17:37:17 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:37:17 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:37:17 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:37:17 --> URI Class Initialized
+DEBUG - 2012-12-31 17:37:17 --> Router Class Initialized
+ERROR - 2012-12-31 17:37:17 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:37:21 --> Config Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:37:21 --> URI Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> Router Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> Output Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> Security Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> Input Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:37:21 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:37:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:37:21 --> Language Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:37:21 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> Session Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:37:21 --> Session routines successfully run
+DEBUG - 2012-12-31 17:37:21 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:37:21 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:37:21 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 17:37:21 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:37:21 --> Final output sent to browser
+DEBUG - 2012-12-31 17:37:21 --> Total execution time: 0.3169
+DEBUG - 2012-12-31 17:37:22 --> Config Class Initialized
+DEBUG - 2012-12-31 17:37:22 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:37:22 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:37:22 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:37:22 --> URI Class Initialized
+DEBUG - 2012-12-31 17:37:22 --> Router Class Initialized
+ERROR - 2012-12-31 17:37:22 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:43:54 --> Config Class Initialized
+DEBUG - 2012-12-31 17:43:54 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:43:54 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:43:54 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:43:55 --> URI Class Initialized
+DEBUG - 2012-12-31 17:43:55 --> Router Class Initialized
+DEBUG - 2012-12-31 17:43:55 --> Output Class Initialized
+DEBUG - 2012-12-31 17:43:55 --> Security Class Initialized
+DEBUG - 2012-12-31 17:43:55 --> Input Class Initialized
+DEBUG - 2012-12-31 17:43:55 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:43:55 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:43:55 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:43:55 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:43:55 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:43:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:43:55 --> Language Class Initialized
+DEBUG - 2012-12-31 17:43:55 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:43:55 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:43:55 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:43:55 --> Session Class Initialized
+DEBUG - 2012-12-31 17:43:55 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:43:55 --> Session routines successfully run
+DEBUG - 2012-12-31 17:43:55 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:43:55 --> Model Class Initialized
+DEBUG - 2012-12-31 17:43:56 --> Config Class Initialized
+DEBUG - 2012-12-31 17:43:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:43:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:43:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:43:56 --> URI Class Initialized
+DEBUG - 2012-12-31 17:43:56 --> Router Class Initialized
+ERROR - 2012-12-31 17:43:56 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:52:20 --> Config Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:52:20 --> Config Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:52:20 --> URI Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Router Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> URI Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Router Class Initialized
+ERROR - 2012-12-31 17:52:20 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:52:20 --> Output Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Security Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Input Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:52:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:52:20 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:52:20 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:52:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:52:20 --> Language Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:52:20 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Session Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:52:20 --> Session routines successfully run
+DEBUG - 2012-12-31 17:52:20 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:52:20 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:52:20 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 17:52:20 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:52:20 --> Final output sent to browser
+DEBUG - 2012-12-31 17:52:20 --> Total execution time: 0.2466
+DEBUG - 2012-12-31 17:52:37 --> Config Class Initialized
+DEBUG - 2012-12-31 17:52:37 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:52:37 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:52:37 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:52:37 --> URI Class Initialized
+DEBUG - 2012-12-31 17:52:37 --> Router Class Initialized
+DEBUG - 2012-12-31 17:52:37 --> Output Class Initialized
+DEBUG - 2012-12-31 17:52:37 --> Security Class Initialized
+DEBUG - 2012-12-31 17:52:37 --> Input Class Initialized
+DEBUG - 2012-12-31 17:52:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:52:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:52:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:52:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:52:37 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:52:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:52:38 --> Language Class Initialized
+DEBUG - 2012-12-31 17:52:38 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:52:38 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:52:38 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:52:38 --> Session Class Initialized
+DEBUG - 2012-12-31 17:52:38 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:52:38 --> Session routines successfully run
+DEBUG - 2012-12-31 17:52:38 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:52:38 --> Model Class Initialized
+ERROR - 2012-12-31 17:52:38 --> Severity: Warning  --> array_map() expects parameter 1 to be a valid callback, function 'trim;' not found or invalid function name /home/jharvard/vhosts/project0/application/controllers/instructors.php 16
+ERROR - 2012-12-31 17:52:38 --> Severity: Warning  --> array_filter() expects parameter 1 to be array, null given /home/jharvard/vhosts/project0/application/controllers/instructors.php 17
+ERROR - 2012-12-31 17:52:38 --> Severity: Warning  --> array_map() [<a href='function.array-map'>function.array-map</a>]: Argument #2 should be an array /home/jharvard/vhosts/project0/application/controllers/instructors.php 21
+ERROR - 2012-12-31 17:52:38 --> Severity: Warning  --> Invalid argument supplied for foreach() /home/jharvard/vhosts/project0/application/models/instructor.php 38
+DEBUG - 2012-12-31 17:52:38 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:52:38 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:52:38 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:52:38 --> Final output sent to browser
+DEBUG - 2012-12-31 17:52:38 --> Total execution time: 0.5340
+DEBUG - 2012-12-31 17:52:47 --> Config Class Initialized
+DEBUG - 2012-12-31 17:52:47 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:52:47 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:52:47 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:52:47 --> URI Class Initialized
+DEBUG - 2012-12-31 17:52:47 --> Router Class Initialized
+ERROR - 2012-12-31 17:52:47 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:53:44 --> Config Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:53:44 --> URI Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> Router Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> Output Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> Security Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> Input Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:53:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:53:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:53:44 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:53:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:53:44 --> Language Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:53:44 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> Session Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:53:44 --> Session routines successfully run
+DEBUG - 2012-12-31 17:53:44 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:53:44 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:53:44 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 17:53:44 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:53:44 --> Final output sent to browser
+DEBUG - 2012-12-31 17:53:44 --> Total execution time: 0.1769
+DEBUG - 2012-12-31 17:53:46 --> Config Class Initialized
+DEBUG - 2012-12-31 17:53:46 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:53:46 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:53:46 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:53:46 --> URI Class Initialized
+DEBUG - 2012-12-31 17:53:46 --> Router Class Initialized
+ERROR - 2012-12-31 17:53:46 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:54:05 --> Config Class Initialized
+DEBUG - 2012-12-31 17:54:05 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:54:05 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:54:05 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:54:05 --> URI Class Initialized
+DEBUG - 2012-12-31 17:54:05 --> Router Class Initialized
+DEBUG - 2012-12-31 17:54:05 --> Output Class Initialized
+DEBUG - 2012-12-31 17:54:06 --> Security Class Initialized
+DEBUG - 2012-12-31 17:54:06 --> Input Class Initialized
+DEBUG - 2012-12-31 17:54:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:54:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:54:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:54:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:54:06 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:54:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:54:06 --> Language Class Initialized
+DEBUG - 2012-12-31 17:54:06 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:54:06 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:54:06 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:54:06 --> Session Class Initialized
+DEBUG - 2012-12-31 17:54:06 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:54:06 --> Session routines successfully run
+DEBUG - 2012-12-31 17:54:06 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:54:06 --> Model Class Initialized
+DEBUG - 2012-12-31 17:54:06 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:54:06 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:54:06 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:54:06 --> Final output sent to browser
+DEBUG - 2012-12-31 17:54:06 --> Total execution time: 0.2895
+DEBUG - 2012-12-31 17:54:07 --> Config Class Initialized
+DEBUG - 2012-12-31 17:54:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:54:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:54:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:54:07 --> URI Class Initialized
+DEBUG - 2012-12-31 17:54:07 --> Router Class Initialized
+ERROR - 2012-12-31 17:54:07 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:59:39 --> Config Class Initialized
+DEBUG - 2012-12-31 17:59:39 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:59:39 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:59:39 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:59:39 --> URI Class Initialized
+DEBUG - 2012-12-31 17:59:39 --> Router Class Initialized
+DEBUG - 2012-12-31 17:59:39 --> Output Class Initialized
+DEBUG - 2012-12-31 17:59:39 --> Security Class Initialized
+DEBUG - 2012-12-31 17:59:39 --> Input Class Initialized
+DEBUG - 2012-12-31 17:59:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:39 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:59:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:59:39 --> Language Class Initialized
+DEBUG - 2012-12-31 17:59:40 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:59:40 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:59:40 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:59:40 --> Session Class Initialized
+DEBUG - 2012-12-31 17:59:40 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:59:40 --> Session routines successfully run
+DEBUG - 2012-12-31 17:59:40 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:59:40 --> Model Class Initialized
+DEBUG - 2012-12-31 17:59:40 --> File loaded: ../application/views/templates/header.php
+ERROR - 2012-12-31 17:59:40 --> Severity: Notice  --> Undefined variable: courses /home/jharvard/vhosts/project0/application/views/instructors/result.php 2
+ERROR - 2012-12-31 17:59:40 --> Severity: Warning  --> Invalid argument supplied for foreach() /home/jharvard/vhosts/project0/application/views/instructors/result.php 5
+DEBUG - 2012-12-31 17:59:40 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:59:40 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:59:40 --> Final output sent to browser
+DEBUG - 2012-12-31 17:59:40 --> Total execution time: 0.3286
+DEBUG - 2012-12-31 17:59:51 --> Config Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Config Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:59:51 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:59:51 --> URI Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> URI Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Router Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Router Class Initialized
+ERROR - 2012-12-31 17:59:51 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:59:51 --> Output Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Security Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Input Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:51 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:59:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:59:51 --> Language Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:59:51 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Session Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:59:51 --> Session routines successfully run
+DEBUG - 2012-12-31 17:59:51 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:59:51 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 17:59:51 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 17:59:51 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:59:51 --> Final output sent to browser
+DEBUG - 2012-12-31 17:59:51 --> Total execution time: 0.4030
+DEBUG - 2012-12-31 17:59:57 --> Config Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:59:57 --> URI Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Router Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Output Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Security Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Input Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 17:59:57 --> CRSF cookie Set
+DEBUG - 2012-12-31 17:59:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 17:59:57 --> Language Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Loader Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 17:59:57 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Session Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 17:59:57 --> Session routines successfully run
+DEBUG - 2012-12-31 17:59:57 --> Controller Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> Model Class Initialized
+DEBUG - 2012-12-31 17:59:57 --> File loaded: ../application/views/templates/header.php
+ERROR - 2012-12-31 17:59:57 --> Severity: Notice  --> Undefined variable: courses /home/jharvard/vhosts/project0/application/views/instructors/result.php 2
+ERROR - 2012-12-31 17:59:57 --> Severity: Warning  --> Invalid argument supplied for foreach() /home/jharvard/vhosts/project0/application/views/instructors/result.php 5
+DEBUG - 2012-12-31 17:59:57 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 17:59:57 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 17:59:57 --> Final output sent to browser
+DEBUG - 2012-12-31 17:59:57 --> Total execution time: 0.2885
+DEBUG - 2012-12-31 17:59:58 --> Config Class Initialized
+DEBUG - 2012-12-31 17:59:58 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:59:58 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:59:58 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:59:58 --> URI Class Initialized
+DEBUG - 2012-12-31 17:59:58 --> Router Class Initialized
+ERROR - 2012-12-31 17:59:58 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 17:59:59 --> Config Class Initialized
+DEBUG - 2012-12-31 17:59:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 17:59:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 17:59:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 17:59:59 --> URI Class Initialized
+DEBUG - 2012-12-31 17:59:59 --> Router Class Initialized
+ERROR - 2012-12-31 17:59:59 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:00:25 --> Config Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:00:25 --> URI Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Router Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Output Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Security Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Input Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:00:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:00:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:00:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:00:25 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:00:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:00:25 --> Language Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:00:25 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Session Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:00:25 --> Session routines successfully run
+DEBUG - 2012-12-31 18:00:25 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> Model Class Initialized
+DEBUG - 2012-12-31 18:00:25 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:00:25 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 18:00:25 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:00:25 --> Final output sent to browser
+DEBUG - 2012-12-31 18:00:25 --> Total execution time: 0.2272
+DEBUG - 2012-12-31 18:00:28 --> Config Class Initialized
+DEBUG - 2012-12-31 18:00:28 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:00:28 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:00:28 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:00:28 --> URI Class Initialized
+DEBUG - 2012-12-31 18:00:28 --> Router Class Initialized
+ERROR - 2012-12-31 18:00:28 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:02:49 --> Config Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:02:49 --> Config Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:02:49 --> URI Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Router Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> URI Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Router Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Output Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Security Class Initialized
+ERROR - 2012-12-31 18:02:49 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:02:49 --> Input Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:02:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:02:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:02:49 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:02:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:02:49 --> Language Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:02:49 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Session Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:02:49 --> Session routines successfully run
+DEBUG - 2012-12-31 18:02:49 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:02:49 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:02:49 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 18:02:49 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:02:49 --> Final output sent to browser
+DEBUG - 2012-12-31 18:02:49 --> Total execution time: 0.2600
+DEBUG - 2012-12-31 18:02:57 --> Config Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:02:57 --> URI Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Router Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Output Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Security Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Input Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:02:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:02:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:02:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:02:57 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:02:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:02:57 --> Language Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:02:57 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Session Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:02:57 --> Session routines successfully run
+DEBUG - 2012-12-31 18:02:57 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> Model Class Initialized
+DEBUG - 2012-12-31 18:02:57 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:02:57 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 18:02:57 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:02:57 --> Final output sent to browser
+DEBUG - 2012-12-31 18:02:57 --> Total execution time: 0.1484
+DEBUG - 2012-12-31 18:02:58 --> Config Class Initialized
+DEBUG - 2012-12-31 18:02:58 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:02:58 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:02:58 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:02:58 --> URI Class Initialized
+DEBUG - 2012-12-31 18:02:58 --> Router Class Initialized
+ERROR - 2012-12-31 18:02:58 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:03:03 --> Config Class Initialized
+DEBUG - 2012-12-31 18:03:03 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:03:03 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:03:03 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:03:03 --> URI Class Initialized
+DEBUG - 2012-12-31 18:03:03 --> Router Class Initialized
+DEBUG - 2012-12-31 18:03:03 --> Output Class Initialized
+DEBUG - 2012-12-31 18:03:03 --> Security Class Initialized
+DEBUG - 2012-12-31 18:03:03 --> Input Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:03:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:03:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:03:04 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:03:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:03:04 --> Language Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:03:04 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> Config Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:03:04 --> URI Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> Router Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> Session Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:03:04 --> Session routines successfully run
+ERROR - 2012-12-31 18:03:04 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:03:04 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:03:04 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:03:04 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 18:03:04 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:03:04 --> Final output sent to browser
+DEBUG - 2012-12-31 18:03:04 --> Total execution time: 0.2691
+DEBUG - 2012-12-31 18:03:12 --> Config Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:03:12 --> URI Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Router Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Output Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Security Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Input Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:03:12 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:03:12 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:03:12 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:03:12 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:03:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:03:12 --> Language Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:03:12 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Session Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:03:12 --> Session routines successfully run
+DEBUG - 2012-12-31 18:03:12 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> Model Class Initialized
+DEBUG - 2012-12-31 18:03:12 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:03:12 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 18:03:12 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:03:12 --> Final output sent to browser
+DEBUG - 2012-12-31 18:03:12 --> Total execution time: 0.1314
+DEBUG - 2012-12-31 18:03:13 --> Config Class Initialized
+DEBUG - 2012-12-31 18:03:13 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:03:13 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:03:13 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:03:13 --> URI Class Initialized
+DEBUG - 2012-12-31 18:03:13 --> Router Class Initialized
+ERROR - 2012-12-31 18:03:13 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:04:03 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:03 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Router Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:03 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Output Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Security Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Router Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Input Class Initialized
+ERROR - 2012-12-31 18:04:03 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:04:03 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:03 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:03 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:03 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:04:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:04:03 --> Language Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:04:03 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Session Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:04:03 --> Session routines successfully run
+DEBUG - 2012-12-31 18:04:03 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:04:03 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:04:03 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 18:04:03 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:04:03 --> Final output sent to browser
+DEBUG - 2012-12-31 18:04:03 --> Total execution time: 0.4239
+DEBUG - 2012-12-31 18:04:10 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:10 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Router Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Output Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Security Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Input Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:10 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:04:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:04:10 --> Language Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:04:10 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Session Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:04:10 --> Session routines successfully run
+DEBUG - 2012-12-31 18:04:10 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> Model Class Initialized
+DEBUG - 2012-12-31 18:04:10 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:04:10 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 18:04:10 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:04:10 --> Final output sent to browser
+DEBUG - 2012-12-31 18:04:10 --> Total execution time: 0.1199
+DEBUG - 2012-12-31 18:04:11 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:11 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:11 --> Router Class Initialized
+ERROR - 2012-12-31 18:04:11 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:04:11 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:11 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:11 --> Router Class Initialized
+ERROR - 2012-12-31 18:04:11 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:04:25 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:25 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> Router Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> Output Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> Security Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> Input Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:25 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:04:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:04:25 --> Language Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:04:25 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> Session Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:04:25 --> Session routines successfully run
+DEBUG - 2012-12-31 18:04:25 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:04:25 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:04:25 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 18:04:25 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:04:26 --> Final output sent to browser
+DEBUG - 2012-12-31 18:04:26 --> Total execution time: 0.3733
+DEBUG - 2012-12-31 18:04:26 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:26 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:26 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:26 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:26 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:26 --> Router Class Initialized
+ERROR - 2012-12-31 18:04:26 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:04:32 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:32 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Router Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Output Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Security Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Input Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:32 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:04:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:04:32 --> Language Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:04:32 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Session Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:04:32 --> Session routines successfully run
+DEBUG - 2012-12-31 18:04:32 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> Model Class Initialized
+DEBUG - 2012-12-31 18:04:32 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:04:32 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 18:04:32 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:04:32 --> Final output sent to browser
+DEBUG - 2012-12-31 18:04:32 --> Total execution time: 0.1640
+DEBUG - 2012-12-31 18:04:33 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:33 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:33 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:33 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:33 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:33 --> Router Class Initialized
+ERROR - 2012-12-31 18:04:33 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:04:38 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:38 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:38 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:38 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:38 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:38 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:38 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:38 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:38 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:38 --> Router Class Initialized
+DEBUG - 2012-12-31 18:04:38 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:38 --> Router Class Initialized
+ERROR - 2012-12-31 18:04:38 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:04:38 --> Output Class Initialized
+DEBUG - 2012-12-31 18:04:39 --> Security Class Initialized
+DEBUG - 2012-12-31 18:04:39 --> Input Class Initialized
+DEBUG - 2012-12-31 18:04:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:39 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:04:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:04:39 --> Language Class Initialized
+DEBUG - 2012-12-31 18:04:39 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:04:39 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:04:39 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:04:39 --> Session Class Initialized
+DEBUG - 2012-12-31 18:04:39 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:04:39 --> Session routines successfully run
+DEBUG - 2012-12-31 18:04:39 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:04:39 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:04:39 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 18:04:39 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:04:39 --> Final output sent to browser
+DEBUG - 2012-12-31 18:04:39 --> Total execution time: 0.2393
+DEBUG - 2012-12-31 18:04:44 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:44 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Router Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Output Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Security Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Input Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:44 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:44 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:04:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:04:44 --> Language Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:04:44 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Session Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:04:44 --> Session routines successfully run
+DEBUG - 2012-12-31 18:04:44 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> Model Class Initialized
+DEBUG - 2012-12-31 18:04:44 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:04:45 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 18:04:45 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:04:45 --> Final output sent to browser
+DEBUG - 2012-12-31 18:04:45 --> Total execution time: 0.3600
+DEBUG - 2012-12-31 18:04:48 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:48 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:48 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:48 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:48 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:48 --> Router Class Initialized
+ERROR - 2012-12-31 18:04:48 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:04:50 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:50 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:50 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:50 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:50 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:50 --> Router Class Initialized
+ERROR - 2012-12-31 18:04:50 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:04:59 --> Config Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:04:59 --> URI Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> Router Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> Output Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> Security Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> Input Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:04:59 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:04:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:04:59 --> Language Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:04:59 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> Session Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:04:59 --> Session routines successfully run
+DEBUG - 2012-12-31 18:04:59 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:04:59 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:04:59 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 18:04:59 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:04:59 --> Final output sent to browser
+DEBUG - 2012-12-31 18:04:59 --> Total execution time: 0.3505
+DEBUG - 2012-12-31 18:05:00 --> Config Class Initialized
+DEBUG - 2012-12-31 18:05:00 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:05:00 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:05:00 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:05:00 --> URI Class Initialized
+DEBUG - 2012-12-31 18:05:00 --> Router Class Initialized
+ERROR - 2012-12-31 18:05:00 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:05:14 --> Config Class Initialized
+DEBUG - 2012-12-31 18:05:14 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:05:14 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:05:14 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:05:14 --> URI Class Initialized
+DEBUG - 2012-12-31 18:05:14 --> Router Class Initialized
+DEBUG - 2012-12-31 18:05:14 --> Output Class Initialized
+DEBUG - 2012-12-31 18:05:14 --> Security Class Initialized
+DEBUG - 2012-12-31 18:05:14 --> Input Class Initialized
+DEBUG - 2012-12-31 18:05:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:05:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:05:14 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:05:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:05:15 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:05:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:05:15 --> Language Class Initialized
+DEBUG - 2012-12-31 18:05:15 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:05:15 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:05:15 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:05:15 --> Session Class Initialized
+DEBUG - 2012-12-31 18:05:15 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:05:15 --> Session routines successfully run
+DEBUG - 2012-12-31 18:05:15 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:05:15 --> Model Class Initialized
+DEBUG - 2012-12-31 18:05:15 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:05:15 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 18:05:15 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:05:15 --> Final output sent to browser
+DEBUG - 2012-12-31 18:05:15 --> Total execution time: 0.1560
+DEBUG - 2012-12-31 18:05:16 --> Config Class Initialized
+DEBUG - 2012-12-31 18:05:16 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:05:16 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:05:16 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:05:16 --> URI Class Initialized
+DEBUG - 2012-12-31 18:05:16 --> Router Class Initialized
+ERROR - 2012-12-31 18:05:16 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:18:11 --> Config Class Initialized
+DEBUG - 2012-12-31 18:18:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:18:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:18:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:18:11 --> URI Class Initialized
+DEBUG - 2012-12-31 18:18:11 --> Router Class Initialized
+DEBUG - 2012-12-31 18:18:11 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 18:18:11 --> Output Class Initialized
+DEBUG - 2012-12-31 18:18:11 --> Security Class Initialized
+DEBUG - 2012-12-31 18:18:11 --> Input Class Initialized
+DEBUG - 2012-12-31 18:18:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:18:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:18:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:18:11 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:18:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:18:11 --> Language Class Initialized
+DEBUG - 2012-12-31 18:18:11 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:18:11 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:18:12 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:18:12 --> Session Class Initialized
+DEBUG - 2012-12-31 18:18:12 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:18:12 --> Session routines successfully run
+DEBUG - 2012-12-31 18:18:12 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:18:12 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:18:12 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 18:18:12 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:18:12 --> Final output sent to browser
+DEBUG - 2012-12-31 18:18:12 --> Total execution time: 0.5590
+DEBUG - 2012-12-31 18:18:14 --> Config Class Initialized
+DEBUG - 2012-12-31 18:18:14 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:18:14 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:18:14 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:18:14 --> URI Class Initialized
+DEBUG - 2012-12-31 18:18:14 --> Router Class Initialized
+ERROR - 2012-12-31 18:18:14 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:18:17 --> Config Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:18:17 --> URI Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Router Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Output Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Security Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Input Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:18:17 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:18:17 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:18:17 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:18:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:18:17 --> Language Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:18:17 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Session Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:18:17 --> Session routines successfully run
+DEBUG - 2012-12-31 18:18:17 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:18:17 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:18:18 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:18:18 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:18:18 --> File loaded: ../application/views/login/index.php
+DEBUG - 2012-12-31 18:18:18 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:18:18 --> Final output sent to browser
+DEBUG - 2012-12-31 18:18:18 --> Total execution time: 0.3889
+DEBUG - 2012-12-31 18:18:19 --> Config Class Initialized
+DEBUG - 2012-12-31 18:18:19 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:18:19 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:18:19 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:18:19 --> URI Class Initialized
+DEBUG - 2012-12-31 18:18:19 --> Router Class Initialized
+ERROR - 2012-12-31 18:18:19 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:18:21 --> Config Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:18:21 --> URI Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Router Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Output Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Security Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Input Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:18:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:18:21 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:18:21 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:18:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:18:21 --> Language Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:18:21 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Session Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:18:21 --> Session routines successfully run
+DEBUG - 2012-12-31 18:18:21 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:18:21 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:18:21 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:18:21 --> File loaded: ../application/views/signup/index.php
+DEBUG - 2012-12-31 18:18:21 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:18:21 --> Final output sent to browser
+DEBUG - 2012-12-31 18:18:21 --> Total execution time: 0.2074
+DEBUG - 2012-12-31 18:18:23 --> Config Class Initialized
+DEBUG - 2012-12-31 18:18:23 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:18:23 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:18:23 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:18:23 --> URI Class Initialized
+DEBUG - 2012-12-31 18:18:23 --> Router Class Initialized
+ERROR - 2012-12-31 18:18:23 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:19:42 --> Config Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:19:42 --> URI Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Router Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Output Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Security Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Input Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:19:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:19:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:19:42 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:19:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:19:42 --> Language Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:19:42 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Session Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:19:42 --> Session routines successfully run
+DEBUG - 2012-12-31 18:19:42 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:19:42 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:19:42 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:19:42 --> File loaded: ../application/views/signup/index.php
+DEBUG - 2012-12-31 18:19:42 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:19:42 --> Final output sent to browser
+DEBUG - 2012-12-31 18:19:42 --> Total execution time: 0.0993
+DEBUG - 2012-12-31 18:20:22 --> Config Class Initialized
+DEBUG - 2012-12-31 18:20:22 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:20:22 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:20:22 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:20:22 --> URI Class Initialized
+DEBUG - 2012-12-31 18:20:22 --> Router Class Initialized
+DEBUG - 2012-12-31 18:20:22 --> Output Class Initialized
+DEBUG - 2012-12-31 18:20:22 --> Security Class Initialized
+DEBUG - 2012-12-31 18:20:22 --> Input Class Initialized
+DEBUG - 2012-12-31 18:20:22 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:20:22 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:20:22 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:20:22 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:20:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:20:22 --> Language Class Initialized
+DEBUG - 2012-12-31 18:20:22 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:20:22 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:20:23 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:20:23 --> Session Class Initialized
+DEBUG - 2012-12-31 18:20:23 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:20:23 --> Session routines successfully run
+DEBUG - 2012-12-31 18:20:23 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:20:23 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:20:23 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:20:23 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:20:23 --> File loaded: ../application/views/signup/index.php
+DEBUG - 2012-12-31 18:20:23 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:20:23 --> Final output sent to browser
+DEBUG - 2012-12-31 18:20:23 --> Total execution time: 0.1172
+DEBUG - 2012-12-31 18:20:25 --> Config Class Initialized
+DEBUG - 2012-12-31 18:20:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:20:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:20:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:20:25 --> URI Class Initialized
+DEBUG - 2012-12-31 18:20:25 --> Router Class Initialized
+ERROR - 2012-12-31 18:20:25 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:20:46 --> Config Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:20:46 --> URI Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Router Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Output Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Security Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Input Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:20:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:20:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:20:46 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:20:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:20:46 --> Language Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:20:46 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Session Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:20:46 --> Session routines successfully run
+DEBUG - 2012-12-31 18:20:46 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:20:46 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:20:46 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:20:46 --> File loaded: ../application/views/signup/index.php
+DEBUG - 2012-12-31 18:20:46 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:20:46 --> Final output sent to browser
+DEBUG - 2012-12-31 18:20:46 --> Total execution time: 0.1903
+DEBUG - 2012-12-31 18:20:49 --> Config Class Initialized
+DEBUG - 2012-12-31 18:20:49 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:20:49 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:20:49 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:20:49 --> URI Class Initialized
+DEBUG - 2012-12-31 18:20:49 --> Router Class Initialized
+ERROR - 2012-12-31 18:20:49 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:21:17 --> Config Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:21:17 --> URI Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Router Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Output Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Security Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Input Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:21:17 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:21:17 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:21:17 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:21:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:21:17 --> Language Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:21:17 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Session Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:21:17 --> Session routines successfully run
+DEBUG - 2012-12-31 18:21:17 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:21:17 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:21:17 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:21:17 --> File loaded: ../application/views/signup/index.php
+DEBUG - 2012-12-31 18:21:17 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:21:17 --> Final output sent to browser
+DEBUG - 2012-12-31 18:21:17 --> Total execution time: 0.1561
+DEBUG - 2012-12-31 18:21:20 --> Config Class Initialized
+DEBUG - 2012-12-31 18:21:20 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:21:20 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:21:20 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:21:20 --> URI Class Initialized
+DEBUG - 2012-12-31 18:21:20 --> Router Class Initialized
+ERROR - 2012-12-31 18:21:20 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:22:05 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:05 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> Router Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 18:22:05 --> Output Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> Security Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> Input Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:05 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:22:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:22:05 --> Language Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:22:05 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> Session Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:22:05 --> Session routines successfully run
+DEBUG - 2012-12-31 18:22:05 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:22:05 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:22:05 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 18:22:05 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:22:05 --> Final output sent to browser
+DEBUG - 2012-12-31 18:22:05 --> Total execution time: 0.2024
+DEBUG - 2012-12-31 18:22:07 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:07 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:07 --> Router Class Initialized
+ERROR - 2012-12-31 18:22:07 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:22:11 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:11 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> Router Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> Output Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> Security Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> Input Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:11 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:22:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:22:11 --> Language Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:22:11 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> Session Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:22:11 --> Session routines successfully run
+DEBUG - 2012-12-31 18:22:11 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:22:11 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:22:11 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 18:22:11 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:22:11 --> Final output sent to browser
+DEBUG - 2012-12-31 18:22:11 --> Total execution time: 0.3029
+DEBUG - 2012-12-31 18:22:12 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:12 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:12 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:12 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:12 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:12 --> Router Class Initialized
+ERROR - 2012-12-31 18:22:12 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:22:15 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:15 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> Router Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 18:22:15 --> Output Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> Security Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> Input Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:15 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:22:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:22:15 --> Language Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:22:15 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> Session Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:22:15 --> Session routines successfully run
+DEBUG - 2012-12-31 18:22:15 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:22:15 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:22:15 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 18:22:15 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:22:15 --> Final output sent to browser
+DEBUG - 2012-12-31 18:22:15 --> Total execution time: 0.1866
+DEBUG - 2012-12-31 18:22:18 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:18 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> Router Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> Output Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> Security Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> Input Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:18 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:18 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:18 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:22:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:22:18 --> Language Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:22:18 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> Session Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:22:18 --> Session routines successfully run
+DEBUG - 2012-12-31 18:22:18 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:22:18 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:22:18 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 18:22:18 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:22:18 --> Final output sent to browser
+DEBUG - 2012-12-31 18:22:18 --> Total execution time: 0.2104
+DEBUG - 2012-12-31 18:22:20 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:20 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:20 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:20 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:20 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:20 --> Router Class Initialized
+ERROR - 2012-12-31 18:22:20 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:22:23 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:23 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> Router Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> Output Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> Security Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> Input Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:23 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:23 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:23 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:22:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:22:23 --> Language Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:22:23 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> Session Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:22:23 --> Session routines successfully run
+DEBUG - 2012-12-31 18:22:23 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:22:23 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:22:23 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 18:22:23 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:22:23 --> Final output sent to browser
+DEBUG - 2012-12-31 18:22:23 --> Total execution time: 0.3215
+DEBUG - 2012-12-31 18:22:30 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:30 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Router Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Output Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Security Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Input Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:30 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:30 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:30 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:22:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:22:30 --> Language Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:22:30 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Session Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:22:30 --> Session routines successfully run
+DEBUG - 2012-12-31 18:22:30 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Model Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> Model Class Initialized
+DEBUG - 2012-12-31 18:22:30 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:22:30 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 18:22:30 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:22:30 --> Final output sent to browser
+DEBUG - 2012-12-31 18:22:30 --> Total execution time: 0.3848
+DEBUG - 2012-12-31 18:22:31 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:31 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:31 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:31 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:31 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:31 --> Router Class Initialized
+ERROR - 2012-12-31 18:22:31 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:22:32 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:32 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:32 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:32 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:32 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:32 --> Router Class Initialized
+ERROR - 2012-12-31 18:22:32 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:22:36 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:36 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Router Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Output Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Security Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Input Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:22:36 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:22:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:22:36 --> Language Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:22:36 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Session Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:22:36 --> Session routines successfully run
+DEBUG - 2012-12-31 18:22:36 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Model Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Model Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Model Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Model Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Model Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:22:36 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:22:36 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 18:22:36 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:22:36 --> Final output sent to browser
+DEBUG - 2012-12-31 18:22:36 --> Total execution time: 0.4876
+DEBUG - 2012-12-31 18:22:38 --> Config Class Initialized
+DEBUG - 2012-12-31 18:22:38 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:22:38 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:22:38 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:22:38 --> URI Class Initialized
+DEBUG - 2012-12-31 18:22:38 --> Router Class Initialized
+ERROR - 2012-12-31 18:22:38 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:23:06 --> Config Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:23:06 --> URI Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> Router Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 18:23:06 --> Output Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> Security Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> Input Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:23:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:23:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:23:06 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:23:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:23:06 --> Language Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:23:06 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> Session Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:23:06 --> Session routines successfully run
+DEBUG - 2012-12-31 18:23:06 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:23:06 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:23:06 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 18:23:06 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:23:06 --> Final output sent to browser
+DEBUG - 2012-12-31 18:23:06 --> Total execution time: 0.1545
+DEBUG - 2012-12-31 18:23:07 --> Config Class Initialized
+DEBUG - 2012-12-31 18:23:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:23:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:23:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:23:07 --> URI Class Initialized
+DEBUG - 2012-12-31 18:23:07 --> Router Class Initialized
+ERROR - 2012-12-31 18:23:07 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:23:10 --> Config Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:23:10 --> URI Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Router Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Output Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Security Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Input Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:23:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:23:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:23:10 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:23:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:23:10 --> Language Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:23:10 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Session Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:23:10 --> Session routines successfully run
+DEBUG - 2012-12-31 18:23:10 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:23:10 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:23:10 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:23:10 --> File loaded: ../application/views/login/index.php
+DEBUG - 2012-12-31 18:23:10 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:23:10 --> Final output sent to browser
+DEBUG - 2012-12-31 18:23:10 --> Total execution time: 0.2198
+DEBUG - 2012-12-31 18:23:12 --> Config Class Initialized
+DEBUG - 2012-12-31 18:23:12 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:23:12 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:23:12 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:23:12 --> URI Class Initialized
+DEBUG - 2012-12-31 18:23:12 --> Router Class Initialized
+ERROR - 2012-12-31 18:23:12 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:23:12 --> Config Class Initialized
+DEBUG - 2012-12-31 18:23:12 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:23:12 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:23:12 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:23:12 --> URI Class Initialized
+DEBUG - 2012-12-31 18:23:12 --> Router Class Initialized
+ERROR - 2012-12-31 18:23:12 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:23:22 --> Config Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:23:22 --> URI Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Router Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Output Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Security Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Input Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:23:22 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:23:22 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:23:22 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:23:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:23:22 --> Language Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:23:22 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Session Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:23:22 --> Session routines successfully run
+DEBUG - 2012-12-31 18:23:22 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:23:22 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:23:22 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:23:22 --> File loaded: ../application/views/signup/index.php
+DEBUG - 2012-12-31 18:23:22 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:23:22 --> Final output sent to browser
+DEBUG - 2012-12-31 18:23:22 --> Total execution time: 0.2266
+DEBUG - 2012-12-31 18:23:23 --> Config Class Initialized
+DEBUG - 2012-12-31 18:23:23 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:23:23 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:23:23 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:23:23 --> URI Class Initialized
+DEBUG - 2012-12-31 18:23:23 --> Router Class Initialized
+ERROR - 2012-12-31 18:23:23 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:27:46 --> Config Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:27:46 --> URI Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Router Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Output Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Security Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Input Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:46 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:27:46 --> CSRF token verified 
+DEBUG - 2012-12-31 18:27:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:27:46 --> Language Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:27:46 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Session Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:27:46 --> Session routines successfully run
+DEBUG - 2012-12-31 18:27:46 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:27:46 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:27:46 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2012-12-31 18:27:46 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:27:46 --> File loaded: ../application/views/signup/index.php
+DEBUG - 2012-12-31 18:27:46 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:27:46 --> Final output sent to browser
+DEBUG - 2012-12-31 18:27:46 --> Total execution time: 0.1646
+DEBUG - 2012-12-31 18:27:47 --> Config Class Initialized
+DEBUG - 2012-12-31 18:27:47 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:27:47 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:27:47 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:27:47 --> URI Class Initialized
+DEBUG - 2012-12-31 18:27:47 --> Router Class Initialized
+ERROR - 2012-12-31 18:27:47 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:27:59 --> Config Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:27:59 --> URI Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Router Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Output Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Security Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Input Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:27:59 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:27:59 --> CSRF token verified 
+DEBUG - 2012-12-31 18:27:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:27:59 --> Language Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:27:59 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Session Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:27:59 --> Session routines successfully run
+DEBUG - 2012-12-31 18:27:59 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:27:59 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:27:59 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2012-12-31 18:27:59 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:27:59 --> File loaded: ../application/views/signup/index.php
+DEBUG - 2012-12-31 18:27:59 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:27:59 --> Final output sent to browser
+DEBUG - 2012-12-31 18:27:59 --> Total execution time: 0.1559
+DEBUG - 2012-12-31 18:28:00 --> Config Class Initialized
+DEBUG - 2012-12-31 18:28:00 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:28:00 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:28:00 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:28:00 --> URI Class Initialized
+DEBUG - 2012-12-31 18:28:00 --> Router Class Initialized
+ERROR - 2012-12-31 18:28:00 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:28:08 --> Config Class Initialized
+DEBUG - 2012-12-31 18:28:08 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:28:08 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:28:08 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:28:08 --> URI Class Initialized
+DEBUG - 2012-12-31 18:28:08 --> Router Class Initialized
+DEBUG - 2012-12-31 18:28:08 --> Output Class Initialized
+DEBUG - 2012-12-31 18:28:08 --> Security Class Initialized
+DEBUG - 2012-12-31 18:28:08 --> Input Class Initialized
+DEBUG - 2012-12-31 18:28:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:08 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:08 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:28:08 --> CSRF token verified 
+DEBUG - 2012-12-31 18:28:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:28:08 --> Language Class Initialized
+DEBUG - 2012-12-31 18:28:08 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:28:08 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:28:09 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:28:09 --> Session Class Initialized
+DEBUG - 2012-12-31 18:28:09 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:28:09 --> Session routines successfully run
+DEBUG - 2012-12-31 18:28:09 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:28:09 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 18:28:09 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 18:28:09 --> Language file loaded: language/english/form_validation_lang.php
+ERROR - 2012-12-31 18:28:09 --> Severity: Notice  --> Undefined offset: 0 /home/jharvard/vhosts/project0/application/controllers/signup.php 38
+ERROR - 2012-12-31 18:28:09 --> Severity: Notice  --> Trying to get property of non-object /home/jharvard/vhosts/project0/application/controllers/signup.php 38
+DEBUG - 2012-12-31 18:28:09 --> Model Class Initialized
+DEBUG - 2012-12-31 18:28:09 --> Model Class Initialized
+DEBUG - 2012-12-31 18:28:09 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:28:09 --> File loaded: ../application/views/signup/success.php
+DEBUG - 2012-12-31 18:28:09 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:28:09 --> Final output sent to browser
+DEBUG - 2012-12-31 18:28:09 --> Total execution time: 0.6492
+DEBUG - 2012-12-31 18:28:10 --> Config Class Initialized
+DEBUG - 2012-12-31 18:28:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:28:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:28:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:28:10 --> URI Class Initialized
+DEBUG - 2012-12-31 18:28:10 --> Router Class Initialized
+ERROR - 2012-12-31 18:28:10 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:28:15 --> Config Class Initialized
+DEBUG - 2012-12-31 18:28:15 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:28:15 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:28:15 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:28:15 --> URI Class Initialized
+DEBUG - 2012-12-31 18:28:15 --> Router Class Initialized
+DEBUG - 2012-12-31 18:28:15 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 18:28:15 --> Output Class Initialized
+DEBUG - 2012-12-31 18:28:15 --> Security Class Initialized
+DEBUG - 2012-12-31 18:28:15 --> Input Class Initialized
+DEBUG - 2012-12-31 18:28:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:28:15 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:28:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:28:15 --> Language Class Initialized
+DEBUG - 2012-12-31 18:28:15 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:28:16 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:28:16 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:28:16 --> Session Class Initialized
+DEBUG - 2012-12-31 18:28:16 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:28:16 --> Session routines successfully run
+DEBUG - 2012-12-31 18:28:16 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:28:16 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:28:16 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 18:28:16 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:28:16 --> Final output sent to browser
+DEBUG - 2012-12-31 18:28:16 --> Total execution time: 0.4248
+DEBUG - 2012-12-31 18:28:18 --> Config Class Initialized
+DEBUG - 2012-12-31 18:28:18 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:28:18 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:28:18 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:28:18 --> URI Class Initialized
+DEBUG - 2012-12-31 18:28:18 --> Router Class Initialized
+ERROR - 2012-12-31 18:28:18 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:32:46 --> Config Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:32:46 --> URI Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> Router Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> Output Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> Security Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> Input Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:32:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:32:46 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:32:46 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:32:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:32:46 --> Language Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:32:46 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> Session Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:32:46 --> Session routines successfully run
+DEBUG - 2012-12-31 18:32:46 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:32:46 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:32:46 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:32:46 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:32:46 --> Final output sent to browser
+DEBUG - 2012-12-31 18:32:46 --> Total execution time: 0.3130
+DEBUG - 2012-12-31 18:32:48 --> Config Class Initialized
+DEBUG - 2012-12-31 18:32:48 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:32:48 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:32:48 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:32:48 --> URI Class Initialized
+DEBUG - 2012-12-31 18:32:48 --> Router Class Initialized
+ERROR - 2012-12-31 18:32:48 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:33:50 --> Config Class Initialized
+DEBUG - 2012-12-31 18:33:50 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:33:50 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:33:50 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:33:50 --> URI Class Initialized
+DEBUG - 2012-12-31 18:33:50 --> Router Class Initialized
+DEBUG - 2012-12-31 18:33:50 --> Output Class Initialized
+DEBUG - 2012-12-31 18:33:50 --> Security Class Initialized
+DEBUG - 2012-12-31 18:33:50 --> Input Class Initialized
+DEBUG - 2012-12-31 18:33:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:33:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:33:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:33:50 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:33:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:33:50 --> Language Class Initialized
+DEBUG - 2012-12-31 18:33:50 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:33:50 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:33:50 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:33:51 --> Session Class Initialized
+DEBUG - 2012-12-31 18:33:51 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:33:51 --> Session routines successfully run
+DEBUG - 2012-12-31 18:33:51 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:33:51 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:33:51 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:33:51 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:33:51 --> Final output sent to browser
+DEBUG - 2012-12-31 18:33:51 --> Total execution time: 0.1201
+DEBUG - 2012-12-31 18:33:55 --> Config Class Initialized
+DEBUG - 2012-12-31 18:33:55 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:33:55 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:33:55 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:33:55 --> URI Class Initialized
+DEBUG - 2012-12-31 18:33:55 --> Router Class Initialized
+ERROR - 2012-12-31 18:33:55 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:35:16 --> Config Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:35:16 --> URI Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> Router Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> Output Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> Security Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> Input Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:35:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:35:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:35:16 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:35:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:35:16 --> Language Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:35:16 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> Session Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:35:16 --> Session routines successfully run
+DEBUG - 2012-12-31 18:35:16 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:35:16 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:35:16 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:35:16 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:35:16 --> Final output sent to browser
+DEBUG - 2012-12-31 18:35:16 --> Total execution time: 0.1523
+DEBUG - 2012-12-31 18:35:20 --> Config Class Initialized
+DEBUG - 2012-12-31 18:35:20 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:35:20 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:35:20 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:35:20 --> URI Class Initialized
+DEBUG - 2012-12-31 18:35:20 --> Router Class Initialized
+ERROR - 2012-12-31 18:35:20 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:37:35 --> Config Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:37:35 --> URI Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> Router Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> Output Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> Security Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> Input Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:37:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:37:35 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:37:35 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:37:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:37:35 --> Language Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:37:35 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> Session Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:37:35 --> Session routines successfully run
+DEBUG - 2012-12-31 18:37:35 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:37:35 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:37:35 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:37:35 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:37:35 --> Final output sent to browser
+DEBUG - 2012-12-31 18:37:35 --> Total execution time: 0.1143
+DEBUG - 2012-12-31 18:37:39 --> Config Class Initialized
+DEBUG - 2012-12-31 18:37:39 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:37:39 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:37:39 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:37:39 --> URI Class Initialized
+DEBUG - 2012-12-31 18:37:39 --> Router Class Initialized
+ERROR - 2012-12-31 18:37:39 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:38:30 --> Config Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:38:30 --> URI Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> Router Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> Output Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> Security Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> Input Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:38:30 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:38:30 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:38:30 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:38:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:38:30 --> Language Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:38:30 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> Session Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:38:30 --> Session routines successfully run
+DEBUG - 2012-12-31 18:38:30 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:38:30 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:38:30 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:38:30 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:38:30 --> Final output sent to browser
+DEBUG - 2012-12-31 18:38:30 --> Total execution time: 0.1445
+DEBUG - 2012-12-31 18:38:34 --> Config Class Initialized
+DEBUG - 2012-12-31 18:38:34 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:38:34 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:38:34 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:38:34 --> URI Class Initialized
+DEBUG - 2012-12-31 18:38:34 --> Router Class Initialized
+ERROR - 2012-12-31 18:38:34 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:39:10 --> Config Class Initialized
+DEBUG - 2012-12-31 18:39:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:39:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:39:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:39:10 --> URI Class Initialized
+DEBUG - 2012-12-31 18:39:10 --> Router Class Initialized
+DEBUG - 2012-12-31 18:39:10 --> Output Class Initialized
+DEBUG - 2012-12-31 18:39:10 --> Security Class Initialized
+DEBUG - 2012-12-31 18:39:10 --> Input Class Initialized
+DEBUG - 2012-12-31 18:39:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:39:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:39:10 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:39:10 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:39:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:39:10 --> Language Class Initialized
+DEBUG - 2012-12-31 18:39:10 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:39:10 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:39:11 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:39:11 --> Session Class Initialized
+DEBUG - 2012-12-31 18:39:11 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:39:11 --> Session routines successfully run
+DEBUG - 2012-12-31 18:39:11 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:39:11 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:39:11 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:39:11 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:39:11 --> Final output sent to browser
+DEBUG - 2012-12-31 18:39:11 --> Total execution time: 0.1317
+DEBUG - 2012-12-31 18:39:15 --> Config Class Initialized
+DEBUG - 2012-12-31 18:39:15 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:39:15 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:39:15 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:39:15 --> URI Class Initialized
+DEBUG - 2012-12-31 18:39:15 --> Router Class Initialized
+ERROR - 2012-12-31 18:39:15 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:39:56 --> Config Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:39:56 --> URI Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> Router Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> Output Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> Security Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> Input Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:39:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:39:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:39:56 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:39:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:39:56 --> Language Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:39:56 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> Session Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:39:56 --> Session routines successfully run
+DEBUG - 2012-12-31 18:39:56 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:39:56 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:39:56 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:39:56 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:39:56 --> Final output sent to browser
+DEBUG - 2012-12-31 18:39:56 --> Total execution time: 0.1019
+DEBUG - 2012-12-31 18:40:01 --> Config Class Initialized
+DEBUG - 2012-12-31 18:40:01 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:40:01 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:40:01 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:40:01 --> URI Class Initialized
+DEBUG - 2012-12-31 18:40:01 --> Router Class Initialized
+ERROR - 2012-12-31 18:40:01 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:40:48 --> Config Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:40:48 --> URI Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> Router Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> Output Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> Security Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> Input Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:40:48 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:40:48 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:40:48 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:40:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:40:48 --> Language Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:40:48 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> Session Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:40:48 --> Session routines successfully run
+DEBUG - 2012-12-31 18:40:48 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:40:48 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:40:48 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:40:48 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:40:49 --> Final output sent to browser
+DEBUG - 2012-12-31 18:40:49 --> Total execution time: 0.2045
+DEBUG - 2012-12-31 18:40:53 --> Config Class Initialized
+DEBUG - 2012-12-31 18:40:53 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:40:53 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:40:53 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:40:53 --> URI Class Initialized
+DEBUG - 2012-12-31 18:40:53 --> Router Class Initialized
+ERROR - 2012-12-31 18:40:53 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:41:24 --> Config Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:41:24 --> URI Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> Router Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> Output Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> Security Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> Input Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:41:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:41:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:41:24 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:41:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:41:24 --> Language Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:41:24 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> Session Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:41:24 --> Session routines successfully run
+DEBUG - 2012-12-31 18:41:24 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:41:24 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:41:24 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:41:24 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:41:24 --> Final output sent to browser
+DEBUG - 2012-12-31 18:41:24 --> Total execution time: 0.1285
+DEBUG - 2012-12-31 18:41:28 --> Config Class Initialized
+DEBUG - 2012-12-31 18:41:28 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:41:28 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:41:28 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:41:28 --> URI Class Initialized
+DEBUG - 2012-12-31 18:41:28 --> Router Class Initialized
+ERROR - 2012-12-31 18:41:28 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:45:59 --> Config Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:45:59 --> URI Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> Router Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> Output Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> Security Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> Input Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:45:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:45:59 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:45:59 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:45:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:45:59 --> Language Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:45:59 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> Session Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:45:59 --> Session routines successfully run
+DEBUG - 2012-12-31 18:45:59 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:45:59 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:45:59 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:45:59 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:45:59 --> Final output sent to browser
+DEBUG - 2012-12-31 18:45:59 --> Total execution time: 0.1845
+DEBUG - 2012-12-31 18:46:03 --> Config Class Initialized
+DEBUG - 2012-12-31 18:46:04 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:46:04 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:46:04 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:46:04 --> URI Class Initialized
+DEBUG - 2012-12-31 18:46:04 --> Router Class Initialized
+ERROR - 2012-12-31 18:46:04 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:47:50 --> Config Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:47:50 --> URI Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> Router Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> Output Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> Security Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> Input Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:47:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:47:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:47:50 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:47:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:47:50 --> Language Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:47:50 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> Session Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:47:50 --> Session routines successfully run
+DEBUG - 2012-12-31 18:47:50 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:47:50 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:47:50 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:47:50 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:47:50 --> Final output sent to browser
+DEBUG - 2012-12-31 18:47:50 --> Total execution time: 0.1109
+DEBUG - 2012-12-31 18:47:54 --> Config Class Initialized
+DEBUG - 2012-12-31 18:47:54 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:47:54 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:47:54 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:47:54 --> URI Class Initialized
+DEBUG - 2012-12-31 18:47:54 --> Router Class Initialized
+ERROR - 2012-12-31 18:47:54 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:49:40 --> Config Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:49:40 --> URI Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> Router Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> Output Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> Security Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> Input Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:49:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:49:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:49:40 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:49:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:49:40 --> Language Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:49:40 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> Session Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:49:40 --> Session routines successfully run
+DEBUG - 2012-12-31 18:49:40 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:49:40 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:49:40 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:49:40 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:49:40 --> Final output sent to browser
+DEBUG - 2012-12-31 18:49:40 --> Total execution time: 0.1142
+DEBUG - 2012-12-31 18:49:44 --> Config Class Initialized
+DEBUG - 2012-12-31 18:49:44 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:49:44 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:49:44 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:49:44 --> URI Class Initialized
+DEBUG - 2012-12-31 18:49:44 --> Router Class Initialized
+ERROR - 2012-12-31 18:49:44 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:50:50 --> Config Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:50:50 --> URI Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> Router Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> Output Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> Security Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> Input Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:50:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:50:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:50:50 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:50:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:50:50 --> Language Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:50:50 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> Session Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:50:50 --> Session routines successfully run
+DEBUG - 2012-12-31 18:50:50 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:50:50 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:50:50 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:50:50 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:50:50 --> Final output sent to browser
+DEBUG - 2012-12-31 18:50:50 --> Total execution time: 0.1710
+DEBUG - 2012-12-31 18:50:55 --> Config Class Initialized
+DEBUG - 2012-12-31 18:50:55 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:50:55 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:50:55 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:50:55 --> URI Class Initialized
+DEBUG - 2012-12-31 18:50:55 --> Router Class Initialized
+ERROR - 2012-12-31 18:50:55 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:53:37 --> Config Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:53:37 --> URI Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> Router Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> Output Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> Security Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> Input Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:53:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:53:37 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:53:37 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:53:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:53:37 --> Language Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:53:37 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> Session Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:53:37 --> Session routines successfully run
+DEBUG - 2012-12-31 18:53:37 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:53:37 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:53:37 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:53:37 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:53:37 --> Final output sent to browser
+DEBUG - 2012-12-31 18:53:37 --> Total execution time: 0.1198
+DEBUG - 2012-12-31 18:53:42 --> Config Class Initialized
+DEBUG - 2012-12-31 18:53:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:53:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:53:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:53:42 --> URI Class Initialized
+DEBUG - 2012-12-31 18:53:42 --> Router Class Initialized
+ERROR - 2012-12-31 18:53:42 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:54:55 --> Config Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:54:55 --> URI Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> Router Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> Output Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> Security Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> Input Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:54:55 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:54:55 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:54:55 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:54:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:54:55 --> Language Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:54:55 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> Session Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:54:55 --> Session routines successfully run
+DEBUG - 2012-12-31 18:54:55 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:54:55 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:54:55 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:54:55 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:54:55 --> Final output sent to browser
+DEBUG - 2012-12-31 18:54:55 --> Total execution time: 0.1103
+DEBUG - 2012-12-31 18:54:59 --> Config Class Initialized
+DEBUG - 2012-12-31 18:54:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:54:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:54:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:54:59 --> URI Class Initialized
+DEBUG - 2012-12-31 18:54:59 --> Router Class Initialized
+ERROR - 2012-12-31 18:54:59 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:55:25 --> Config Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:55:25 --> URI Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> Router Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> Output Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> Security Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> Input Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:55:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:55:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:55:25 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:55:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:55:25 --> Language Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:55:25 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> Session Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:55:25 --> Session routines successfully run
+DEBUG - 2012-12-31 18:55:25 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:55:25 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:55:25 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:55:25 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:55:25 --> Final output sent to browser
+DEBUG - 2012-12-31 18:55:25 --> Total execution time: 0.1373
+DEBUG - 2012-12-31 18:55:29 --> Config Class Initialized
+DEBUG - 2012-12-31 18:55:29 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:55:29 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:55:29 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:55:29 --> URI Class Initialized
+DEBUG - 2012-12-31 18:55:29 --> Router Class Initialized
+ERROR - 2012-12-31 18:55:29 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:56:13 --> Config Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:56:13 --> URI Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> Router Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> Output Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> Security Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> Input Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:56:13 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:56:13 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:56:13 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:56:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:56:13 --> Language Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:56:13 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> Session Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:56:13 --> Session routines successfully run
+DEBUG - 2012-12-31 18:56:13 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:56:13 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:56:13 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:56:13 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:56:13 --> Final output sent to browser
+DEBUG - 2012-12-31 18:56:13 --> Total execution time: 0.1298
+DEBUG - 2012-12-31 18:56:18 --> Config Class Initialized
+DEBUG - 2012-12-31 18:56:18 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:56:18 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:56:18 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:56:18 --> URI Class Initialized
+DEBUG - 2012-12-31 18:56:18 --> Router Class Initialized
+ERROR - 2012-12-31 18:56:18 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 18:57:07 --> Config Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:57:07 --> URI Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> Router Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> Output Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> Security Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> Input Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:57:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:57:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 18:57:07 --> CRSF cookie Set
+DEBUG - 2012-12-31 18:57:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 18:57:07 --> Language Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> Loader Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 18:57:07 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> Session Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 18:57:07 --> Session routines successfully run
+DEBUG - 2012-12-31 18:57:07 --> Controller Class Initialized
+DEBUG - 2012-12-31 18:57:07 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 18:57:07 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 18:57:07 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 18:57:07 --> Final output sent to browser
+DEBUG - 2012-12-31 18:57:07 --> Total execution time: 0.1142
+DEBUG - 2012-12-31 18:57:12 --> Config Class Initialized
+DEBUG - 2012-12-31 18:57:12 --> Hooks Class Initialized
+DEBUG - 2012-12-31 18:57:12 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 18:57:12 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 18:57:12 --> URI Class Initialized
+DEBUG - 2012-12-31 18:57:12 --> Router Class Initialized
+ERROR - 2012-12-31 18:57:12 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:03:16 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:16 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> Router Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 19:03:16 --> Output Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> Security Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> Input Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:16 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:03:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:03:16 --> Language Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:03:16 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> Session Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:03:16 --> Session routines successfully run
+DEBUG - 2012-12-31 19:03:16 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:03:16 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:03:16 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 19:03:16 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:03:16 --> Final output sent to browser
+DEBUG - 2012-12-31 19:03:16 --> Total execution time: 0.1676
+DEBUG - 2012-12-31 19:03:17 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:17 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:17 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:17 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:17 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:17 --> Router Class Initialized
+ERROR - 2012-12-31 19:03:17 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:03:18 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:18 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:18 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:18 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:18 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:18 --> Router Class Initialized
+ERROR - 2012-12-31 19:03:18 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:03:22 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:22 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> Router Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> Output Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> Security Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> Input Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:22 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:22 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:22 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:03:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:03:22 --> Language Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:03:22 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> Session Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:03:22 --> Session routines successfully run
+DEBUG - 2012-12-31 19:03:22 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:03:22 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:03:22 --> File loaded: ../application/views/logout/success.php
+DEBUG - 2012-12-31 19:03:22 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:03:22 --> Final output sent to browser
+DEBUG - 2012-12-31 19:03:22 --> Total execution time: 0.2792
+DEBUG - 2012-12-31 19:03:24 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:24 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:24 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:24 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:24 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:24 --> Router Class Initialized
+ERROR - 2012-12-31 19:03:24 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:03:24 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:24 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:24 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:24 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:24 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:24 --> Router Class Initialized
+ERROR - 2012-12-31 19:03:24 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:03:27 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:27 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:27 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:27 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:27 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:27 --> Router Class Initialized
+DEBUG - 2012-12-31 19:03:27 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 19:03:27 --> Output Class Initialized
+DEBUG - 2012-12-31 19:03:27 --> Security Class Initialized
+DEBUG - 2012-12-31 19:03:28 --> Input Class Initialized
+DEBUG - 2012-12-31 19:03:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:28 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:03:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:03:28 --> Language Class Initialized
+DEBUG - 2012-12-31 19:03:28 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:03:28 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:03:28 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:03:28 --> Session Class Initialized
+DEBUG - 2012-12-31 19:03:28 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:03:28 --> Session routines successfully run
+DEBUG - 2012-12-31 19:03:28 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:03:28 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:03:28 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 19:03:28 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:03:28 --> Final output sent to browser
+DEBUG - 2012-12-31 19:03:28 --> Total execution time: 0.2621
+DEBUG - 2012-12-31 19:03:29 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:29 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:29 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:29 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:29 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:29 --> Router Class Initialized
+ERROR - 2012-12-31 19:03:29 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:03:32 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:32 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Router Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Output Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Security Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Input Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:32 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:03:32 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:03:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:03:32 --> Language Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:03:32 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Session Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:03:32 --> Session routines successfully run
+DEBUG - 2012-12-31 19:03:32 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 19:03:32 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 19:03:32 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:03:32 --> File loaded: ../application/views/login/index.php
+DEBUG - 2012-12-31 19:03:32 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:03:32 --> Final output sent to browser
+DEBUG - 2012-12-31 19:03:32 --> Total execution time: 0.2987
+DEBUG - 2012-12-31 19:03:33 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:33 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:33 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:33 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:33 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:33 --> Router Class Initialized
+ERROR - 2012-12-31 19:03:33 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:03:34 --> Config Class Initialized
+DEBUG - 2012-12-31 19:03:34 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:03:34 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:03:34 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:03:34 --> URI Class Initialized
+DEBUG - 2012-12-31 19:03:34 --> Router Class Initialized
+ERROR - 2012-12-31 19:03:34 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:05:53 --> Config Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:05:53 --> URI Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Router Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Output Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Security Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Input Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:05:53 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:05:53 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:05:53 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:05:53 --> Language Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:05:53 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Session Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:05:53 --> Session routines successfully run
+DEBUG - 2012-12-31 19:05:53 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 19:05:53 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 19:05:53 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:05:53 --> File loaded: ../application/views/login/index.php
+DEBUG - 2012-12-31 19:05:53 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:05:53 --> Final output sent to browser
+DEBUG - 2012-12-31 19:05:53 --> Total execution time: 0.1343
+DEBUG - 2012-12-31 19:05:56 --> Config Class Initialized
+DEBUG - 2012-12-31 19:05:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:05:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:05:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:05:56 --> URI Class Initialized
+DEBUG - 2012-12-31 19:05:56 --> Router Class Initialized
+ERROR - 2012-12-31 19:05:56 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:07:31 --> Config Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:07:31 --> URI Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Router Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Output Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Security Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Input Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:07:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:07:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:07:31 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:07:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:07:31 --> Language Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:07:31 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Session Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:07:31 --> Session routines successfully run
+DEBUG - 2012-12-31 19:07:31 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 19:07:31 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 19:07:31 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:07:31 --> File loaded: ../application/views/login/index.php
+DEBUG - 2012-12-31 19:07:31 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:07:31 --> Final output sent to browser
+DEBUG - 2012-12-31 19:07:31 --> Total execution time: 0.1230
+DEBUG - 2012-12-31 19:07:35 --> Config Class Initialized
+DEBUG - 2012-12-31 19:07:35 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:07:35 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:07:35 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:07:35 --> URI Class Initialized
+DEBUG - 2012-12-31 19:07:35 --> Router Class Initialized
+ERROR - 2012-12-31 19:07:35 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:08:59 --> Config Class Initialized
+DEBUG - 2012-12-31 19:08:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:08:59 --> Config Class Initialized
+DEBUG - 2012-12-31 19:08:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:08:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:08:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:08:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:08:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:08:59 --> URI Class Initialized
+DEBUG - 2012-12-31 19:08:59 --> URI Class Initialized
+DEBUG - 2012-12-31 19:09:00 --> Router Class Initialized
+DEBUG - 2012-12-31 19:09:00 --> Router Class Initialized
+DEBUG - 2012-12-31 19:09:00 --> No URI present. Default controller set.
+ERROR - 2012-12-31 19:09:00 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:09:00 --> Output Class Initialized
+DEBUG - 2012-12-31 19:09:00 --> Security Class Initialized
+DEBUG - 2012-12-31 19:09:00 --> Input Class Initialized
+DEBUG - 2012-12-31 19:09:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:09:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:09:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:09:00 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:09:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:09:00 --> Language Class Initialized
+DEBUG - 2012-12-31 19:09:00 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:09:00 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:09:01 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:09:02 --> Session Class Initialized
+DEBUG - 2012-12-31 19:09:02 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:09:02 --> Session routines successfully run
+DEBUG - 2012-12-31 19:09:02 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:09:02 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:09:02 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 19:09:02 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:09:02 --> Final output sent to browser
+DEBUG - 2012-12-31 19:09:02 --> Total execution time: 2.8757
+DEBUG - 2012-12-31 19:09:13 --> Config Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:09:13 --> URI Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> Router Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> Output Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> Security Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> Input Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:09:13 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:09:13 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:09:13 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:09:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:09:13 --> Language Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:09:13 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> Session Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:09:13 --> Session routines successfully run
+DEBUG - 2012-12-31 19:09:13 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:09:13 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:09:13 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 19:09:13 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:09:13 --> Final output sent to browser
+DEBUG - 2012-12-31 19:09:13 --> Total execution time: 0.2366
+DEBUG - 2012-12-31 19:09:14 --> Config Class Initialized
+DEBUG - 2012-12-31 19:09:14 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:09:14 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:09:14 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:09:14 --> URI Class Initialized
+DEBUG - 2012-12-31 19:09:14 --> Router Class Initialized
+ERROR - 2012-12-31 19:09:14 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:09:57 --> Config Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:09:57 --> URI Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> Router Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 19:09:57 --> Output Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> Security Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> Input Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:09:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:09:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:09:57 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:09:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:09:57 --> Language Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:09:57 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> Session Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:09:57 --> Session routines successfully run
+DEBUG - 2012-12-31 19:09:57 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:09:57 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:09:57 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 19:09:57 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:09:57 --> Final output sent to browser
+DEBUG - 2012-12-31 19:09:57 --> Total execution time: 0.1845
+DEBUG - 2012-12-31 19:10:00 --> Config Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:10:00 --> URI Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> Router Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> Output Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> Security Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> Input Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:10:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:10:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:10:00 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:10:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:10:00 --> Language Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:10:00 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> Session Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:10:00 --> Session routines successfully run
+DEBUG - 2012-12-31 19:10:00 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:10:00 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:10:00 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 19:10:00 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:10:00 --> Final output sent to browser
+DEBUG - 2012-12-31 19:10:00 --> Total execution time: 0.3160
+DEBUG - 2012-12-31 19:10:03 --> Config Class Initialized
+DEBUG - 2012-12-31 19:10:03 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:10:03 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:10:03 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:10:03 --> URI Class Initialized
+DEBUG - 2012-12-31 19:10:03 --> Router Class Initialized
+ERROR - 2012-12-31 19:10:03 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:10:07 --> Config Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:10:07 --> URI Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> Router Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> Output Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> Security Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> Input Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:10:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:10:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:10:07 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:10:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:10:07 --> Language Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:10:07 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> Session Class Initialized
+DEBUG - 2012-12-31 19:10:07 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:10:07 --> Session routines successfully run
+DEBUG - 2012-12-31 19:10:08 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:10:08 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:10:08 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 19:10:08 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:10:08 --> Final output sent to browser
+DEBUG - 2012-12-31 19:10:08 --> Total execution time: 0.5762
+DEBUG - 2012-12-31 19:10:22 --> Config Class Initialized
+DEBUG - 2012-12-31 19:10:22 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:10:22 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:10:22 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:10:22 --> URI Class Initialized
+DEBUG - 2012-12-31 19:10:22 --> Router Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 19:10:23 --> Output Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> Security Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> Input Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:10:23 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:10:23 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:10:23 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:10:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:10:23 --> Language Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:10:23 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> Session Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:10:23 --> Session routines successfully run
+DEBUG - 2012-12-31 19:10:23 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:10:23 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 19:10:23 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:10:23 --> Config Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> Final output sent to browser
+DEBUG - 2012-12-31 19:10:23 --> Total execution time: 0.3097
+DEBUG - 2012-12-31 19:10:23 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:10:23 --> URI Class Initialized
+DEBUG - 2012-12-31 19:10:23 --> Router Class Initialized
+ERROR - 2012-12-31 19:10:23 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:17:53 --> Config Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:17:53 --> URI Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> Router Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> Output Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> Security Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> Input Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:17:53 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:17:53 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:17:53 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:17:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:17:53 --> Language Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:17:53 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> Session Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:17:53 --> Session routines successfully run
+DEBUG - 2012-12-31 19:17:53 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:17:53 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:17:53 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 19:17:53 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:17:53 --> Final output sent to browser
+DEBUG - 2012-12-31 19:17:53 --> Total execution time: 0.3927
+DEBUG - 2012-12-31 19:17:55 --> Config Class Initialized
+DEBUG - 2012-12-31 19:17:55 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:17:55 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:17:55 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:17:55 --> URI Class Initialized
+DEBUG - 2012-12-31 19:17:55 --> Router Class Initialized
+ERROR - 2012-12-31 19:17:55 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:18:16 --> Config Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:18:16 --> URI Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> Router Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> Output Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> Security Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> Input Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:18:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:18:16 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:18:16 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:18:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:18:16 --> Language Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:18:16 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> Session Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:18:16 --> Session routines successfully run
+DEBUG - 2012-12-31 19:18:16 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:18:16 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:18:16 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 19:18:16 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:18:16 --> Final output sent to browser
+DEBUG - 2012-12-31 19:18:16 --> Total execution time: 0.1265
+DEBUG - 2012-12-31 19:18:20 --> Config Class Initialized
+DEBUG - 2012-12-31 19:18:20 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:18:20 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:18:20 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:18:20 --> URI Class Initialized
+DEBUG - 2012-12-31 19:18:20 --> Router Class Initialized
+ERROR - 2012-12-31 19:18:20 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:19:12 --> Config Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:19:12 --> URI Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> Router Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> Output Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> Security Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> Input Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:19:12 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:19:12 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:19:12 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:19:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:19:12 --> Language Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:19:12 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> Session Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:19:12 --> Session routines successfully run
+DEBUG - 2012-12-31 19:19:12 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:19:12 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:19:12 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 19:19:12 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:19:12 --> Final output sent to browser
+DEBUG - 2012-12-31 19:19:12 --> Total execution time: 0.1979
+DEBUG - 2012-12-31 19:19:57 --> Config Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:19:57 --> URI Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> Router Class Initialized
+ERROR - 2012-12-31 19:19:57 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:19:57 --> Config Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:19:57 --> URI Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> Router Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> Output Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> Security Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> Input Class Initialized
+DEBUG - 2012-12-31 19:19:57 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:19:58 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:19:58 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:19:58 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:19:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:19:58 --> Language Class Initialized
+DEBUG - 2012-12-31 19:19:58 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:19:58 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:19:58 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:19:58 --> Session Class Initialized
+DEBUG - 2012-12-31 19:19:58 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:19:58 --> Session routines successfully run
+DEBUG - 2012-12-31 19:19:58 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:19:58 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:19:58 --> File loaded: ../application/views/instructors/index.php
+DEBUG - 2012-12-31 19:19:58 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:19:58 --> Final output sent to browser
+DEBUG - 2012-12-31 19:19:58 --> Total execution time: 0.1241
+DEBUG - 2012-12-31 19:20:02 --> Config Class Initialized
+DEBUG - 2012-12-31 19:20:02 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:20:02 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:20:02 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:20:02 --> URI Class Initialized
+DEBUG - 2012-12-31 19:20:02 --> Router Class Initialized
+ERROR - 2012-12-31 19:20:02 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:54:04 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:04 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Router Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Output Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Security Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Input Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:04 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:54:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:54:04 --> Language Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:54:04 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Session Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:54:04 --> Session routines successfully run
+DEBUG - 2012-12-31 19:54:04 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> Model Class Initialized
+DEBUG - 2012-12-31 19:54:04 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:54:04 --> File loaded: ../application/views/instructors/result.php
+DEBUG - 2012-12-31 19:54:04 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:54:04 --> Final output sent to browser
+DEBUG - 2012-12-31 19:54:04 --> Total execution time: 0.6229
+DEBUG - 2012-12-31 19:54:06 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:06 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:06 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:06 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:06 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:06 --> Router Class Initialized
+ERROR - 2012-12-31 19:54:06 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:54:09 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:09 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> Router Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 19:54:09 --> Output Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> Security Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> Input Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:09 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:09 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:09 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:54:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:54:09 --> Language Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:54:09 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> Session Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:54:09 --> Session routines successfully run
+DEBUG - 2012-12-31 19:54:09 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:54:09 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:54:09 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 19:54:09 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:54:09 --> Final output sent to browser
+DEBUG - 2012-12-31 19:54:09 --> Total execution time: 0.2546
+DEBUG - 2012-12-31 19:54:11 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:11 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:11 --> Router Class Initialized
+ERROR - 2012-12-31 19:54:11 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:54:15 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:15 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> Router Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> Output Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> Security Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> Input Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:15 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:15 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:54:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:54:15 --> Language Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:54:15 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> Session Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:54:15 --> Session routines successfully run
+DEBUG - 2012-12-31 19:54:15 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:54:15 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:54:15 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 19:54:15 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:54:15 --> Final output sent to browser
+DEBUG - 2012-12-31 19:54:15 --> Total execution time: 0.2349
+DEBUG - 2012-12-31 19:54:18 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:18 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:18 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:18 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:18 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:18 --> Router Class Initialized
+ERROR - 2012-12-31 19:54:18 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:54:25 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:25 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:25 --> Router Class Initialized
+DEBUG - 2012-12-31 19:54:25 --> Output Class Initialized
+DEBUG - 2012-12-31 19:54:25 --> Security Class Initialized
+DEBUG - 2012-12-31 19:54:25 --> Input Class Initialized
+DEBUG - 2012-12-31 19:54:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:25 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:26 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:26 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:26 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:26 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:26 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:26 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:26 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:26 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:26 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:26 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:54:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:54:26 --> Language Class Initialized
+DEBUG - 2012-12-31 19:54:26 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:54:26 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:54:26 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:54:26 --> Session Class Initialized
+DEBUG - 2012-12-31 19:54:26 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:54:26 --> Session routines successfully run
+DEBUG - 2012-12-31 19:54:26 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:54:26 --> Model Class Initialized
+DEBUG - 2012-12-31 19:54:26 --> Model Class Initialized
+DEBUG - 2012-12-31 19:54:26 --> Model Class Initialized
+ERROR - 2012-12-31 19:54:26 --> Severity: Notice  --> Undefined variable: search_schedule /home/jharvard/vhosts/project0/application/controllers/search.php 44
+ERROR - 2012-12-31 19:54:26 --> Severity: Notice  --> Undefined variable: search_schedule /home/jharvard/vhosts/project0/application/controllers/search.php 53
+ERROR - 2012-12-31 19:54:26 --> Severity: Notice  --> Undefined variable: error /home/jharvard/vhosts/project0/application/controllers/search.php 67
+DEBUG - 2012-12-31 19:54:26 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:54:26 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 19:54:26 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:54:26 --> Final output sent to browser
+DEBUG - 2012-12-31 19:54:26 --> Total execution time: 0.7380
+DEBUG - 2012-12-31 19:54:28 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:28 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:28 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:28 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:28 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:28 --> Router Class Initialized
+ERROR - 2012-12-31 19:54:28 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:54:38 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:38 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:38 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:38 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:38 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:38 --> Router Class Initialized
+DEBUG - 2012-12-31 19:54:38 --> Output Class Initialized
+DEBUG - 2012-12-31 19:54:38 --> Security Class Initialized
+DEBUG - 2012-12-31 19:54:38 --> Input Class Initialized
+DEBUG - 2012-12-31 19:54:38 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:38 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:38 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:38 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:54:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:54:38 --> Language Class Initialized
+DEBUG - 2012-12-31 19:54:38 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:54:39 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:54:39 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:39 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:39 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:39 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:39 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:39 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:54:39 --> Router Class Initialized
+ERROR - 2012-12-31 19:54:39 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:54:39 --> Session Class Initialized
+DEBUG - 2012-12-31 19:54:39 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:54:39 --> Session routines successfully run
+DEBUG - 2012-12-31 19:54:39 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:54:39 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:54:39 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 19:54:39 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:54:39 --> Final output sent to browser
+DEBUG - 2012-12-31 19:54:39 --> Total execution time: 0.2661
+DEBUG - 2012-12-31 19:54:43 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:43 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:43 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:43 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:43 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:43 --> Router Class Initialized
+ERROR - 2012-12-31 19:54:43 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:54:45 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:45 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:45 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:45 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:45 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:45 --> Router Class Initialized
+ERROR - 2012-12-31 19:54:45 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:54:49 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:49 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Router Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Output Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Security Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Input Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:54:49 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:54:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:54:49 --> Language Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:54:49 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Session Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:54:49 --> Session routines successfully run
+DEBUG - 2012-12-31 19:54:49 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Model Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Model Class Initialized
+DEBUG - 2012-12-31 19:54:49 --> Model Class Initialized
+ERROR - 2012-12-31 19:54:49 --> Severity: Notice  --> Undefined variable: search_keyword /home/jharvard/vhosts/project0/application/controllers/search.php 39
+ERROR - 2012-12-31 19:54:49 --> Severity: Notice  --> Undefined variable: search_keyword /home/jharvard/vhosts/project0/application/controllers/search.php 50
+ERROR - 2012-12-31 19:54:50 --> Severity: Notice  --> Undefined variable: error /home/jharvard/vhosts/project0/application/controllers/search.php 67
+DEBUG - 2012-12-31 19:54:50 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:54:50 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 19:54:50 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:54:50 --> Final output sent to browser
+DEBUG - 2012-12-31 19:54:50 --> Total execution time: 1.6372
+DEBUG - 2012-12-31 19:54:53 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:53 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:53 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:53 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:53 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:53 --> Router Class Initialized
+ERROR - 2012-12-31 19:54:53 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:54:55 --> Config Class Initialized
+DEBUG - 2012-12-31 19:54:55 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:54:55 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:54:55 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:54:55 --> URI Class Initialized
+DEBUG - 2012-12-31 19:54:55 --> Router Class Initialized
+ERROR - 2012-12-31 19:54:55 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:55:47 --> Config Class Initialized
+DEBUG - 2012-12-31 19:55:47 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:55:47 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:55:47 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:55:47 --> URI Class Initialized
+DEBUG - 2012-12-31 19:55:47 --> Router Class Initialized
+DEBUG - 2012-12-31 19:55:47 --> Output Class Initialized
+DEBUG - 2012-12-31 19:55:47 --> Security Class Initialized
+DEBUG - 2012-12-31 19:55:47 --> Input Class Initialized
+DEBUG - 2012-12-31 19:55:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:55:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:55:47 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:55:47 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:55:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:55:47 --> Language Class Initialized
+DEBUG - 2012-12-31 19:55:47 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:55:47 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:55:48 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:55:48 --> Session Class Initialized
+DEBUG - 2012-12-31 19:55:48 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:55:48 --> Session routines successfully run
+DEBUG - 2012-12-31 19:55:48 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:55:48 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:55:48 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 19:55:48 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:55:48 --> Final output sent to browser
+DEBUG - 2012-12-31 19:55:48 --> Total execution time: 0.3118
+DEBUG - 2012-12-31 19:55:48 --> Config Class Initialized
+DEBUG - 2012-12-31 19:55:48 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:55:48 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:55:48 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:55:48 --> URI Class Initialized
+DEBUG - 2012-12-31 19:55:48 --> Router Class Initialized
+ERROR - 2012-12-31 19:55:48 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 19:55:53 --> Config Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:55:53 --> URI Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> Router Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> Output Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> Security Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> Input Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:55:53 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:55:53 --> XSS Filtering completed
+DEBUG - 2012-12-31 19:55:53 --> CRSF cookie Set
+DEBUG - 2012-12-31 19:55:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 19:55:53 --> Language Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> Loader Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 19:55:53 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> Session Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 19:55:53 --> Session routines successfully run
+DEBUG - 2012-12-31 19:55:53 --> Controller Class Initialized
+DEBUG - 2012-12-31 19:55:53 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 19:55:53 --> File loaded: ../application/views/search/index.php
+DEBUG - 2012-12-31 19:55:53 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 19:55:53 --> Final output sent to browser
+DEBUG - 2012-12-31 19:55:53 --> Total execution time: 0.1958
+DEBUG - 2012-12-31 19:55:59 --> Config Class Initialized
+DEBUG - 2012-12-31 19:55:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 19:55:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 19:55:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 19:55:59 --> URI Class Initialized
+DEBUG - 2012-12-31 19:55:59 --> Router Class Initialized
+ERROR - 2012-12-31 19:55:59 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:13:05 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:05 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:05 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:05 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:05 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:05 --> Router Class Initialized
+DEBUG - 2012-12-31 20:13:05 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:13:05 --> Output Class Initialized
+DEBUG - 2012-12-31 20:13:05 --> Security Class Initialized
+DEBUG - 2012-12-31 20:13:05 --> Input Class Initialized
+DEBUG - 2012-12-31 20:13:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:05 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:05 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:13:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:13:05 --> Language Class Initialized
+DEBUG - 2012-12-31 20:13:06 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:13:06 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:13:06 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:13:06 --> Session Class Initialized
+DEBUG - 2012-12-31 20:13:06 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:13:06 --> Session routines successfully run
+DEBUG - 2012-12-31 20:13:06 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:13:06 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:13:06 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:13:06 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:13:06 --> Final output sent to browser
+DEBUG - 2012-12-31 20:13:06 --> Total execution time: 0.5430
+DEBUG - 2012-12-31 20:13:08 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:08 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:08 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:08 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:08 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:08 --> Router Class Initialized
+ERROR - 2012-12-31 20:13:08 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:13:31 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:31 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> Router Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> Output Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> Security Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> Input Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:31 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:31 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:13:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:13:31 --> Language Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:13:31 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> Session Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:13:31 --> Session routines successfully run
+DEBUG - 2012-12-31 20:13:31 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:13:31 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:13:31 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:13:31 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:13:31 --> Final output sent to browser
+DEBUG - 2012-12-31 20:13:31 --> Total execution time: 0.2529
+DEBUG - 2012-12-31 20:13:32 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:32 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:32 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:32 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:32 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:32 --> Router Class Initialized
+ERROR - 2012-12-31 20:13:32 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:13:36 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:36 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> Router Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:13:36 --> Output Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> Security Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> Input Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:36 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:13:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:13:36 --> Language Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:13:36 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> Session Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:13:36 --> Session routines successfully run
+DEBUG - 2012-12-31 20:13:36 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:13:36 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:13:36 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:13:36 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:13:36 --> Final output sent to browser
+DEBUG - 2012-12-31 20:13:36 --> Total execution time: 0.2641
+DEBUG - 2012-12-31 20:13:40 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:40 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> Router Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> Output Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> Security Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> Input Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:40 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:13:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:13:40 --> Language Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:13:40 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> Session Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:13:40 --> Session routines successfully run
+DEBUG - 2012-12-31 20:13:40 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:13:40 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:13:40 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:13:40 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:13:40 --> Final output sent to browser
+DEBUG - 2012-12-31 20:13:40 --> Total execution time: 0.2103
+DEBUG - 2012-12-31 20:13:41 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:41 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:41 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:41 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:41 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:41 --> Router Class Initialized
+ERROR - 2012-12-31 20:13:41 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:13:43 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:43 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> Router Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> Output Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> Security Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> Input Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:43 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:43 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:43 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:13:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:13:43 --> Language Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:13:43 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> Session Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:13:43 --> Session routines successfully run
+DEBUG - 2012-12-31 20:13:43 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:13:43 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:13:43 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:13:43 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:13:43 --> Final output sent to browser
+DEBUG - 2012-12-31 20:13:43 --> Total execution time: 0.2713
+DEBUG - 2012-12-31 20:13:51 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:51 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:51 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:51 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:51 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:51 --> Router Class Initialized
+DEBUG - 2012-12-31 20:13:51 --> Output Class Initialized
+DEBUG - 2012-12-31 20:13:51 --> Security Class Initialized
+DEBUG - 2012-12-31 20:13:51 --> Input Class Initialized
+DEBUG - 2012-12-31 20:13:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:51 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:13:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:13:51 --> Language Class Initialized
+DEBUG - 2012-12-31 20:13:52 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:13:52 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:13:52 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:13:52 --> Session Class Initialized
+DEBUG - 2012-12-31 20:13:52 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:13:52 --> Session routines successfully run
+DEBUG - 2012-12-31 20:13:52 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:13:52 --> Model Class Initialized
+DEBUG - 2012-12-31 20:13:52 --> Model Class Initialized
+DEBUG - 2012-12-31 20:13:52 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:13:52 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 20:13:52 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:13:52 --> Final output sent to browser
+DEBUG - 2012-12-31 20:13:52 --> Total execution time: 0.4236
+DEBUG - 2012-12-31 20:13:54 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:54 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:54 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:54 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:54 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:54 --> Router Class Initialized
+ERROR - 2012-12-31 20:13:54 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:13:56 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:56 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Router Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Output Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Security Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Input Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:56 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:13:56 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:13:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:13:56 --> Language Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:13:56 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Session Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:13:56 --> Session routines successfully run
+DEBUG - 2012-12-31 20:13:56 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Model Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Model Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Model Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Model Class Initialized
+DEBUG - 2012-12-31 20:13:56 --> Model Class Initialized
+DEBUG - 2012-12-31 20:13:57 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 20:13:57 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:13:57 --> Final output sent to browser
+DEBUG - 2012-12-31 20:13:57 --> Total execution time: 0.5345
+DEBUG - 2012-12-31 20:13:58 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:58 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:58 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:58 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:58 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:58 --> Router Class Initialized
+ERROR - 2012-12-31 20:13:58 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:13:59 --> Config Class Initialized
+DEBUG - 2012-12-31 20:13:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:13:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:13:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:13:59 --> URI Class Initialized
+DEBUG - 2012-12-31 20:13:59 --> Router Class Initialized
+ERROR - 2012-12-31 20:13:59 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:16:29 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:29 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Router Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Output Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Security Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Input Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:29 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:29 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:29 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:16:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:16:29 --> Language Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:16:29 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Session Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:16:29 --> Session routines successfully run
+DEBUG - 2012-12-31 20:16:29 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 20:16:29 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 20:16:29 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:16:29 --> File loaded: ../application/views/login/index.php
+DEBUG - 2012-12-31 20:16:29 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:16:29 --> Final output sent to browser
+DEBUG - 2012-12-31 20:16:29 --> Total execution time: 0.1822
+DEBUG - 2012-12-31 20:16:31 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:31 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:31 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:31 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:31 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:31 --> Router Class Initialized
+ERROR - 2012-12-31 20:16:31 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:16:36 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:36 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Router Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Output Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Security Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Input Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:36 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:36 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:16:36 --> CSRF token verified 
+DEBUG - 2012-12-31 20:16:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:16:36 --> Language Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:16:36 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Session Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:16:36 --> Session routines successfully run
+DEBUG - 2012-12-31 20:16:36 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:16:36 --> Helper loaded: form_helper
+DEBUG - 2012-12-31 20:16:36 --> Form Validation Class Initialized
+DEBUG - 2012-12-31 20:16:37 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2012-12-31 20:16:37 --> Model Class Initialized
+DEBUG - 2012-12-31 20:16:37 --> Model Class Initialized
+DEBUG - 2012-12-31 20:16:37 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:16:37 --> File loaded: ../application/views/login/success.php
+DEBUG - 2012-12-31 20:16:37 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:16:37 --> Final output sent to browser
+DEBUG - 2012-12-31 20:16:37 --> Total execution time: 0.3338
+DEBUG - 2012-12-31 20:16:38 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:38 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:38 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:38 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:38 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:38 --> Router Class Initialized
+ERROR - 2012-12-31 20:16:38 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:16:39 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:39 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:39 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:39 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:39 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:39 --> Router Class Initialized
+ERROR - 2012-12-31 20:16:39 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:16:42 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:42 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Router Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Output Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Security Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Input Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:42 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:16:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:16:42 --> Language Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:16:42 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Session Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:16:42 --> Session routines successfully run
+DEBUG - 2012-12-31 20:16:42 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Model Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Model Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Model Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Model Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> Model Class Initialized
+DEBUG - 2012-12-31 20:16:42 --> File loaded: ../application/views/courses/course.php
+DEBUG - 2012-12-31 20:16:42 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:16:42 --> Final output sent to browser
+DEBUG - 2012-12-31 20:16:42 --> Total execution time: 0.2811
+DEBUG - 2012-12-31 20:16:43 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:43 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:43 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:43 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:43 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:43 --> Router Class Initialized
+ERROR - 2012-12-31 20:16:43 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:16:44 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:44 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:44 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:44 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:44 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:44 --> Router Class Initialized
+ERROR - 2012-12-31 20:16:44 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:16:50 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:50 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> Router Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:16:50 --> Output Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> Security Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> Input Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:50 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:16:50 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:16:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:16:50 --> Language Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:16:50 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> Session Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:16:50 --> Session routines successfully run
+DEBUG - 2012-12-31 20:16:50 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:16:50 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:16:50 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:16:50 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:16:50 --> Final output sent to browser
+DEBUG - 2012-12-31 20:16:50 --> Total execution time: 0.1928
+DEBUG - 2012-12-31 20:16:51 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:51 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:51 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:51 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:51 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:51 --> Router Class Initialized
+ERROR - 2012-12-31 20:16:51 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:16:52 --> Config Class Initialized
+DEBUG - 2012-12-31 20:16:52 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:16:52 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:16:52 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:16:52 --> URI Class Initialized
+DEBUG - 2012-12-31 20:16:52 --> Router Class Initialized
+ERROR - 2012-12-31 20:16:52 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:27:11 --> Config Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:27:11 --> URI Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Router Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Output Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Security Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Input Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:27:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:27:11 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:27:11 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:27:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:27:11 --> Language Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:27:11 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Session Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:27:11 --> Session routines successfully run
+DEBUG - 2012-12-31 20:27:11 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Model Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> Model Class Initialized
+DEBUG - 2012-12-31 20:27:11 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:27:11 --> File loaded: ../application/views/departments/index.php
+DEBUG - 2012-12-31 20:27:11 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:27:12 --> Final output sent to browser
+DEBUG - 2012-12-31 20:27:12 --> Total execution time: 0.1873
+DEBUG - 2012-12-31 20:27:13 --> Config Class Initialized
+DEBUG - 2012-12-31 20:27:13 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:27:13 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:27:13 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:27:13 --> URI Class Initialized
+DEBUG - 2012-12-31 20:27:13 --> Router Class Initialized
+ERROR - 2012-12-31 20:27:13 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:27:19 --> Config Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:27:19 --> URI Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Router Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Output Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Security Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Input Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:27:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:27:19 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:27:19 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:27:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:27:19 --> Language Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:27:19 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Session Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:27:19 --> Session routines successfully run
+DEBUG - 2012-12-31 20:27:19 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Model Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Model Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Model Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> Model Class Initialized
+DEBUG - 2012-12-31 20:27:19 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:27:19 --> File loaded: ../application/views/courses/list.php
+DEBUG - 2012-12-31 20:27:19 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:27:19 --> Final output sent to browser
+DEBUG - 2012-12-31 20:27:19 --> Total execution time: 0.2700
+DEBUG - 2012-12-31 20:27:21 --> Config Class Initialized
+DEBUG - 2012-12-31 20:27:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:27:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:27:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:27:21 --> URI Class Initialized
+DEBUG - 2012-12-31 20:27:21 --> Router Class Initialized
+ERROR - 2012-12-31 20:27:21 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:27:21 --> Config Class Initialized
+DEBUG - 2012-12-31 20:27:21 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:27:21 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:27:21 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:27:21 --> URI Class Initialized
+DEBUG - 2012-12-31 20:27:21 --> Router Class Initialized
+ERROR - 2012-12-31 20:27:21 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:31:49 --> Config Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:31:49 --> URI Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> Router Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:31:49 --> Output Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> Security Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> Input Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:31:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:31:49 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:31:49 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:31:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:31:49 --> Language Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:31:49 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> Session Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:31:49 --> Session routines successfully run
+DEBUG - 2012-12-31 20:31:49 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:31:49 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:31:49 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:31:49 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:31:49 --> Final output sent to browser
+DEBUG - 2012-12-31 20:31:49 --> Total execution time: 0.1423
+DEBUG - 2012-12-31 20:31:51 --> Config Class Initialized
+DEBUG - 2012-12-31 20:31:51 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:31:51 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:31:51 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:31:51 --> URI Class Initialized
+DEBUG - 2012-12-31 20:31:51 --> Router Class Initialized
+ERROR - 2012-12-31 20:31:51 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:32:25 --> Config Class Initialized
+DEBUG - 2012-12-31 20:32:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:32:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:32:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:32:25 --> URI Class Initialized
+DEBUG - 2012-12-31 20:32:25 --> Router Class Initialized
+ERROR - 2012-12-31 20:32:25 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:32:30 --> Config Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:32:30 --> URI Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> Router Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:32:30 --> Output Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> Security Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> Input Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:32:30 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:32:30 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:32:30 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:32:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:32:30 --> Language Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:32:30 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> Session Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:32:30 --> Session routines successfully run
+DEBUG - 2012-12-31 20:32:30 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:32:30 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:32:31 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:32:31 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:32:31 --> Final output sent to browser
+DEBUG - 2012-12-31 20:32:31 --> Total execution time: 0.5805
+DEBUG - 2012-12-31 20:32:31 --> Config Class Initialized
+DEBUG - 2012-12-31 20:32:31 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:32:31 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:32:31 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:32:31 --> URI Class Initialized
+DEBUG - 2012-12-31 20:32:31 --> Router Class Initialized
+ERROR - 2012-12-31 20:32:31 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:32:34 --> Config Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:32:34 --> URI Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> Router Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:32:34 --> Output Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> Security Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> Input Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:32:34 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:32:34 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:32:34 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:32:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:32:34 --> Language Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:32:34 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> Session Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:32:34 --> Session routines successfully run
+DEBUG - 2012-12-31 20:32:34 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:32:34 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:32:34 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:32:34 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:32:34 --> Final output sent to browser
+DEBUG - 2012-12-31 20:32:34 --> Total execution time: 0.2017
+DEBUG - 2012-12-31 20:32:38 --> Config Class Initialized
+DEBUG - 2012-12-31 20:32:38 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:32:38 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:32:38 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:32:38 --> URI Class Initialized
+DEBUG - 2012-12-31 20:32:38 --> Router Class Initialized
+ERROR - 2012-12-31 20:32:38 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:32:40 --> Config Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:32:40 --> URI Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> Router Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> Output Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> Security Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> Input Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:32:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:32:40 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:32:40 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:32:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:32:40 --> Language Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:32:40 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> Session Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:32:40 --> Session routines successfully run
+DEBUG - 2012-12-31 20:32:40 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:32:40 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:32:40 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:32:40 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:32:40 --> Final output sent to browser
+DEBUG - 2012-12-31 20:32:40 --> Total execution time: 0.1880
+DEBUG - 2012-12-31 20:32:41 --> Config Class Initialized
+DEBUG - 2012-12-31 20:32:41 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:32:41 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:32:41 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:32:41 --> URI Class Initialized
+DEBUG - 2012-12-31 20:32:41 --> Router Class Initialized
+ERROR - 2012-12-31 20:32:41 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:33:25 --> Config Class Initialized
+DEBUG - 2012-12-31 20:33:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:33:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:33:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:33:25 --> URI Class Initialized
+DEBUG - 2012-12-31 20:33:25 --> Router Class Initialized
+ERROR - 2012-12-31 20:33:25 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:35:25 --> Config Class Initialized
+DEBUG - 2012-12-31 20:35:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:35:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:35:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:35:25 --> URI Class Initialized
+DEBUG - 2012-12-31 20:35:25 --> Router Class Initialized
+ERROR - 2012-12-31 20:35:25 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:35:28 --> Config Class Initialized
+DEBUG - 2012-12-31 20:35:28 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:35:28 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:35:28 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:35:28 --> URI Class Initialized
+DEBUG - 2012-12-31 20:35:28 --> Router Class Initialized
+DEBUG - 2012-12-31 20:35:28 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:35:28 --> Output Class Initialized
+DEBUG - 2012-12-31 20:35:28 --> Security Class Initialized
+DEBUG - 2012-12-31 20:35:28 --> Input Class Initialized
+DEBUG - 2012-12-31 20:35:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:35:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:35:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:35:28 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:35:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:35:28 --> Language Class Initialized
+DEBUG - 2012-12-31 20:35:28 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:35:29 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:35:29 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:35:29 --> Session Class Initialized
+DEBUG - 2012-12-31 20:35:29 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:35:29 --> Session routines successfully run
+DEBUG - 2012-12-31 20:35:29 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:35:29 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:35:29 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:35:29 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:35:29 --> Final output sent to browser
+DEBUG - 2012-12-31 20:35:29 --> Total execution time: 0.1901
+DEBUG - 2012-12-31 20:35:34 --> Config Class Initialized
+DEBUG - 2012-12-31 20:35:34 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:35:35 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:35:35 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:35:35 --> URI Class Initialized
+DEBUG - 2012-12-31 20:35:35 --> Router Class Initialized
+ERROR - 2012-12-31 20:35:35 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:35:39 --> Config Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:35:39 --> URI Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> Router Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> Output Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> Security Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> Input Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:35:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:35:39 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:35:39 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:35:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:35:39 --> Language Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:35:39 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> Session Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:35:39 --> Session routines successfully run
+DEBUG - 2012-12-31 20:35:39 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:35:39 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:35:39 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:35:39 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:35:39 --> Final output sent to browser
+DEBUG - 2012-12-31 20:35:39 --> Total execution time: 0.2521
+DEBUG - 2012-12-31 20:35:41 --> Config Class Initialized
+DEBUG - 2012-12-31 20:35:41 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:35:41 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:35:41 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:35:41 --> URI Class Initialized
+DEBUG - 2012-12-31 20:35:41 --> Router Class Initialized
+ERROR - 2012-12-31 20:35:41 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:35:42 --> Config Class Initialized
+DEBUG - 2012-12-31 20:35:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:35:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:35:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:35:42 --> URI Class Initialized
+DEBUG - 2012-12-31 20:35:42 --> Router Class Initialized
+ERROR - 2012-12-31 20:35:42 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:36:51 --> Config Class Initialized
+DEBUG - 2012-12-31 20:36:51 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:36:51 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:36:51 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:36:51 --> URI Class Initialized
+DEBUG - 2012-12-31 20:36:51 --> Router Class Initialized
+ERROR - 2012-12-31 20:36:51 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:36:54 --> Config Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:36:54 --> URI Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> Router Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:36:54 --> Output Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> Security Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> Input Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:36:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:36:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:36:54 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:36:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:36:54 --> Language Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:36:54 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> Session Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:36:54 --> Session routines successfully run
+DEBUG - 2012-12-31 20:36:54 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:36:54 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:36:54 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:36:54 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:36:54 --> Final output sent to browser
+DEBUG - 2012-12-31 20:36:54 --> Total execution time: 0.1605
+DEBUG - 2012-12-31 20:36:59 --> Config Class Initialized
+DEBUG - 2012-12-31 20:36:59 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:36:59 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:36:59 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:36:59 --> URI Class Initialized
+DEBUG - 2012-12-31 20:36:59 --> Router Class Initialized
+ERROR - 2012-12-31 20:36:59 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:37:01 --> Config Class Initialized
+DEBUG - 2012-12-31 20:37:01 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:37:01 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:37:01 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:37:01 --> URI Class Initialized
+DEBUG - 2012-12-31 20:37:01 --> Router Class Initialized
+DEBUG - 2012-12-31 20:37:01 --> Output Class Initialized
+DEBUG - 2012-12-31 20:37:01 --> Security Class Initialized
+DEBUG - 2012-12-31 20:37:01 --> Input Class Initialized
+DEBUG - 2012-12-31 20:37:01 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:37:01 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:37:01 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:37:01 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:37:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:37:01 --> Language Class Initialized
+DEBUG - 2012-12-31 20:37:02 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:37:02 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:37:02 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:37:02 --> Session Class Initialized
+DEBUG - 2012-12-31 20:37:02 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:37:02 --> Session routines successfully run
+DEBUG - 2012-12-31 20:37:02 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:37:02 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:37:02 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:37:02 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:37:02 --> Final output sent to browser
+DEBUG - 2012-12-31 20:37:02 --> Total execution time: 0.1581
+DEBUG - 2012-12-31 20:37:03 --> Config Class Initialized
+DEBUG - 2012-12-31 20:37:03 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:37:03 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:37:03 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:37:03 --> URI Class Initialized
+DEBUG - 2012-12-31 20:37:03 --> Router Class Initialized
+ERROR - 2012-12-31 20:37:03 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:38:52 --> Config Class Initialized
+DEBUG - 2012-12-31 20:38:52 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:38:52 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:38:52 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:38:52 --> URI Class Initialized
+DEBUG - 2012-12-31 20:38:52 --> Router Class Initialized
+ERROR - 2012-12-31 20:38:52 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:38:54 --> Config Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:38:54 --> URI Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> Router Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:38:54 --> Output Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> Security Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> Input Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:38:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:38:54 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:38:54 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:38:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:38:54 --> Language Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:38:54 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> Session Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:38:54 --> Session routines successfully run
+DEBUG - 2012-12-31 20:38:54 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:38:54 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:38:54 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:38:54 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:38:54 --> Final output sent to browser
+DEBUG - 2012-12-31 20:38:54 --> Total execution time: 0.1794
+DEBUG - 2012-12-31 20:39:06 --> Config Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:39:06 --> URI Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> Router Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> Output Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> Security Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> Input Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:39:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:39:06 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:39:06 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:39:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:39:06 --> Language Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:39:06 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> Session Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:39:06 --> Session routines successfully run
+DEBUG - 2012-12-31 20:39:06 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:39:06 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:39:06 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:39:06 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:39:06 --> Final output sent to browser
+DEBUG - 2012-12-31 20:39:06 --> Total execution time: 0.1236
+DEBUG - 2012-12-31 20:39:07 --> Config Class Initialized
+DEBUG - 2012-12-31 20:39:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:39:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:39:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:39:07 --> URI Class Initialized
+DEBUG - 2012-12-31 20:39:07 --> Router Class Initialized
+ERROR - 2012-12-31 20:39:07 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:39:07 --> Config Class Initialized
+DEBUG - 2012-12-31 20:39:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:39:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:39:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:39:07 --> URI Class Initialized
+DEBUG - 2012-12-31 20:39:07 --> Router Class Initialized
+ERROR - 2012-12-31 20:39:07 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:39:33 --> Config Class Initialized
+DEBUG - 2012-12-31 20:39:33 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:39:33 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:39:33 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:39:33 --> URI Class Initialized
+DEBUG - 2012-12-31 20:39:33 --> Router Class Initialized
+ERROR - 2012-12-31 20:39:33 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:39:51 --> Config Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:39:51 --> URI Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> Router Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> Output Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> Security Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> Input Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:39:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:39:51 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:39:51 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:39:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:39:51 --> Language Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:39:51 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> Session Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:39:51 --> Session routines successfully run
+DEBUG - 2012-12-31 20:39:51 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:39:51 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:39:51 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:39:51 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:39:51 --> Final output sent to browser
+DEBUG - 2012-12-31 20:39:51 --> Total execution time: 0.1051
+DEBUG - 2012-12-31 20:39:52 --> Config Class Initialized
+DEBUG - 2012-12-31 20:39:52 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:39:52 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:39:52 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:39:52 --> URI Class Initialized
+DEBUG - 2012-12-31 20:39:52 --> Router Class Initialized
+ERROR - 2012-12-31 20:39:52 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:39:56 --> Config Class Initialized
+DEBUG - 2012-12-31 20:39:56 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:39:56 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:39:56 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:39:56 --> URI Class Initialized
+DEBUG - 2012-12-31 20:39:56 --> Router Class Initialized
+ERROR - 2012-12-31 20:39:56 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:40:09 --> Config Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:40:09 --> URI Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> Router Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> Output Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> Security Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> Input Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:40:09 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:40:09 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:40:09 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:40:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:40:09 --> Language Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:40:09 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> Session Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:40:09 --> Session routines successfully run
+DEBUG - 2012-12-31 20:40:09 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:40:09 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:40:09 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:40:09 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:40:09 --> Final output sent to browser
+DEBUG - 2012-12-31 20:40:09 --> Total execution time: 0.2379
+DEBUG - 2012-12-31 20:40:10 --> Config Class Initialized
+DEBUG - 2012-12-31 20:40:10 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:40:10 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:40:10 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:40:10 --> URI Class Initialized
+DEBUG - 2012-12-31 20:40:10 --> Router Class Initialized
+ERROR - 2012-12-31 20:40:10 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:40:11 --> Config Class Initialized
+DEBUG - 2012-12-31 20:40:11 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:40:11 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:40:11 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:40:11 --> URI Class Initialized
+DEBUG - 2012-12-31 20:40:11 --> Router Class Initialized
+ERROR - 2012-12-31 20:40:11 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:40:13 --> Config Class Initialized
+DEBUG - 2012-12-31 20:40:13 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:40:13 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:40:13 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:40:13 --> URI Class Initialized
+DEBUG - 2012-12-31 20:40:13 --> Router Class Initialized
+ERROR - 2012-12-31 20:40:13 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:40:24 --> Config Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:40:24 --> URI Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> Router Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> Output Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> Security Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> Input Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:40:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:40:24 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:40:24 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:40:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:40:24 --> Language Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:40:24 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> Session Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:40:24 --> Session routines successfully run
+DEBUG - 2012-12-31 20:40:24 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:40:24 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:40:24 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:40:24 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:40:24 --> Final output sent to browser
+DEBUG - 2012-12-31 20:40:24 --> Total execution time: 0.2864
+DEBUG - 2012-12-31 20:40:25 --> Config Class Initialized
+DEBUG - 2012-12-31 20:40:25 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:40:25 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:40:25 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:40:25 --> URI Class Initialized
+DEBUG - 2012-12-31 20:40:25 --> Router Class Initialized
+ERROR - 2012-12-31 20:40:25 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:40:28 --> Config Class Initialized
+DEBUG - 2012-12-31 20:40:28 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:40:28 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:40:28 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:40:28 --> URI Class Initialized
+DEBUG - 2012-12-31 20:40:28 --> Router Class Initialized
+ERROR - 2012-12-31 20:40:28 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:40:42 --> Config Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:40:42 --> URI Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> Router Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> Output Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> Security Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> Input Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:40:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:40:42 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:40:42 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:40:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:40:42 --> Language Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:40:42 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> Session Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:40:42 --> Session routines successfully run
+DEBUG - 2012-12-31 20:40:42 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:40:42 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:40:42 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:40:42 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:40:42 --> Final output sent to browser
+DEBUG - 2012-12-31 20:40:42 --> Total execution time: 0.2115
+DEBUG - 2012-12-31 20:40:43 --> Config Class Initialized
+DEBUG - 2012-12-31 20:40:43 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:40:43 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:40:43 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:40:43 --> URI Class Initialized
+DEBUG - 2012-12-31 20:40:43 --> Router Class Initialized
+ERROR - 2012-12-31 20:40:43 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:40:47 --> Config Class Initialized
+DEBUG - 2012-12-31 20:40:47 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:40:47 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:40:47 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:40:47 --> URI Class Initialized
+DEBUG - 2012-12-31 20:40:47 --> Router Class Initialized
+ERROR - 2012-12-31 20:40:47 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:41:00 --> Config Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:41:00 --> URI Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> Router Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:41:00 --> Output Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> Security Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> Input Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:00 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:00 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:41:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:41:00 --> Language Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:41:00 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> Session Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:41:00 --> Session routines successfully run
+DEBUG - 2012-12-31 20:41:00 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:41:00 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:41:00 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:41:00 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:41:00 --> Final output sent to browser
+DEBUG - 2012-12-31 20:41:00 --> Total execution time: 0.1960
+DEBUG - 2012-12-31 20:41:03 --> Config Class Initialized
+DEBUG - 2012-12-31 20:41:03 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:41:03 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:41:03 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:41:03 --> URI Class Initialized
+DEBUG - 2012-12-31 20:41:03 --> Router Class Initialized
+ERROR - 2012-12-31 20:41:03 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:41:04 --> Config Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:41:04 --> URI Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> Router Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> Output Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> Security Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> Input Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:04 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:04 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:41:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:41:04 --> Language Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:41:04 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> Session Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:41:04 --> Session routines successfully run
+DEBUG - 2012-12-31 20:41:04 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:41:04 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:41:04 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:41:04 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:41:04 --> Final output sent to browser
+DEBUG - 2012-12-31 20:41:04 --> Total execution time: 0.1637
+DEBUG - 2012-12-31 20:41:05 --> Config Class Initialized
+DEBUG - 2012-12-31 20:41:05 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:41:05 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:41:05 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:41:05 --> URI Class Initialized
+DEBUG - 2012-12-31 20:41:05 --> Router Class Initialized
+ERROR - 2012-12-31 20:41:05 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:41:26 --> Config Class Initialized
+DEBUG - 2012-12-31 20:41:26 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:41:26 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:41:26 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:41:26 --> URI Class Initialized
+DEBUG - 2012-12-31 20:41:26 --> Router Class Initialized
+ERROR - 2012-12-31 20:41:26 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:41:28 --> Config Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:41:28 --> URI Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> Router Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> No URI present. Default controller set.
+DEBUG - 2012-12-31 20:41:28 --> Output Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> Security Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> Input Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:28 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:28 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:41:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:41:28 --> Language Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:41:28 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> Session Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:41:28 --> Session routines successfully run
+DEBUG - 2012-12-31 20:41:28 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:41:28 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:41:28 --> File loaded: ../application/views/welcome/index.php
+DEBUG - 2012-12-31 20:41:28 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:41:28 --> Final output sent to browser
+DEBUG - 2012-12-31 20:41:28 --> Total execution time: 0.1897
+DEBUG - 2012-12-31 20:41:32 --> Config Class Initialized
+DEBUG - 2012-12-31 20:41:32 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:41:32 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:41:32 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:41:32 --> URI Class Initialized
+DEBUG - 2012-12-31 20:41:32 --> Router Class Initialized
+ERROR - 2012-12-31 20:41:32 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:41:34 --> Config Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:41:34 --> URI Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> Router Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> Output Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> Security Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> Input Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:34 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:34 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:41:34 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:41:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:41:34 --> Language Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:41:34 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> Session Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:41:34 --> Session routines successfully run
+DEBUG - 2012-12-31 20:41:34 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:41:34 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:41:34 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:41:34 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:41:34 --> Final output sent to browser
+DEBUG - 2012-12-31 20:41:34 --> Total execution time: 0.2756
+DEBUG - 2012-12-31 20:41:36 --> Config Class Initialized
+DEBUG - 2012-12-31 20:41:36 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:41:36 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:41:36 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:41:36 --> URI Class Initialized
+DEBUG - 2012-12-31 20:41:36 --> Router Class Initialized
+ERROR - 2012-12-31 20:41:36 --> 404 Page Not Found --> favicon.ico
+DEBUG - 2012-12-31 20:42:07 --> Config Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> Hooks Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> Utf8 Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> UTF-8 Support Enabled
+DEBUG - 2012-12-31 20:42:07 --> URI Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> Router Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> Output Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> Security Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> Input Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:42:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:42:07 --> XSS Filtering completed
+DEBUG - 2012-12-31 20:42:07 --> CRSF cookie Set
+DEBUG - 2012-12-31 20:42:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-12-31 20:42:07 --> Language Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> Loader Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> Helper loaded: url_helper
+DEBUG - 2012-12-31 20:42:07 --> Database Driver Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> Session Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> Helper loaded: string_helper
+DEBUG - 2012-12-31 20:42:07 --> Session routines successfully run
+DEBUG - 2012-12-31 20:42:07 --> Controller Class Initialized
+DEBUG - 2012-12-31 20:42:07 --> File loaded: ../application/views/templates/header.php
+DEBUG - 2012-12-31 20:42:07 --> File loaded: ../application/views/lists/index.php
+DEBUG - 2012-12-31 20:42:07 --> File loaded: ../application/views/templates/footer.php
+DEBUG - 2012-12-31 20:42:07 --> Final output sent to browser
+DEBUG - 2012-12-31 20:42:07 --> Total execution time: 0.1632

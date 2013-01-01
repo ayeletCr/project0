@@ -1,6 +1,6 @@
-<div data-role="footer">
+  <div data-role="footer">
   
-</div>
+  </div>
 
 </div>
 </body>

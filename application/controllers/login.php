@@ -15,6 +15,7 @@
         $this->load->view('login/index');
         $this->load->view('templates/footer');
       }
+      
       else {
         $this->load->view('templates/header', array('title' => 'Login Successful'));
         $this->load->view('login/success');
@@ -28,14 +29,17 @@
         $this->form_validation->set_message('username_check', 'The %s field is required.');
         return FALSE;
       }
+
       $this->db->select('username');
       $this->db->from('users');
       $this->db->where('username', $username);
       $result = $this->db->get()->result();
+      
       if ($result[0]->username != $username) {
         $this->form_validation->set_message('username_check', 'Invalid username.');
         return FALSE;
       }
+      
       else {
         return TRUE;
       }
@@ -47,6 +51,7 @@
         $this->form_validation->set_message('password_check', 'The %s field is required.');
         return FALSE;
       }
+      
       $this->db->select('password');
       $this->db->from('users');
       $this->db->where('username', $username);
@@ -56,6 +61,7 @@
         $this->form_validation->set_message('password_check', 'Invalid password.');
         return FALSE;
       }
+      
       else {
         $this->load->model('User');
         $this->User->login($username, $password);
