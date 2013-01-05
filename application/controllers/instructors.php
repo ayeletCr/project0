@@ -25,6 +25,7 @@
       }
       
       $this->load->view('templates/header', array('title' => 'Search by Instructor Name'));
+      $this->load->view('instructors/index');
       $this->load->view('instructors/result', array('instructors' => $instructors));
       $this->load->view('templates/footer');
     }

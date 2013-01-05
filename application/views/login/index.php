@@ -3,7 +3,6 @@
 <?php echo form_open($this->config->item('base_url') . 'login') ?>
 
   <div data-role="content">
-    
     <ul data-role="listview" data-inset="true">
       
       <li data-role="list-divider">Username</li>

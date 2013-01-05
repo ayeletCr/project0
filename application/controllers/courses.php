@@ -4,6 +4,8 @@
     
     public function course($courses) {
 
+      $this->load->helper(array('form', 'url'));
+      $this->load->library('form_validation');
       $this->load->model('Course');
       $this->load->model('Instructor');
       $this->load->model('Schedule');
@@ -12,36 +14,56 @@
       
       $courses = urldecode($courses);
       $course = $this->Course->get_courses($courses, 'course');
-      $departments = $this->Department->get_departments($course[0]->course_group);
-      $instructors = $this->Instructor->get_instructors($courses);
-      $schedules = $this->Schedule->get_schedules($courses);
       
-      if ($schedules) {
-        foreach($schedules as $schedule) {
-          $schedule->day = $this->map_day($schedule->day);
-        }
+      if (!$course) {
+        $this->load->view('templates/header', array('title' => 'Invalid Course'));
+        $this->load->view('templates/footer');
       }
+      else {
+        
+        $departments = $this->Department->get_departments($course[0]->course_group);
+        $instructors = $this->Instructor->get_instructors($courses);
+        $schedules = $this->Schedule->get_schedules($courses);
+        $taking = 0;
+        
+        if ($this->session->userdata('id')) {
+          $id = $this->session->userdata('id');
+          $courses_taking = $this->Course->get_courses_taking($id);
+          foreach ($courses_taking as $course_taking) {
+            if ($course_taking->cat_num == $course[0]->cat_num) {
+              $taking = 1;
+            }
+          }
+        }
+        
+        if ($schedules) {
+          foreach($schedules as $schedule) {
+            $schedule->day = $this->map_day($schedule->day);
+          }
+        }
 
-      $locations = $this->Location->get_locations($courses);
+        $locations = $this->Location->get_locations($courses);
       
-      $history = array($course[0]->cat_num);
-      if ($history) {
-        if ($this->session->userdata('history')) {
-          $session_history = $this->session->userdata('history');
-          $history = array_merge($session_history, $history);
+        $history = array($course[0]->cat_num);
+        if ($history) {
+          if ($this->session->userdata('history')) {
+            $session_history = $this->session->userdata('history');
+            $history = array_merge($session_history, $history);
+          }
+          $this->session->set_userdata('history', $history);
         }
-        $this->session->set_userdata('history', $history);
+        $this->session->set_userdata('last_page', 'courses/course/' . $course[0]->cat_num);
+        $this->load->view('courses/course', array(
+            'title' => $course[0]->title,
+            'course' => $course, 
+            'schedules' => $schedules,
+            'department' => $departments,
+            'locations' => $locations,
+            'instructor_names' => $this->format_instructors($instructors),
+            'taking' => $taking));
+        $this->load->view('templates/footer');
+    
       }
-      $this->session->set_userdata('last_page', 'courses/course/' . $course[0]->cat_num);
-      
-      $this->load->view('courses/course', array(
-          'title' => $course[0]->title,
-          'course' => $course, 
-          'schedules' => $schedules,
-          'department' => $departments,
-          'locations' => $locations,
-          'instructor_names' => $this->format_instructors($instructors)));
-      $this->load->view('templates/footer');
     }
   
     public function map_day($day) {

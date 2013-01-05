@@ -5,6 +5,7 @@
   <div data-role="content">
 
     <ul data-role="listview" data-inset="true">
+
       <li data-role="list-divider">Username</li>
       <li><?php $data = array(
           'name' => 'username',
