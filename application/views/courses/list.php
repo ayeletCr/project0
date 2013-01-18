@@ -1,5 +1,5 @@
 <ul data-role="listview" data-filter="true">
-
+  
   <?php if ($courses == ''): ?>
     <li>No courses found.</li>
   <?php else: ?>

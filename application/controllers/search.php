@@ -5,7 +5,7 @@
     public function index() {
       
       $this->load->view('templates/header', array('title' => 'Search for Courses'));
-  		  $this->load->view('search/index');
+  		  $this->load->view('search/index', array('error' => 0));
 		    $this->load->view('templates/footer');
     }
   
@@ -72,12 +72,12 @@
       }
       
       if ($error) {
-        $this->load->view('templates/header', array('title' => $error));
-        $this->load->view('search/index');
+        $this->load->view('templates/header', array('title' => 'Search for Courses'));
+        $this->load->view('search/index', array('error' => $error));
       }
       else {
         $this->load->view('templates/header', array('title' => 'Search for Courses'));
-        $this->load->view('search/index');
+        $this->load->view('search/index', array('error' => 0));
         $this->load->view('courses/list', array('courses' => $courses));
       }
 		    $this->load->view('templates/footer');

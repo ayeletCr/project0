@@ -91,3 +91,9 @@
   </div>
   
 </form>
+
+<div>
+  <?php if ($error): ?>
+    <?php echo $error ?>
+  <?php endif ?>
+</div>  

@@ -70,7 +70,7 @@
       <?php endif ?>
     </ul>
     
-    <div id="add_taking"
+    <div id="add_taking">
       <?php if ($this->session->userdata('id')): ?>
         
         <?php if (!$taking): ?>
