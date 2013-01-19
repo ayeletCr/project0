@@ -25,6 +25,7 @@
       $schedules = array();
       $keywords = array();
       $courses = array();
+      $relevance = array();
       $error = '';
       
       if (($minute_begin !== '0') || ($minute_end !== '0') || ($hour_begin != '0') || ($hour_end != '0')) {
@@ -53,18 +54,31 @@
 
       if ($schedules && $keywords) {
         $courses = array_intersect($keywords, $schedules);
+        foreach ($search_keyword as $course) {
+          if (in_array($course->cat_num, $courses)) {
+            $relevance[$course->cat_num] = $course->relevance;
+          }
+        }
       }
       else if ($schedules) {
         $courses = $schedules;
       }
       else if ($keywords) {
         $courses = $keywords;
+        foreach ($search_keyword as $course) {
+          if (in_array($course->cat_num, $courses)) {
+            $relevance[$course->cat_num] = $course->relevance;
+          }
+        }
       }
 
       if ($courses && !$error) {
         $courses = $this->Course->get_courses($courses, 'search');
         if (!$courses) {
           $courses = '';
+        }
+        else if ($relevance) {
+          $courses = $this->Course->sort_courses($courses, $relevance);
         }
       }
       else {

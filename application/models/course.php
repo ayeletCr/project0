@@ -9,18 +9,15 @@
       
       if ($type == 'course') {
         $this->db->where('cat_num', $courses);
-      }
-      
+      }      
       else if ($type == 'course_group') {
         foreach ($courses as $course) {
           $this->db->or_where('course_group', $course);
         }
       }
-      
       else if ($type == 'genedarea') {
         $this->db->like('notes', $courses, 'both');
       }
-      
       else if ($type == 'search') {
         foreach ($courses as $course) {
           $this->db->or_where('cat_num', $course);
@@ -78,18 +75,54 @@
       return $result;
     }
   
-    public function get_courses_keyword($keyword) {
+    public function get_courses_keyword($keywords) {
     
-      $this->db->select('cat_num');
-      $this->db->from('courses');
-      $this->db->like('title', $keyword, 'both');
-      $this->db->or_like('description', $keyword, 'both');
-      $this->db->or_like('cat_num', $keyword, 'both');
-      $this->db->group_by('cat_num');
-      $result = $this->db->get()->result();
-      if (!$result) {
-        $result[0]->cat_num = '';
+      $keywords = explode(' ', $keywords);
+      $courses = array();
+      $key = 0;
+      
+      foreach ($keywords as $i => $keyword) {
+        $this->db->select('cat_num, relevance');
+        $this->db->from('index');
+        $this->db->like('keyword', $keyword, 'both');
+        //$this->db->or_like('cat_num', $keyword, 'both');
+        $this->db->order_by('relevance', 'desc');
+        $result = $this->db->get()->result();
+        if (!$result) {
+          $result[$i]->cat_num = '';
+          $result[$i]->relevance = '';
+        }
+        
+        $results = array();
+        if ($courses) {
+          foreach ($result as $row) {
+            foreach ($courses as $course) {
+              if ($course->cat_num == $row->cat_num) {
+                $results[$key]->cat_num = $row->cat_num;
+                $results[$key]->relevance = $row->relevance + $course->relevance;
+                $key++;
+              }
+            }
+          }
+          $courses = $results;
+        }
+        else {
+          $courses = $result;
+        }
       }
-      return $result;
+      return $courses;
+    }
+    
+    public function sort_courses($courses, $relevance) {
+      
+      $sorted_courses = array();
+      foreach ($relevance as $cat_num => $number) {
+        foreach ($courses as $course) {
+          if ($course->cat_num == $cat_num) {
+            $sorted_courses[] = $course;
+          }
+        }
+      }
+      return $sorted_courses;
     }
   }
