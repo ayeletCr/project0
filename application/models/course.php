@@ -84,8 +84,13 @@
       foreach ($keywords as $i => $keyword) {
         $this->db->select('cat_num, relevance');
         $this->db->from('index');
-        $this->db->like('keyword', $keyword, 'both');
-        //$this->db->or_like('cat_num', $keyword, 'both');
+        if (is_numeric($keyword)) {
+          $this->db->where('cat_num', $keyword);
+          $this->db->or_where('keyword', $keyword);
+        }
+        else {
+          $this->db->like('keyword', $keyword, 'both');
+        }
         $this->db->order_by('relevance', 'desc');
         $result = $this->db->get()->result();
         if (!$result) {
