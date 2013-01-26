@@ -1,15 +1,15 @@
 <?php
 
   class Course extends CI_Model {
-    
-    public function get_courses($courses, $type) { 
-      
+
+    public function get_courses($courses, $type) {
+
       $this->db->distinct('cat_num, title, description, course_group');
       $this->db->from('courses');
-      
+
       if ($type == 'course') {
         $this->db->where('cat_num', $courses);
-      }      
+      }
       else if ($type == 'course_group') {
         foreach ($courses as $course) {
           $this->db->or_where('course_group', $course);
@@ -23,7 +23,7 @@
           $this->db->or_where('cat_num', $course);
         }
       }
-      
+
       $this->db->order_by('title asc');
       return $this->db->get()->result();
     }
@@ -35,17 +35,17 @@
       $this->db->where('instructor_id', $instructor);
       return $this->db->get()->result();
     }
-  
+
     public function get_courses_taking($id) {
-      
+
       $this->db->select('cat_num');
       $this->db->from('user_lists');
       $this->db->where('id', $id);
       return $this->db->get()->result();
     }
-    
+
     public function get_courses_schedule($day, $hour_begin, $hour_end, $minute_begin, $minute_end, $am_pm_begin, $am_pm_end) {
-    
+
       if ($am_pm_begin == '2') {
         $hour_begin = $hour_begin + 12;
       }
@@ -74,13 +74,32 @@
       }
       return $result;
     }
-  
+
     public function get_courses_keyword($keywords) {
-    
+
+      /*
+       * This would be better done in SQL with something like:
+
+SELECT i.cat_num, sum(relevance)
+FROM `index` i
+  INNER JOIN (SELECT cat_num, count(cat_num)
+    FROM `index`
+    WHERE keyword LIKE '%china%'
+      OR keyword LIKE '%west%'
+    GROUP BY cat_num
+    HAVING count(cat_num) = 2) g ON i.cat_num = g.cat_num
+WHERE keyword LIKE '%china%'
+  OR keyword LIKE '%west%'
+GROUP BY i.cat_num
+ORDER BY sum(relevance) DESC;
+
+       * But that's beyond the capability of Code Ignighter's query builder.
+       */
+
       $keywords = explode(' ', $keywords);
       $courses = array();
       $key = 0;
-      
+
       foreach ($keywords as $i => $keyword) {
         $this->db->select('cat_num, relevance');
         $this->db->from('index');
@@ -97,12 +116,16 @@
           $result[$i]->cat_num = '';
           $result[$i]->relevance = '';
         }
-        
+
         $results = array();
         if ($courses) {
           foreach ($result as $row) {
             foreach ($courses as $course) {
               if ($course->cat_num == $row->cat_num) {
+                if (empty($results[$key])) {
+                  $results[$key] = new stdClass();
+                }
+
                 $results[$key]->cat_num = $row->cat_num;
                 $results[$key]->relevance = $row->relevance + $course->relevance;
                 $key++;
