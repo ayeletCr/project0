@@ -117,17 +117,22 @@
       }
       return $courses;
     }
-    
+
     public function sort_courses($courses, $relevance) {
-      
-      $sorted_courses = array();
-      foreach ($relevance as $cat_num => $number) {
-        foreach ($courses as $course) {
-          if ($course->cat_num == $cat_num) {
-            $sorted_courses[] = $course;
-          }
+
+      usort($courses, function($course_a, $course_b) use ($relevance) {
+        $a = $relevance[$course_a->cat_num];
+        $b = $relevance[$course_b->cat_num];
+        if ($a < $b) {
+          return 1;
         }
-      }
-      return $sorted_courses;
-    }
+        if ($a > $b) {
+          return -1;
+        }
+        return 0;
+      });
+
+      return $courses;
   }
+
+}
